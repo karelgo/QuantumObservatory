@@ -150,6 +150,86 @@
     "qv_artifact": null
   },
   {
+    "id": "2026-07-11-mit-and-ibm-project-quantum-unity-operators-into-language-mo",
+    "date": "2026-07-11",
+    "category": "industry",
+    "title": "MIT and IBM Project Quantum Unity Operators into Language Model Latent Spaces for Multimodal Circuit Synthesis",
+    "summary": null,
+    "url": "https://quantumcomputingreport.com/mit-and-ibm-project-quantum-unity-operators-into-language-model-latent-spaces-for-multimodal-circuit-synthesis/",
+    "source": "quantum-computing-report",
+    "source_name": "Quantum Computing Report",
+    "published_at": "2026-07-11T04:43:58.000Z",
+    "also_at": [
+      {
+        "source": "gnews-quantum",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOaG1CakM2c0hsdTlqbndacW1oRWI5aEwzUDNmbVQtRF9nS0swLUN0YTlDNW5OLUZ6TXFFMnNsWHR1RThoM2dfMlVjcm1PbHpQRkg5SUlKS3RZNV9neWdzWDdOWTVWd2Z3OHlPYlV4N3VTZTJFTUI1ak4tZ2pSQVV2NVZoblBFQTdCdC04UUhZalJPUl9aYl8teV9kOGdLZ01VOF9oeDF1ZkVyMjdEbkd4NTFmSXNtUTQ5YjF3U0tCMVZ2UjllbnRkcmdZV3BZTnZUS2lGNXNMQlBHYlR2ejlR0gHkAUFVX3lxTE9vWks3NUV6VzhWXzZMQm5JMFJJRnpiQWpEdTZpT3lHUTdsZlNjcVpxa1l6WUN4NmlJVlFrQ0tleWlyVl9LVVZMNFlTT2ZsZ3JGOFR0LUYzSEpueGMtU2FpN3gzalBUOGpfN2ZuQXJpdEZpSHVDQmZENVZjd2pOcnNMQmpsR1kwUTRxNnY5TUtXYU8yS2tMUW5XendxM2tzcHBhUHBiaEZPeExOamFjc3c2WUVhLWtmZE1TM0NyN0hUeFBJbGJPeW9ROE9zT0dKLTVOSi1IaktTV1U3UHpZLXFZYnVFOQ?oc=5"
+      }
+    ],
+    "significance": 3,
+    "qv_device": null,
+    "qv_artifact": null
+  },
+  {
+    "id": "2026-07-11-eth-zurich-combines-superconducting-qubits-with-mechanical-r",
+    "date": "2026-07-11",
+    "category": "industry",
+    "title": "ETH Zurich Combines Superconducting Qubits with Mechanical Resonators to Build Vibrating Quantum RAM",
+    "summary": null,
+    "url": "https://quantumcomputingreport.com/eth-zurich-combines-superconducting-qubits-with-mechanical-resonators-to-build-vibrating-quantum-ram/",
+    "source": "quantum-computing-report",
+    "source_name": "Quantum Computing Report",
+    "published_at": "2026-07-11T04:28:25.000Z",
+    "also_at": [
+      {
+        "source": "gnews-quantum",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOd0dETU5GczVzb095bXEzRmlxMDdlLWlLX2xzbG94bVVCeWFPLTlMLV9lRnNyc3dPSk1HTHhiaVNoS1pEb2VGdDNVcXV6b0txcC04cDljU0hlWHAtWnQ5OEJkWmo4NzlRSDllRmJwcG5tOEFMaG5qRnBqeWxmalIzNmkwNTducWh5aTdqQTljYmZvUTNWV08yM0I4U1hwQWlFS01KT0k2ZjF4eG5VTGdrb2ZwVGZ3X2p3NEFlVHpESDlGZnJ4Yl9jZ3FtMzB4dUlFQ1HSAdcBQVVfeXFMTk5vc0xiZjc0eGdaNFo4djJuWU5qcVpkUVMyX2s5cE41MDRwamlVWWpCazdBVnlLT0xnZlBHVnNuLTNMNTZxWjduM2tLbmFIN0tXekxBQlE4SXgzSThhNGFoYW9Vb1JqNTJzei1GX3hnTTlTeGhMLUdUN1RDb3NIZDF1X09HMFpQUm1LQVJwVk82bXp1dnNrQ3lDb19xQ3p3UGkxSm9qMURjc2k5NkVyeFZKekRWSXRVRGRyQ2ppNnlmQnFmYlV5TWJhOWIwMFd0VDI1cEFjTmM?oc=5"
+      }
+    ],
+    "significance": 3,
+    "qv_device": null,
+    "qv_artifact": null
+  },
+  {
+    "id": "2026-07-11-google-and-fraunhofer-launch-global-calls-for-early-fault-to",
+    "date": "2026-07-11",
+    "category": "industry",
+    "title": "Google and Fraunhofer Launch Global Calls for Early Fault-Tolerant Algorithms and Enterprise Use Cases",
+    "summary": null,
+    "url": "https://quantumcomputingreport.com/google-and-fraunhofer-launch-global-calls-for-early-fault-tolerant-algorithms-and-enterprise-use-cases/",
+    "source": "quantum-computing-report",
+    "source_name": "Quantum Computing Report",
+    "published_at": "2026-07-11T04:15:38.000Z",
+    "also_at": [
+      {
+        "source": "gnews-quantum",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcFdYYWpnLXFOeDBrcGV3NFpFamxBRnJhZjVSRW1jRlBFbUJnRkgzc09TQmttc21sZ19INUxoUXpOcWNVUzUybGRqVThEYVVSUFpvNWktQVZEbERTY29CZDREMUwwem5ZTDJPLWxDU2pMWEdXVF9ZWEJlNnI5SjVDY2dSQXJsNFhLdndyMjFlbklIQW9Pb1hueDJoNWllZS1JVHhCaUZORWhva05za0ZQNEdLcEJEVVlZQmYtQkxUTzNkN0ZoWjBFU3IzT2JuYlA2dEpFSdIB2gFBVV95cUxQd0x3c0dnbjBNektsS1VScTVkeWZHSHc2c2ZSVExEZk8xdE9nYW1QejRQYk1LWFdoSzFsUEh1X1hOUFBjS0ZZbXZKYmxHTmtYM1VHZUVyMGExS19ET0U5WnhiYVREVmxOSW5VS0VoVzhCVnlJa19xdzFFcG1IWDEyMWVGQ1oyaW5rbzAxQ21xaXNQLVRIOEZuWnpCYzdXTWJlNldKZGhaVWJaNFRCbm00R1EtSHVFVmY5MnBLTjRNU0hxS0IySnhYM2F1SDFZRnBvaGdZdGJTZERCZw?oc=5"
+      }
+    ],
+    "significance": 3,
+    "qv_device": null,
+    "qv_artifact": null
+  },
+  {
+    "id": "2026-07-11-who-s-news-strategic-appointments-at-photonic-aliro-quantum-",
+    "date": "2026-07-11",
+    "category": "industry",
+    "title": "Who’s News: Strategic Appointments at Photonic, Aliro Quantum, Florida Atlantic University, QuSecure, Quantum Elements, and QAI Ventures",
+    "summary": null,
+    "url": "https://quantumcomputingreport.com/whos-news-strategic-appointments-at-photonic-aliro-quantum-florida-atlantic-university-qusecure-quantum-elements-and-qai-ventures/",
+    "source": "quantum-computing-report",
+    "source_name": "Quantum Computing Report",
+    "published_at": "2026-07-11T03:19:33.000Z",
+    "also_at": [
+      {
+        "source": "gnews-quantum",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNNkVnSWpqZFFLRjdkVXhrbXNIbDRmM0tHRlRCWklqOWZDaFhCYXBWZ3NMdWpqUTIzaFNuOGo3eWtxN2FPTWtvZ1JINU1uSXpyUV90Q05vaFZ4VGNTNWgzd3g5bTg0Mlo5d3loUFZkc1Q4bXdIWkltMjFlRTE0bU9QUngwXzFFZzI4SGljc2d6VF9UaFI5M0d4QTRNOXpjaG9UQ3hXMk9KRVJ2STJlYmpHc29oSjlyaU5yNXRjR2ZtQU9SVzV2NTFTQUpPQWJCdjg3d2VUOHhGdFdTTTRRSUlUWm5EZWt3eGc2WEFESmNfRWx5d0ZGVC1BdNIB_gFBVV95cUxNTW56Q3NYUkIxX2VSN2ozN1k5V0NKV0FRNjB1VW9PcmVVNzlxaWlsT281OWVsNHZOalVhZGF3bkRIbHk1U29UVHJ6Qy1XaVgtdmxOQlNlQTRab2hyY0plWEpfTXVEOUFDdmhTTTNiOXEyMVV2UFM5Uk5BNzMwTk1aeHY5MC1YU0VZMEZWZVN2OWVUaWtnRGFBbmZFN1VPc0VFUXU1a0I4TnhFdWU5NVpfbGxGMFhtQVVQTEVYYldraXo1WEk4SVdHaU15QU04ekpjY3dhMlpyeHJEdW9pMnluSmdZbTh4a2gtWWZLNFVMQWUzRU9mdE5LdzN0NE83UQ?oc=5"
+      }
+    ],
+    "significance": 3,
+    "qv_device": null,
+    "qv_artifact": null
+  },
+  {
     "id": "2026-07-11-eeroq-validates-cmos-controlled-electron-shuttling-on-superf",
     "date": "2026-07-11",
     "category": "industry",
@@ -254,66 +334,6 @@
     "source": "quantum-computing-report",
     "source_name": "Quantum Computing Report",
     "published_at": "2026-07-10T15:01:31.000Z",
-    "also_at": [],
-    "significance": 3,
-    "qv_device": null,
-    "qv_artifact": null
-  },
-  {
-    "id": "2026-07-11-sas-unveils-quantum-lab-on-viya-platform-combining-emulated-",
-    "date": "2026-07-11",
-    "category": "industry",
-    "title": "SAS Unveils Quantum Lab on Viya Platform, Combining Emulated Workloads with a “Physics-First” Auditing Approach",
-    "summary": null,
-    "url": "https://quantumcomputingreport.com/sas-unveils-quantum-lab-on-viya-platform-combining-emulated-workloads-with-a-physics-first-auditing-approach/",
-    "source": "quantum-computing-report",
-    "source_name": "Quantum Computing Report",
-    "published_at": "2026-07-10T05:25:29.000Z",
-    "also_at": [],
-    "significance": 3,
-    "qv_device": null,
-    "qv_artifact": null
-  },
-  {
-    "id": "2026-07-11-shanghai-quantum-sensing-intelligence-secures-tens-of-millio",
-    "date": "2026-07-11",
-    "category": "industry",
-    "title": "Shanghai Quantum Sensing Intelligence Secures Tens of Millions of Yuan in Angel Round to Scale Photonic Sensing Infrastructure",
-    "summary": null,
-    "url": "https://quantumcomputingreport.com/shanghai-quantum-sensing-intelligence-secures-tens-of-millions-of-yuan-in-angel-round-to-scale-photonic-sensing-infrastructure/",
-    "source": "quantum-computing-report",
-    "source_name": "Quantum Computing Report",
-    "published_at": "2026-07-10T04:58:03.000Z",
-    "also_at": [],
-    "significance": 3,
-    "qv_device": null,
-    "qv_artifact": null
-  },
-  {
-    "id": "2026-07-11-qiz-security-raises-17m-seed-round-to-scale-enterprise-crypt",
-    "date": "2026-07-11",
-    "category": "industry",
-    "title": "QIZ Security Raises $17M Seed Round to Scale Enterprise Cryptographic Posture Platforms",
-    "summary": null,
-    "url": "https://quantumcomputingreport.com/qiz-security-raises-17m-seed-round-to-scale-enterprise-cryptographic-posture-platforms/",
-    "source": "quantum-computing-report",
-    "source_name": "Quantum Computing Report",
-    "published_at": "2026-07-10T04:33:41.000Z",
-    "also_at": [],
-    "significance": 3,
-    "qv_device": null,
-    "qv_artifact": null
-  },
-  {
-    "id": "2026-07-11-amsterdam-s-qdnl-participations-rebrands-as-ground-state-ven",
-    "date": "2026-07-11",
-    "category": "industry",
-    "title": "Amsterdam’s QDNL Participations Rebrands as Ground State Ventures, Secures Over €75.2M for Early-Stage Quantum Fund",
-    "summary": null,
-    "url": "https://quantumcomputingreport.com/amsterdams-qdnl-participations-rebrands-as-ground-state-ventures-secures-over-e75-2m-for-early-stage-quantum-fund/",
-    "source": "quantum-computing-report",
-    "source_name": "Quantum Computing Report",
-    "published_at": "2026-07-10T04:15:45.000Z",
     "also_at": [],
     "significance": 3,
     "qv_device": null,
@@ -680,60 +700,15 @@
     "qv_artifact": null
   },
   {
-    "id": "2026-07-11-mit-and-ibm-project-quantum-unity-operators-into-language-mo",
+    "id": "2026-07-11-d-wave-quantum-qbts-us-3-quantum-computing-stocks-that-could",
     "date": "2026-07-11",
     "category": "industry",
-    "title": "MIT and IBM Project Quantum Unity Operators into Language Model Latent Spaces for Multimodal Circuit Synthesis - Quantum Computing Report",
+    "title": "$D-Wave Quantum (QBTS.US)$ 3 Quantum Computing Stocks That Could Outperform the Market - Moomoo",
     "summary": null,
-    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOaG1CakM2c0hsdTlqbndacW1oRWI5aEwzUDNmbVQtRF9nS0swLUN0YTlDNW5OLUZ6TXFFMnNsWHR1RThoM2dfMlVjcm1PbHpQRkg5SUlKS3RZNV9neWdzWDdOWTVWd2Z3OHlPYlV4N3VTZTJFTUI1ak4tZ2pSQVV2NVZoblBFQTdCdC04UUhZalJPUl9aYl8teV9kOGdLZ01VOF9oeDF1ZkVyMjdEbkd4NTFmSXNtUTQ5YjF3U0tCMVZ2UjllbnRkcmdZV3BZTnZUS2lGNXNMQlBHYlR2ejlR0gHkAUFVX3lxTE9vWks3NUV6VzhWXzZMQm5JMFJJRnpiQWpEdTZpT3lHUTdsZlNjcVpxa1l6WUN4NmlJVlFrQ0tleWlyVl9LVVZMNFlTT2ZsZ3JGOFR0LUYzSEpueGMtU2FpN3gzalBUOGpfN2ZuQXJpdEZpSHVDQmZENVZjd2pOcnNMQmpsR1kwUTRxNnY5TUtXYU8yS2tMUW5XendxM2tzcHBhUHBiaEZPeExOamFjc3c2WUVhLWtmZE1TM0NyN0hUeFBJbGJPeW9ROE9zT0dKLTVOSi1IaktTV1U3UHpZLXFZYnVFOQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaElmRkFoZzV0UUZ4M18yN2w5WGtfdkdya3R6dUVfeGItVTdaNnFoU2JQQ3hXbVZLSzhNYUYxZ0FiQ0dreHBsOEc0Q2hOWVR0azg3SlpSb1pMNnBxWmJXMnZiUjBjTXRsVjd0amRMVmxZUmVSZGIwWlFidURfei1yRENITEV5YjJvOXp6ODBqTzNUVHBZWVhSN3NqSFNVVXlRa0paQlJvV0VRbUd6?oc=5",
     "source": "gnews-quantum",
     "source_name": "Google News — quantum computing",
-    "published_at": "2026-07-11T04:44:01.000Z",
-    "also_at": [],
-    "significance": 2,
-    "qv_device": null,
-    "qv_artifact": null
-  },
-  {
-    "id": "2026-07-11-eth-zurich-combines-superconducting-qubits-with-mechanical-r",
-    "date": "2026-07-11",
-    "category": "industry",
-    "title": "ETH Zurich Combines Superconducting Qubits with Mechanical Resonators to Build Vibrating Quantum RAM - Quantum Computing Report",
-    "summary": null,
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOd0dETU5GczVzb095bXEzRmlxMDdlLWlLX2xzbG94bVVCeWFPLTlMLV9lRnNyc3dPSk1HTHhiaVNoS1pEb2VGdDNVcXV6b0txcC04cDljU0hlWHAtWnQ5OEJkWmo4NzlRSDllRmJwcG5tOEFMaG5qRnBqeWxmalIzNmkwNTducWh5aTdqQTljYmZvUTNWV08yM0I4U1hwQWlFS01KT0k2ZjF4eG5VTGdrb2ZwVGZ3X2p3NEFlVHpESDlGZnJ4Yl9jZ3FtMzB4dUlFQ1HSAdcBQVVfeXFMTk5vc0xiZjc0eGdaNFo4djJuWU5qcVpkUVMyX2s5cE41MDRwamlVWWpCazdBVnlLT0xnZlBHVnNuLTNMNTZxWjduM2tLbmFIN0tXekxBQlE4SXgzSThhNGFoYW9Vb1JqNTJzei1GX3hnTTlTeGhMLUdUN1RDb3NIZDF1X09HMFpQUm1LQVJwVk82bXp1dnNrQ3lDb19xQ3p3UGkxSm9qMURjc2k5NkVyeFZKekRWSXRVRGRyQ2ppNnlmQnFmYlV5TWJhOWIwMFd0VDI1cEFjTmM?oc=5",
-    "source": "gnews-quantum",
-    "source_name": "Google News — quantum computing",
-    "published_at": "2026-07-11T04:28:27.000Z",
-    "also_at": [],
-    "significance": 2,
-    "qv_device": null,
-    "qv_artifact": null
-  },
-  {
-    "id": "2026-07-11-google-and-fraunhofer-launch-global-calls-for-early-fault-to",
-    "date": "2026-07-11",
-    "category": "industry",
-    "title": "Google and Fraunhofer Launch Global Calls for Early Fault-Tolerant Algorithms and Enterprise Use Cases - Quantum Computing Report",
-    "summary": null,
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcFdYYWpnLXFOeDBrcGV3NFpFamxBRnJhZjVSRW1jRlBFbUJnRkgzc09TQmttc21sZ19INUxoUXpOcWNVUzUybGRqVThEYVVSUFpvNWktQVZEbERTY29CZDREMUwwem5ZTDJPLWxDU2pMWEdXVF9ZWEJlNnI5SjVDY2dSQXJsNFhLdndyMjFlbklIQW9Pb1hueDJoNWllZS1JVHhCaUZORWhva05za0ZQNEdLcEJEVVlZQmYtQkxUTzNkN0ZoWjBFU3IzT2JuYlA2dEpFSdIB2gFBVV95cUxQd0x3c0dnbjBNektsS1VScTVkeWZHSHc2c2ZSVExEZk8xdE9nYW1QejRQYk1LWFdoSzFsUEh1X1hOUFBjS0ZZbXZKYmxHTmtYM1VHZUVyMGExS19ET0U5WnhiYVREVmxOSW5VS0VoVzhCVnlJa19xdzFFcG1IWDEyMWVGQ1oyaW5rbzAxQ21xaXNQLVRIOEZuWnpCYzdXTWJlNldKZGhaVWJaNFRCbm00R1EtSHVFVmY5MnBLTjRNU0hxS0IySnhYM2F1SDFZRnBvaGdZdGJTZERCZw?oc=5",
-    "source": "gnews-quantum",
-    "source_name": "Google News — quantum computing",
-    "published_at": "2026-07-11T04:15:41.000Z",
-    "also_at": [],
-    "significance": 2,
-    "qv_device": null,
-    "qv_artifact": null
-  },
-  {
-    "id": "2026-07-11-who-s-news-strategic-appointments-at-photonic-aliro-quantum-",
-    "date": "2026-07-11",
-    "category": "industry",
-    "title": "Who’s News: Strategic Appointments at Photonic, Aliro Quantum, Florida Atlantic University, QuSecure, Quantum Elements, and QAI Ventures - Quantum Computing Report",
-    "summary": null,
-    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNNkVnSWpqZFFLRjdkVXhrbXNIbDRmM0tHRlRCWklqOWZDaFhCYXBWZ3NMdWpqUTIzaFNuOGo3eWtxN2FPTWtvZ1JINU1uSXpyUV90Q05vaFZ4VGNTNWgzd3g5bTg0Mlo5d3loUFZkc1Q4bXdIWkltMjFlRTE0bU9QUngwXzFFZzI4SGljc2d6VF9UaFI5M0d4QTRNOXpjaG9UQ3hXMk9KRVJ2STJlYmpHc29oSjlyaU5yNXRjR2ZtQU9SVzV2NTFTQUpPQWJCdjg3d2VUOHhGdFdTTTRRSUlUWm5EZWt3eGc2WEFESmNfRWx5d0ZGVC1BdNIB_gFBVV95cUxNTW56Q3NYUkIxX2VSN2ozN1k5V0NKV0FRNjB1VW9PcmVVNzlxaWlsT281OWVsNHZOalVhZGF3bkRIbHk1U29UVHJ6Qy1XaVgtdmxOQlNlQTRab2hyY0plWEpfTXVEOUFDdmhTTTNiOXEyMVV2UFM5Uk5BNzMwTk1aeHY5MC1YU0VZMEZWZVN2OWVUaWtnRGFBbmZFN1VPc0VFUXU1a0I4TnhFdWU5NVpfbGxGMFhtQVVQTEVYYldraXo1WEk4SVdHaU15QU04ekpjY3dhMlpyeHJEdW9pMnluSmdZbTh4a2gtWWZLNFVMQWUzRU9mdE5LdzN0NE83UQ?oc=5",
-    "source": "gnews-quantum",
-    "source_name": "Google News — quantum computing",
-    "published_at": "2026-07-11T03:20:48.000Z",
+    "published_at": "2026-07-11T05:48:29.000Z",
     "also_at": [],
     "significance": 2,
     "qv_device": null,
@@ -824,21 +799,6 @@
     "source": "gnews-quantum",
     "source_name": "Google News — quantum computing",
     "published_at": "2026-07-10T21:44:00.000Z",
-    "also_at": [],
-    "significance": 2,
-    "qv_device": null,
-    "qv_artifact": null
-  },
-  {
-    "id": "2026-07-11-white-house-backs-nine-quantum-companies-with-2b-in-incentiv",
-    "date": "2026-07-11",
-    "category": "industry",
-    "title": "White House Backs Nine Quantum Companies With $2B In Incentives - Quantum Zeitgeist",
-    "summary": null,
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdEpDWjBEU1ducS1TeGFLYnJNcnU2LXZpSm5jdFc3NXN2VndxNVVNU05ISENuaGFnallveldDd3BFanJOSVZycDR1TjM1My1MR0VDVG0xN2RKNkE0YUJCb3A1dERGTWR2dFBDMkFGaWdOaVJ1S3BtVFMyTURkcTd1amxR?oc=5",
-    "source": "gnews-quantum",
-    "source_name": "Google News — quantum computing",
-    "published_at": "2026-07-10T21:32:44.000Z",
     "also_at": [],
     "significance": 2,
     "qv_device": null,

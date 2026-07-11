@@ -38,6 +38,22 @@ function text(v: unknown): string {
   return '';
 }
 
+/**
+ * Plain-text excerpt from a description/summary field. Used ONLY as
+ * grounding context for the classifier — never persisted, never rendered
+ * (the Observatory does not republish article text).
+ */
+function excerptOf(v: unknown): string | undefined {
+  const raw = text(v);
+  if (!raw) return undefined;
+  const plain = raw
+    .replace(/<[^>]+>/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+  if (!plain) return undefined;
+  return plain.length > 600 ? `${plain.slice(0, 600)}…` : plain;
+}
+
 function asArray<T>(v: T | T[] | undefined): T[] {
   if (v == null) return [];
   return Array.isArray(v) ? v : [v];
@@ -63,7 +79,7 @@ function rssEntry(item: Record<string, unknown>): RawEntry | null {
   const publishedAt =
     parseDate(item.pubDate) ?? parseDate(item['dc:date']) ?? parseDate(item.date);
   if (!title || !url || !publishedAt) return null;
-  return { title, url, publishedAt };
+  return { title, url, publishedAt, excerpt: excerptOf(item.description) };
 }
 
 function atomEntry(entry: Record<string, unknown>): RawEntry | null {
@@ -71,7 +87,27 @@ function atomEntry(entry: Record<string, unknown>): RawEntry | null {
   const url = atomLink(entry.link);
   const publishedAt = parseDate(entry.published) ?? parseDate(entry.updated);
   if (!title || !url || !publishedAt) return null;
-  return { title, url, publishedAt };
+  return { title, url, publishedAt, excerpt: excerptOf(entry.summary) };
+}
+
+function parseEntries(xml: string): RawEntry[] {
+  const doc = parser.parse(xml);
+  if (doc.rss?.channel) {
+    return asArray(doc.rss.channel.item as Record<string, unknown>[])
+      .map(rssEntry)
+      .filter((e): e is RawEntry => e !== null);
+  }
+  if (doc.feed) {
+    return asArray(doc.feed.entry as Record<string, unknown>[])
+      .map(atomEntry)
+      .filter((e): e is RawEntry => e !== null);
+  }
+  if (doc['rdf:RDF']) {
+    return asArray(doc['rdf:RDF'].item as Record<string, unknown>[])
+      .map(rssEntry)
+      .filter((e): e is RawEntry => e !== null);
+  }
+  throw new Error('unrecognized feed format (not RSS/Atom/RDF)');
 }
 
 /**
@@ -89,31 +125,22 @@ export async function fetchFeed(url: string): Promise<RawEntry[]> {
     redirect: 'follow',
   });
   if (!res.ok) throw new Error(`HTTP ${res.status}`);
-  let xml = await res.text();
-  // We only need title/link/date. Strip article bodies before parsing —
-  // they are huge, entity-heavy (tripping the parser's entity-expansion
-  // guard on GitHub/WordPress feeds), and republishing them is against
-  // the Observatory's editorial rules anyway.
-  xml = xml
-    .replace(/<content(?::encoded)?[\s>][\s\S]*?<\/content(?::encoded)?>/g, '')
-    .replace(/<summary[\s>][\s\S]*?<\/summary>/g, '')
-    .replace(/<description[\s>][\s\S]*?<\/description>/g, '');
-  const doc = parser.parse(xml);
+  const raw = await res.text();
 
-  if (doc.rss?.channel) {
-    return asArray(doc.rss.channel.item as Record<string, unknown>[])
-      .map(rssEntry)
-      .filter((e): e is RawEntry => e !== null);
+  // Full article bodies are huge, entity-heavy (they trip the parser's
+  // entity-expansion guard on GitHub/WordPress feeds), and republishing
+  // them is against the editorial rules — strip them before parsing.
+  // Keep <summary>/<description>: they feed classifier excerpts. If a
+  // feed's descriptions alone still exceed the entity guard, retry with
+  // everything stripped and lose the excerpts for that feed only.
+  const xml = raw.replace(/<content(?::encoded)?[\s>][\s\S]*?<\/content(?::encoded)?>/g, '');
+  try {
+    return parseEntries(xml);
+  } catch (err) {
+    if (!(err instanceof Error) || !/entity/i.test(err.message)) throw err;
+    const bare = xml
+      .replace(/<summary[\s>][\s\S]*?<\/summary>/g, '')
+      .replace(/<description[\s>][\s\S]*?<\/description>/g, '');
+    return parseEntries(bare);
   }
-  if (doc.feed) {
-    return asArray(doc.feed.entry as Record<string, unknown>[])
-      .map(atomEntry)
-      .filter((e): e is RawEntry => e !== null);
-  }
-  if (doc['rdf:RDF']) {
-    return asArray(doc['rdf:RDF'].item as Record<string, unknown>[])
-      .map(rssEntry)
-      .filter((e): e is RawEntry => e !== null);
-  }
-  throw new Error('unrecognized feed format (not RSS/Atom/RDF)');
 }

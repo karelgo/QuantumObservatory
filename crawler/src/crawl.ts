@@ -2,8 +2,10 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import YAML from 'yaml';
+import { classifyItems, hasCredentials, type ClassifierInput } from './classify.js';
 import { fetchFeed } from './feeds.js';
-import type { Item, Registry, SourceConfig, SourceHealth } from './types.js';
+import { writePublicFeeds } from './publish.js';
+import type { Item, RawEntry, Registry, SourceConfig, SourceHealth } from './types.js';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..', '..');
 const DATA_DIR = path.join(ROOT, 'data');
@@ -45,8 +47,16 @@ function todayUTC(): string {
   return new Date().toISOString().slice(0, 10);
 }
 
-function loadSeenUrls(days: number): Set<string> {
-  const seen = new Set<string>();
+interface Seen {
+  urls: Set<string>;
+  /** Title cluster keys — catches re-fetched stories whose URL shifted
+   *  (Google News rotates its redirect URLs between fetches). */
+  clusters: Set<string>;
+  ids: Set<string>;
+}
+
+function loadSeen(days: number): Seen {
+  const seen: Seen = { urls: new Set(), clusters: new Set(), ids: new Set() };
   if (!fs.existsSync(ITEMS_DIR)) return seen;
   const cutoff = new Date(Date.now() - days * 86_400_000).toISOString().slice(0, 10);
   for (const file of fs.readdirSync(ITEMS_DIR)) {
@@ -54,8 +64,12 @@ function loadSeenUrls(days: number): Set<string> {
     if (date < cutoff) continue;
     const items: Item[] = JSON.parse(fs.readFileSync(path.join(ITEMS_DIR, file), 'utf8'));
     for (const item of items) {
-      seen.add(item.url);
-      for (const a of item.also_at) seen.add(a.url);
+      seen.urls.add(item.url);
+      for (const a of item.also_at) seen.urls.add(a.url);
+      // Stored titles may or may not carry a publisher suffix — index both.
+      seen.clusters.add(clusterKey(item.title, false));
+      seen.clusters.add(clusterKey(item.title, true));
+      seen.ids.add(item.id);
     }
   }
   return seen;
@@ -64,7 +78,7 @@ function loadSeenUrls(days: number): Set<string> {
 async function crawlSource(
   source: SourceConfig,
   cutoff: Date,
-): Promise<{ health: SourceHealth; entries: { title: string; url: string; publishedAt: Date }[] }> {
+): Promise<{ health: SourceHealth; entries: RawEntry[] }> {
   const fetched_at = new Date().toISOString();
   try {
     const all = await fetchFeed(source.url);
@@ -106,23 +120,26 @@ async function main() {
 
   console.log(`Crawling ${registry.sources.length} sources (lookback ${lookbackDays}d, cutoff ${cutoff.toISOString()})`);
 
-  const seenUrls = loadSeenUrls(14);
+  const seen = loadSeen(14);
   const results = await Promise.all(registry.sources.map((s) => crawlSource(s, cutoff)));
 
-  // Assemble items with per-run URL and title-cluster dedupe.
+  // Assemble items with URL and title-cluster dedupe, both within this
+  // run and against the last 14 days of committed data.
   // Registry order matters: earlier (curated) sources win clusters over
   // later (discovered) ones, so put discovery feeds last in sources.yaml.
   const byUrl = new Map<string, Item>();
   const byCluster = new Map<string, Item>();
-  const usedIds = new Set<string>();
+  const usedIds = new Set<string>(seen.ids);
 
   for (let i = 0; i < registry.sources.length; i++) {
     const source = registry.sources[i];
     for (const entry of results[i].entries) {
       const url = canonicalUrl(entry.url);
-      if (seenUrls.has(url) || byUrl.has(url)) continue;
+      if (seen.urls.has(url) || byUrl.has(url)) continue;
 
       const key = clusterKey(entry.title, source.discovered ?? false);
+      if (seen.clusters.has(key)) continue; // already reported on a prior day/run
+
       const existing = byCluster.get(key);
       if (existing) {
         existing.also_at.push({ source: source.id, url });
@@ -159,7 +176,51 @@ async function main() {
   // Merge with anything already written for today (re-runs are additive).
   const dayFile = path.join(ITEMS_DIR, `${date}.json`);
   const existing: Item[] = fs.existsSync(dayFile) ? JSON.parse(fs.readFileSync(dayFile, 'utf8')) : [];
-  const merged = [...existing, ...newItems].sort(
+  let merged = [...existing, ...newItems];
+
+  // ── Classification (Claude API, structured outputs) ──────────────
+  // Default: classify this run's new items. --reclassify additionally
+  // retries anything without a summary (backfill). --no-llm skips.
+  const noLlm = process.argv.includes('--no-llm');
+  const reclassify = process.argv.includes('--reclassify');
+  const newIds = new Set(newItems.map((i) => i.id));
+  const targets = merged.filter((i) => newIds.has(i.id) || (reclassify && i.summary === null));
+
+  if (noLlm || !hasCredentials()) {
+    if (targets.length > 0 && !noLlm) {
+      console.log('\nNo ANTHROPIC_API_KEY — keeping heuristic categories, no summaries.');
+    }
+  } else if (targets.length > 0) {
+    // Grounding excerpts come from this run's fetched feeds, matched by
+    // URL (they are never persisted). Older backfill items may miss.
+    const excerptByUrl = new Map<string, string>();
+    for (const r of results) {
+      for (const e of r.entries) {
+        if (e.excerpt) excerptByUrl.set(canonicalUrl(e.url), e.excerpt);
+      }
+    }
+    const sourceById = new Map(registry.sources.map((s) => [s.id, s]));
+    const inputs: ClassifierInput[] = targets.map((i) => ({
+      id: i.id,
+      title: i.title,
+      source_name: i.source_name,
+      category_hint: sourceById.get(i.source)?.category_hint ?? i.category,
+      excerpt: excerptByUrl.get(i.url),
+    }));
+
+    console.log(`\nClassifying ${inputs.length} items…`);
+    const classified = await classifyItems(inputs);
+    for (const item of merged) {
+      const c = classified.get(item.id);
+      if (!c) continue;
+      item.category = c.category;
+      item.summary = c.summary;
+      item.significance = c.significance;
+    }
+    console.log(`  ${classified.size}/${inputs.length} classified (${[...classified.values()].filter((c) => c.summary).length} with summaries)`);
+  }
+
+  merged = merged.sort(
     (a, b) => b.significance - a.significance || a.category.localeCompare(b.category),
   );
 
@@ -185,6 +246,9 @@ async function main() {
 
   const health = results.map((r) => r.health);
   fs.writeFileSync(path.join(DATA_DIR, 'health.json'), JSON.stringify({ date, sources: health }, null, 2) + '\n');
+
+  // Machine-readable feeds: /pulse.json (the QuantumVerse contract) + RSS.
+  writePublicFeeds(ROOT);
 
   for (const h of health) {
     console.log(

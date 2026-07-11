@@ -1,0 +1,72 @@
+# The daily measurement. Crawls all sources, classifies new items with
+# the Claude API (ANTHROPIC_API_KEY repo secret — without it the crawl
+# still runs, heuristics only), and commits the day's data back.
+# A failed run opens an issue instead of failing silently.
+
+name: Daily crawl
+
+on:
+  schedule:
+    - cron: '0 6 * * *' # 06:00 UTC daily
+  workflow_dispatch:
+    inputs:
+      reclassify:
+        description: 'Also retry items that have no summary yet'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: daily-crawl
+  cancel-in-progress: false
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Crawl and classify
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          if [ "${{ inputs.reclassify }}" = "true" ]; then
+            npm run crawl -- --reclassify
+          else
+            npm run crawl
+          fi
+
+      - name: Commit data
+        run: |
+          git config user.name "observatory-crawler"
+          git config user.email "actions@users.noreply.github.com"
+          git add data web/public/pulse.json web/public/feed.xml
+          if git diff --staged --quiet; then
+            echo "No new items today."
+          else
+            git commit -m "Daily crawl: $(date -u +%F)"
+            git push
+          fi
+
+      - name: Open issue on failure
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue create \
+            --repo "$GITHUB_REPOSITORY" \
+            --title "Daily crawl failed on $(date -u +%F)" \
+            --body "The scheduled crawl failed. See the run log: $GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID" \
+            || true

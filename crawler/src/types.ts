@@ -47,6 +47,8 @@ export interface RawEntry {
   title: string;
   url: string;
   publishedAt: Date;
+  /** Classifier grounding context only — never persisted or rendered. */
+  excerpt?: string;
 }
 
 export interface SourceHealth {

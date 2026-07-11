@@ -65,43 +65,61 @@ a:hover {
 .page {
   max-width: 44rem;
   margin: 0 auto;
-  padding: clamp(1.25rem, 4vw, 3rem) clamp(1rem, 4vw, 1.5rem) 2rem;
+  padding-inline: clamp(1rem, 4vw, 1.5rem);
 }
 
-/* ── Masthead ─────────────────────────────────────────── */
+/* ── Masthead (shared, in the layout) ─────────────────── */
 
-.masthead {
+header.masthead {
+  padding-top: clamp(1.25rem, 4vw, 2.5rem);
+  padding-bottom: 1.1rem;
   border-bottom: 1px solid var(--line);
-  padding-bottom: 1.25rem;
-  margin-bottom: 2rem;
 }
 
-.masthead h1 {
+.site-title {
   font-family: var(--serif);
   font-weight: 600;
   font-size: clamp(1.7rem, 5vw, 2.4rem);
   letter-spacing: -0.01em;
+  line-height: 1.15;
   margin: 0;
 }
 
-.masthead h1 a {
+.site-title a {
   color: var(--ink);
 }
 
-.masthead .tagline {
+.tagline {
   color: var(--muted);
   margin: 0.35rem 0 0;
   font-size: 0.95rem;
 }
 
-.masthead .dateline {
+.site-nav {
+  margin-top: 0.9rem;
   font-family: var(--mono);
   font-size: 0.8rem;
-  color: var(--muted);
-  margin: 0.8rem 0 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.1rem;
 }
 
-.masthead .dateline strong {
+/* ── Page body ────────────────────────────────────────── */
+
+main.page {
+  padding-top: 1.6rem;
+  padding-bottom: 2rem;
+}
+
+h1.dateline {
+  font-family: var(--mono);
+  font-size: 0.85rem;
+  font-weight: 400;
+  color: var(--muted);
+  margin: 0 0 1.8rem;
+}
+
+h1.dateline strong {
   color: var(--ink);
   font-weight: 600;
 }
@@ -118,7 +136,6 @@ a:hover {
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.09em;
-  color: var(--muted);
   border-bottom: 1px solid var(--line);
   padding-bottom: 0.4rem;
   margin: 0 0 0.9rem;
@@ -127,11 +144,16 @@ a:hover {
   align-items: baseline;
 }
 
+.category > h2 a {
+  color: var(--muted);
+}
+
 .category > h2 .count {
   font-family: var(--mono);
   font-weight: 400;
   letter-spacing: 0;
   text-transform: none;
+  color: var(--muted);
 }
 
 .item {
@@ -166,6 +188,70 @@ a:hover {
   max-width: 65ch;
 }
 
+/* ── Day navigation ───────────────────────────────────── */
+
+.day-nav {
+  display: flex;
+  justify-content: space-between;
+  font-family: var(--mono);
+  font-size: 0.85rem;
+  border-top: 1px solid var(--line);
+  padding-top: 1rem;
+  margin-top: 2rem;
+}
+
+.day-nav .newer {
+  margin-left: auto;
+}
+
+/* ── Sources ──────────────────────────────────────────── */
+
+.health-ok {
+  color: var(--good);
+  font-family: var(--mono);
+  font-size: 0.85em;
+}
+
+.health-fail {
+  color: var(--muted);
+  font-family: var(--mono);
+  font-size: 0.85em;
+}
+
+.prose-note {
+  color: var(--muted);
+  font-size: 0.9rem;
+  max-width: 65ch;
+  margin: -0.8rem 0 1.6rem;
+}
+
+/* ── Prose pages (about) ──────────────────────────────── */
+
+.prose p,
+.prose ul {
+  max-width: 65ch;
+}
+
+.prose h2 {
+  font-family: var(--serif);
+  font-weight: 600;
+  font-size: 1.25rem;
+  margin: 1.8rem 0 0.5rem;
+}
+
+.prose li {
+  margin-bottom: 0.3rem;
+}
+
+.prose code {
+  font-family: var(--mono);
+  font-size: 0.85em;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 3px;
+  padding: 0.05em 0.3em;
+}
+
 /* ── Empty state ──────────────────────────────────────── */
 
 .empty {
@@ -177,7 +263,7 @@ a:hover {
 
 .site-footer {
   max-width: 44rem;
-  margin: 3rem auto 0;
+  margin: 2rem auto 0;
   padding: 1.25rem clamp(1rem, 4vw, 1.5rem) 2.5rem;
   border-top: 1px solid var(--line);
   color: var(--muted);
