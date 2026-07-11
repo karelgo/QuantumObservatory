@@ -5,7 +5,7 @@
     <link>https://github.com/karelgo/QuantumObservatory</link>
     <description>Everything that happened in quantum computing, collapsed into one daily digest. A QuantumVerse sister project.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 11 Jul 2026 06:09:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 15:35:52 GMT</lastBuildDate>
     <item>
       <title>Top Diamond NV-Centre Quantum Computing Companies in 2026</title>
       <link>https://thequantuminsider.com/2026/07/10/8-quantum-computing-companies-working-with-nv-centre-in-diamond-technology/</link>
@@ -167,6 +167,14 @@
       <description>via Quantum Computing Report</description>
     </item>
     <item>
+      <title>Why Quantum Computing Needs Strong Ecosystems to Scale</title>
+      <link>https://thequantuminsider.com/2026/07/11/why-quantum-computing-needs-national-ecosystems-to-scale/</link>
+      <guid isPermaLink="false">2026-07-11-why-quantum-computing-needs-strong-ecosystems-to-scale</guid>
+      <pubDate>Sat, 11 Jul 2026 07:49:00 GMT</pubDate>
+      <category>industry</category>
+      <description>via The Quantum Insider</description>
+    </item>
+    <item>
       <title>Adiabatic preparation of thermal states and entropy-noise relation on noisy quantum computers</title>
       <link>https://www.nature.com/articles/s41534-026-01320-0</link>
       <guid isPermaLink="false">2026-07-11-adiabatic-preparation-of-thermal-states-and-entropy-noise-re</guid>
@@ -279,6 +287,14 @@
       <description>via PRX Quantum</description>
     </item>
     <item>
+      <title>Variational Gibbs state preparation on trapped-ion devices</title>
+      <link>https://www.nature.com/articles/s41534-026-01318-8</link>
+      <guid isPermaLink="false">2026-07-11-variational-gibbs-state-preparation-on-trapped-ion-devices</guid>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
+      <category>research</category>
+      <description>via npj Quantum Information</description>
+    </item>
+    <item>
       <title>Kyoto University Team Proposes Ramsey Interferometer Array for Dark Matter Detection</title>
       <link>https://quantumzeitgeist.com/kyoto-university-proposes-ramsey-interferometer-array-dark-matter/</link>
       <guid isPermaLink="false">2026-07-11-kyoto-university-team-proposes-ramsey-interferometer-array-f</guid>
@@ -387,22 +403,6 @@
       <link>https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTkpzOWZDeGxCSVZuRlVWUVBTZmhqdUJGdFlLX0VQNFNEY2JCWlJfcmFQaHpjUVpEQ3V4a1BRNGV5YzlpdllxSDd5MTFzVHRHN1c5QWFiZGVhWl9TSk1wX1VGM0lSbUhJT2JiSTdxWTlMdHJ1SHl3N2w2WUZkSkdyQlpfS01oLWdvQ3ZNRkd4c3Q1anpEYmxucDRPLVMyc0tOTzNlOW9idURDMW14OGE2MDI2WnYyc0I4bGpNNnlwallVTmJyV3dvU25ESEhRMkR3OV8yV0RPaXbSAd4BQVVfeXFMUFZTbGlVWnlKb3FNX3pqME0zdjREZmVTbFU3ai1INmplUkhMQVVKU05MTmtTdzA1djdKaGZTNVlSaGVCUkpRb3UxMHN3NllJWjdWYjNTTWlqbFhmLWtZOHFMVGZKeTFnbmRIX0VZcHlXM01QM08zRDdBZTZCelBUMWJNY2tmSThyMVY0T0FrQzduUXlEUmhyU2NYbW83aU9xN0ZFNmNxdUlmRkRENGNvSGNwa08ta0ZJbEE1Uk9iOTRPOGwyeG1PXzJsUV9uRWJCRVpjOEFpUmEtLVFvMnpR?oc=5</link>
       <guid isPermaLink="false">2026-07-11-rigetti-rgti-lands-up-to-100-million-in-funding-as-fidelity-</guid>
       <pubDate>Sat, 11 Jul 2026 00:49:12 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>Technology - Quantum computing: what leaders need to understand now - teiss</title>
-      <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxONUhzaThTYTBzbzBmNFQ4VXktcVlnRElhQ19LS2s0NkdIeFRQVHVZai03a05jR0xPRmFwYWpvR3dPaERxLW9tOFFwZ0JpakU4UHJVbDQ1djAweUcwMnlQcTh3VzE4VEVjN29ZN2xmd29FWDlWRUFtZ1JUNkFJM1BSZmNVazdWLTB0ZWNSSzBWX2FCZw?oc=5</link>
-      <guid isPermaLink="false">2026-07-11-technology-quantum-computing-what-leaders-need-to-understand</guid>
-      <pubDate>Fri, 10 Jul 2026 23:04:55 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>Quantum error correction can constantly recalibrate a processor - Ars Technica</title>
-      <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxOalR2UEQ4Nm9jUjhQQmVuYWY5aXF2WGdhSkczdVY2dFhpd3dXT0Y0UmNVZktqUXBMOVBjYUw3cjBrXzN6di1fd0xLeXdxT2xSZTVnQ2h5MjVqSERnZUVDMVlmUUhMWUoxN2dReEtjcTFRR21BUE5WQUVSTk1EXzlKZXU0UUZJeXlyNmRCNjRMYkFzR0FuVDk4dzBZYzhjN29sU0J6dTVKUQ?oc=5</link>
-      <guid isPermaLink="false">2026-07-11-quantum-error-correction-can-constantly-recalibrate-a-proces</guid>
-      <pubDate>Fri, 10 Jul 2026 23:02:30 GMT</pubDate>
       <category>industry</category>
       <description>via Google News — quantum computing</description>
     </item>

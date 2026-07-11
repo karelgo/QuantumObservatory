@@ -188,7 +188,9 @@ async function main() {
 
   if (noLlm || !hasCredentials()) {
     if (targets.length > 0 && !noLlm) {
-      console.log('\nNo ANTHROPIC_API_KEY — keeping heuristic categories, no summaries.');
+      console.log(
+        '\nNo API credentials (ANTHROPIC_FOUNDRY_API_KEY or ANTHROPIC_API_KEY) — keeping heuristic categories, no summaries.',
+      );
     }
   } else if (targets.length > 0) {
     // Grounding excerpts come from this run's fetched feeds, matched by
@@ -209,15 +211,23 @@ async function main() {
     }));
 
     console.log(`\nClassifying ${inputs.length} items…`);
-    const classified = await classifyItems(inputs);
-    for (const item of merged) {
-      const c = classified.get(item.id);
-      if (!c) continue;
-      item.category = c.category;
-      item.summary = c.summary;
-      item.significance = c.significance;
+    try {
+      const classified = await classifyItems(inputs);
+      for (const item of merged) {
+        const c = classified.get(item.id);
+        if (!c) continue;
+        item.category = c.category;
+        item.summary = c.summary;
+        item.significance = c.significance;
+      }
+      console.log(`  ${classified.size}/${inputs.length} classified (${[...classified.values()].filter((c) => c.summary).length} with summaries)`);
+    } catch (err) {
+      // A misconfigured endpoint must not cost us the day's data —
+      // keep heuristics, land the crawl, and shout in the log.
+      console.error(
+        `  CLASSIFIER MISCONFIGURED, keeping heuristics: ${err instanceof Error ? err.message : err}`,
+      );
     }
-    console.log(`  ${classified.size}/${inputs.length} classified (${[...classified.values()].filter((c) => c.summary).length} with summaries)`);
   }
 
   merged = merged.sort(

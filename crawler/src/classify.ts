@@ -1,12 +1,38 @@
 import Anthropic from '@anthropic-ai/sdk';
+import { AnthropicFoundry } from '@anthropic-ai/foundry-sdk';
 import { zodOutputFormat } from '@anthropic-ai/sdk/helpers/zod';
 import { z } from 'zod';
 import type { CategorySlug } from './types.js';
 
 // The owner's cost lever: switch to e.g. `claude-haiku-4-5` via env
-// without a code change. Default follows BRIEF.md.
+// without a code change. Default follows BRIEF.md. On Microsoft Foundry
+// this must match the Foundry model/deployment name.
 const MODEL = process.env.OBSERVATORY_MODEL ?? 'claude-opus-4-8';
 const BATCH_SIZE = 25;
+
+/**
+ * Endpoint selection, in order of preference:
+ * 1. Microsoft Foundry — set ANTHROPIC_FOUNDRY_API_KEY plus either
+ *    ANTHROPIC_FOUNDRY_RESOURCE (the resource NAME, e.g. "my-resource" →
+ *    https://my-resource.services.ai.azure.com/anthropic/) or
+ *    ANTHROPIC_FOUNDRY_BASE_URL (a full endpoint URL). The SDK reads all
+ *    three env vars itself. (Structured outputs are beta on Foundry per
+ *    Anthropic's platform availability table; a failing batch degrades
+ *    to heuristics.)
+ * 2. First-party Anthropic API — set ANTHROPIC_API_KEY.
+ * Both clients expose the same messages surface.
+ */
+function makeClient(): Anthropic {
+  if (process.env.ANTHROPIC_FOUNDRY_API_KEY) {
+    if (!process.env.ANTHROPIC_FOUNDRY_RESOURCE && !process.env.ANTHROPIC_FOUNDRY_BASE_URL) {
+      throw new Error(
+        'ANTHROPIC_FOUNDRY_API_KEY is set but neither ANTHROPIC_FOUNDRY_RESOURCE (resource name, e.g. "my-resource") nor ANTHROPIC_FOUNDRY_BASE_URL (full endpoint URL) is — set one',
+      );
+    }
+    return new AnthropicFoundry() as unknown as Anthropic;
+  }
+  return new Anthropic();
+}
 
 const CATEGORY_SLUGS = [
   'hardware',
@@ -72,11 +98,16 @@ SIGNIFICANCE (1-5):
 Return every input id exactly once.`;
 
 /**
- * True when the SDK will find credentials in the environment.
- * (GitHub Actions provides ANTHROPIC_API_KEY as a repo secret.)
+ * True when the SDK will find credentials in the environment —
+ * Microsoft Foundry (ANTHROPIC_FOUNDRY_API_KEY) or the first-party API
+ * (ANTHROPIC_API_KEY). GitHub Actions provides these as repo secrets.
  */
 export function hasCredentials(): boolean {
-  return Boolean(process.env.ANTHROPIC_API_KEY || process.env.ANTHROPIC_AUTH_TOKEN);
+  return Boolean(
+    process.env.ANTHROPIC_FOUNDRY_API_KEY ||
+      process.env.ANTHROPIC_API_KEY ||
+      process.env.ANTHROPIC_AUTH_TOKEN,
+  );
 }
 
 /**
@@ -86,7 +117,7 @@ export function hasCredentials(): boolean {
 export async function classifyItems(
   inputs: ClassifierInput[],
 ): Promise<Map<string, Classification>> {
-  const client = new Anthropic();
+  const client = makeClient();
   const results = new Map<string, Classification>();
   const validIds = new Set(inputs.map((i) => i.id));
 

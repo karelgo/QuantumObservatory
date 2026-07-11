@@ -2,7 +2,7 @@
   "schema": 1,
   "source": "quantum-observatory",
   "site": "https://github.com/karelgo/QuantumObservatory",
-  "generated_at": "2026-07-11T06:09:17.296Z",
+  "generated_at": "2026-07-11T15:35:52.373Z",
   "items": [
     {
       "id": "2026-07-11-top-diamond-nv-centre-quantum-computing-companies-in-2026",
@@ -345,6 +345,26 @@
       "qv_artifact": null
     },
     {
+      "id": "2026-07-11-why-quantum-computing-needs-strong-ecosystems-to-scale",
+      "date": "2026-07-11",
+      "category": "industry",
+      "title": "Why Quantum Computing Needs Strong Ecosystems to Scale",
+      "summary": null,
+      "url": "https://thequantuminsider.com/2026/07/11/why-quantum-computing-needs-national-ecosystems-to-scale/",
+      "source": "quantum-insider",
+      "source_name": "The Quantum Insider",
+      "published_at": "2026-07-11T07:49:00.000Z",
+      "also_at": [
+        {
+          "source": "gnews-quantum",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbkEyelpLaWJxb1kzbTRQSDVEYTlsSTNuX3hqX3pCTVRhV1RpTVpXTm52ZzJEWEVCV1ZwUExOd3Y2Tm1PdEdXSFQ3bmRZS1BKZUJnOC1jUXZYb0hfczZ3cFBHOGRTME45T09UaG5FZHpZd2RQaXZna3A4Y1prWENQQ3dZQUtvTVJqR1l3NHFxQWJlXzYtUTA5U3RyZU1uNlk?oc=5"
+        }
+      ],
+      "significance": 3,
+      "qv_device": null,
+      "qv_artifact": null
+    },
+    {
       "id": "2026-07-11-adiabatic-preparation-of-thermal-states-and-entropy-noise-re",
       "date": "2026-07-11",
       "category": "research",
@@ -555,6 +575,21 @@
       "qv_artifact": null
     },
     {
+      "id": "2026-07-11-variational-gibbs-state-preparation-on-trapped-ion-devices",
+      "date": "2026-07-11",
+      "category": "research",
+      "title": "Variational Gibbs state preparation on trapped-ion devices",
+      "summary": null,
+      "url": "https://www.nature.com/articles/s41534-026-01318-8",
+      "source": "npj-quantum-information",
+      "source_name": "npj Quantum Information",
+      "published_at": "2026-07-11T00:00:00.000Z",
+      "also_at": [],
+      "significance": 3,
+      "qv_device": null,
+      "qv_artifact": null
+    },
+    {
       "id": "2026-07-11-kyoto-university-team-proposes-ramsey-interferometer-array-f",
       "date": "2026-07-11",
       "category": "industry",
@@ -759,36 +794,6 @@
       "source": "gnews-quantum",
       "source_name": "Google News — quantum computing",
       "published_at": "2026-07-11T00:49:12.000Z",
-      "also_at": [],
-      "significance": 2,
-      "qv_device": null,
-      "qv_artifact": null
-    },
-    {
-      "id": "2026-07-11-technology-quantum-computing-what-leaders-need-to-understand",
-      "date": "2026-07-11",
-      "category": "industry",
-      "title": "Technology - Quantum computing: what leaders need to understand now - teiss",
-      "summary": null,
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONUhzaThTYTBzbzBmNFQ4VXktcVlnRElhQ19LS2s0NkdIeFRQVHVZai03a05jR0xPRmFwYWpvR3dPaERxLW9tOFFwZ0JpakU4UHJVbDQ1djAweUcwMnlQcTh3VzE4VEVjN29ZN2xmd29FWDlWRUFtZ1JUNkFJM1BSZmNVazdWLTB0ZWNSSzBWX2FCZw?oc=5",
-      "source": "gnews-quantum",
-      "source_name": "Google News — quantum computing",
-      "published_at": "2026-07-10T23:04:55.000Z",
-      "also_at": [],
-      "significance": 2,
-      "qv_device": null,
-      "qv_artifact": null
-    },
-    {
-      "id": "2026-07-11-quantum-error-correction-can-constantly-recalibrate-a-proces",
-      "date": "2026-07-11",
-      "category": "industry",
-      "title": "Quantum error correction can constantly recalibrate a processor - Ars Technica",
-      "summary": null,
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOalR2UEQ4Nm9jUjhQQmVuYWY5aXF2WGdhSkczdVY2dFhpd3dXT0Y0UmNVZktqUXBMOVBjYUw3cjBrXzN6di1fd0xLeXdxT2xSZTVnQ2h5MjVqSERnZUVDMVlmUUhMWUoxN2dReEtjcTFRR21BUE5WQUVSTk1EXzlKZXU0UUZJeXlyNmRCNjRMYkFzR0FuVDk4dzBZYzhjN29sU0J6dTVKUQ?oc=5",
-      "source": "gnews-quantum",
-      "source_name": "Google News — quantum computing",
-      "published_at": "2026-07-10T23:02:30.000Z",
       "also_at": [],
       "significance": 2,
       "qv_device": null,

@@ -1,7 +1,16 @@
 # The daily measurement. Crawls all sources, classifies new items with
-# the Claude API (ANTHROPIC_API_KEY repo secret — without it the crawl
-# still runs, heuristics only), and commits the day's data back.
-# A failed run opens an issue instead of failing silently.
+# Claude, and commits the day's data back. A failed run opens an issue
+# instead of failing silently.
+#
+# Endpoint configuration (classification skips gracefully without it):
+#   Microsoft Foundry (preferred):
+#     secret   ANTHROPIC_FOUNDRY_API_KEY — Foundry API key
+#     variable ANTHROPIC_FOUNDRY_RESOURCE — resource NAME, e.g.
+#       "my-resource" → https://my-resource.services.ai.azure.com/anthropic/
+#       (or variable ANTHROPIC_FOUNDRY_BASE_URL with the full endpoint URL)
+#       Set variables under Settings → Secrets and variables → Actions → Variables.
+#   First-party Anthropic API (fallback):
+#     secret ANTHROPIC_API_KEY
 
 name: Daily crawl
 
@@ -40,6 +49,9 @@ jobs:
 
       - name: Crawl and classify
         env:
+          ANTHROPIC_FOUNDRY_API_KEY: ${{ secrets.ANTHROPIC_FOUNDRY_API_KEY }}
+          ANTHROPIC_FOUNDRY_RESOURCE: ${{ vars.ANTHROPIC_FOUNDRY_RESOURCE }}
+          ANTHROPIC_FOUNDRY_BASE_URL: ${{ vars.ANTHROPIC_FOUNDRY_BASE_URL }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
           if [ "${{ inputs.reclassify }}" = "true" ]; then

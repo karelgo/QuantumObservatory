@@ -19,7 +19,18 @@ data/items/YYYY-MM-DD.json   one committed file per day, append-only
 web/                    static Next.js site rendered from data/
 ```
 
-No database, no server state. A GitHub Actions cron runs the crawl daily, commits the data, and the static site rebuilds. Classification and summaries come from the Claude API with structured outputs; heuristics from `sources.yaml` come first, the model refines.
+No database, no server state. A GitHub Actions cron runs the crawl daily, commits the data, and the static site rebuilds. Classification and summaries come from Claude with structured outputs; heuristics from `sources.yaml` come first, the model refines.
+
+### Classifier configuration
+
+The classifier picks its endpoint from the environment (and skips gracefully when neither is configured — heuristic categories, no summaries):
+
+| Endpoint | Environment |
+|---|---|
+| **Microsoft Foundry** (preferred) | `ANTHROPIC_FOUNDRY_API_KEY` + `ANTHROPIC_FOUNDRY_RESOURCE` (resource **name**, e.g. `my-resource` → `https://my-resource.services.ai.azure.com/anthropic/`; or `ANTHROPIC_FOUNDRY_BASE_URL` with the full endpoint URL) |
+| First-party Anthropic API | `ANTHROPIC_API_KEY` |
+
+`OBSERVATORY_MODEL` overrides the model (default `claude-opus-4-8`; on Foundry it must match your Foundry model/deployment name). For the daily workflow, set these under *Settings → Secrets and variables → Actions* — keys as **secrets**, the resource host as a **variable**.
 
 ## Principles
 

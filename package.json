@@ -8,7 +8,7 @@
     "web"
   ],
   "scripts": {
-    "crawl": "npm run --workspace crawler crawl",
+    "crawl": "npm run --workspace crawler crawl --",
     "dev": "npm run --workspace web dev",
     "build": "npm run --workspace web build"
   }
