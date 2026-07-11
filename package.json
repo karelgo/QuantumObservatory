@@ -1,0 +1,15 @@
+{
+  "name": "quantum-observatory",
+  "private": true,
+  "version": "0.1.0",
+  "description": "A daily-updated, categorized overview of everything happening in quantum computing.",
+  "workspaces": [
+    "crawler",
+    "web"
+  ],
+  "scripts": {
+    "crawl": "npm run --workspace crawler crawl",
+    "dev": "npm run --workspace web dev",
+    "build": "npm run --workspace web build"
+  }
+}

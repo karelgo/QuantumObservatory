@@ -1,0 +1,195 @@
+/* The Quantum Observatory — one disciplined global stylesheet.
+   Tokens are QuantumVerse's, verbatim (see BRIEF.md). No framework. */
+
+:root {
+  --bg: #f4f5f8;
+  --surface: #ffffff;
+  --ink: #161b2c;
+  --muted: #59617a;
+  --line: #d9dce6;
+  --accent: #8f6400;
+  --accent-fill: #b07c0e;
+  --good: #1d7a4a;
+  --wire: #9aa1b6;
+  --code-bg: #10142a;
+  --code-ink: #d5daec;
+  --code-dim: #7c86a8;
+  --card-shadow: 0 1px 2px rgba(22, 27, 44, 0.05), 0 8px 28px rgba(22, 27, 44, 0.07);
+  --serif: var(--font-fraunces), 'Iowan Old Style', Georgia, serif;
+  --sans: system-ui, 'Segoe UI', 'Helvetica Neue', sans-serif;
+  --mono: ui-monospace, 'Cascadia Code', 'SF Mono', Menlo, Consolas, monospace;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0b0e1a;
+    --surface: #121629;
+    --ink: #e8eaf3;
+    --muted: #99a2bc;
+    --line: #242b45;
+    --accent: #e0ac45;
+    --accent-fill: #c99835;
+    --good: #4bc98a;
+    --wire: #4c5677;
+    --code-bg: #0e1226;
+    --card-shadow: none;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--sans);
+  font-size: 1rem;
+  line-height: 1.55;
+}
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.page {
+  max-width: 44rem;
+  margin: 0 auto;
+  padding: clamp(1.25rem, 4vw, 3rem) clamp(1rem, 4vw, 1.5rem) 2rem;
+}
+
+/* ── Masthead ─────────────────────────────────────────── */
+
+.masthead {
+  border-bottom: 1px solid var(--line);
+  padding-bottom: 1.25rem;
+  margin-bottom: 2rem;
+}
+
+.masthead h1 {
+  font-family: var(--serif);
+  font-weight: 600;
+  font-size: clamp(1.7rem, 5vw, 2.4rem);
+  letter-spacing: -0.01em;
+  margin: 0;
+}
+
+.masthead h1 a {
+  color: var(--ink);
+}
+
+.masthead .tagline {
+  color: var(--muted);
+  margin: 0.35rem 0 0;
+  font-size: 0.95rem;
+}
+
+.masthead .dateline {
+  font-family: var(--mono);
+  font-size: 0.8rem;
+  color: var(--muted);
+  margin: 0.8rem 0 0;
+}
+
+.masthead .dateline strong {
+  color: var(--ink);
+  font-weight: 600;
+}
+
+/* ── Category sections ────────────────────────────────── */
+
+.category {
+  margin-bottom: 2.25rem;
+}
+
+.category > h2 {
+  font-family: var(--sans);
+  font-size: 0.78rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.09em;
+  color: var(--muted);
+  border-bottom: 1px solid var(--line);
+  padding-bottom: 0.4rem;
+  margin: 0 0 0.9rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+.category > h2 .count {
+  font-family: var(--mono);
+  font-weight: 400;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.item {
+  margin: 0 0 1.1rem;
+}
+
+.item h3 {
+  font-family: var(--serif);
+  font-weight: 500;
+  font-size: 1.08rem;
+  line-height: 1.35;
+  margin: 0;
+}
+
+.item .meta {
+  font-family: var(--mono);
+  font-size: 0.75rem;
+  color: var(--muted);
+  margin: 0.2rem 0 0;
+}
+
+.item .meta a {
+  color: var(--muted);
+  text-decoration: underline;
+  text-decoration-color: var(--line);
+}
+
+.item .summary {
+  margin: 0.3rem 0 0;
+  font-size: 0.95rem;
+  color: var(--ink);
+  max-width: 65ch;
+}
+
+/* ── Empty state ──────────────────────────────────────── */
+
+.empty {
+  color: var(--muted);
+  font-style: italic;
+}
+
+/* ── Footer ───────────────────────────────────────────── */
+
+.site-footer {
+  max-width: 44rem;
+  margin: 3rem auto 0;
+  padding: 1.25rem clamp(1rem, 4vw, 1.5rem) 2.5rem;
+  border-top: 1px solid var(--line);
+  color: var(--muted);
+  font-size: 0.85rem;
+}
+
+.site-footer p {
+  margin: 0 0 0.4rem;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a {
+    transition: color 150ms ease;
+  }
+}

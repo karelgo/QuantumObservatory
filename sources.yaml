@@ -1,0 +1,165 @@
+# The source registry — the editorial heart of the Observatory.
+# Every feed here was verified fetchable at the time it was added.
+# kinds: rss (RSS 2.0 / Atom / RDF — parser sniffs), arxiv (arXiv API Atom)
+# category_hint: default category; the classifier (Phase 1) may override.
+# keyword_filter: item kept only if title matches (case-insensitive regex).
+# discovered: true = fallback discovery source; held to a higher bar.
+
+version: 1
+categories:
+  - { slug: hardware, label: "Hardware & QPUs" }
+  - { slug: research, label: "Research & Papers" }
+  - { slug: software, label: "Software & Tools" }
+  - { slug: industry, label: "Industry & Funding" }
+  - { slug: policy,   label: "Government & Policy" }
+  - { slug: pqc,      label: "Post-Quantum Security" }
+  - { slug: people,   label: "People & Community" }
+  - { slug: events,   label: "Events" }
+
+sources:
+  # ── Papers ────────────────────────────────────────────────
+  - id: arxiv-quant-ph
+    name: arXiv quant-ph
+    kind: arxiv
+    url: "https://export.arxiv.org/api/query?search_query=cat:quant-ph&sortBy=submittedDate&sortOrder=descending&max_results=40"
+    homepage: https://arxiv.org/list/quant-ph/recent
+    category_hint: research
+    max_per_day: 10        # the firehose — keep only the newest N until the significance model ranks them
+    significance_hint: 2
+
+  - id: npj-quantum-information
+    name: npj Quantum Information
+    kind: rss
+    url: "https://www.nature.com/npjqi.rss"
+    homepage: https://www.nature.com/npjqi/
+    category_hint: research
+    significance_hint: 3
+    max_per_day: 10
+
+  - id: prx-quantum
+    name: PRX Quantum
+    kind: rss
+    url: "http://feeds.aps.org/rss/recent/prxquantum.xml"
+    homepage: https://journals.aps.org/prxquantum/
+    category_hint: research
+    significance_hint: 3
+    max_per_day: 10
+
+  # ── Software releases ─────────────────────────────────────
+  - id: qiskit-releases
+    name: Qiskit releases
+    kind: rss
+    url: "https://github.com/Qiskit/qiskit/releases.atom"
+    homepage: https://github.com/Qiskit/qiskit
+    category_hint: software
+    significance_hint: 3
+    max_per_day: 5
+
+  - id: cirq-releases
+    name: Cirq releases
+    kind: rss
+    url: "https://github.com/quantumlib/Cirq/releases.atom"
+    homepage: https://github.com/quantumlib/Cirq
+    category_hint: software
+    significance_hint: 3
+    max_per_day: 5
+
+  - id: pennylane-releases
+    name: PennyLane releases
+    kind: rss
+    url: "https://github.com/PennyLaneAI/pennylane/releases.atom"
+    homepage: https://github.com/PennyLaneAI/pennylane
+    category_hint: software
+    significance_hint: 3
+    max_per_day: 5
+
+  - id: cudaq-releases
+    name: NVIDIA CUDA-Q releases
+    kind: rss
+    url: "https://github.com/NVIDIA/cuda-quantum/releases.atom"
+    homepage: https://github.com/NVIDIA/cuda-quantum
+    category_hint: software
+    significance_hint: 3
+    max_per_day: 5
+
+  - id: qutip-releases
+    name: QuTiP releases
+    kind: rss
+    url: "https://github.com/qutip/qutip/releases.atom"
+    homepage: https://github.com/qutip/qutip
+    category_hint: software
+    significance_hint: 2
+    max_per_day: 5
+
+  # ── Vendor blogs ──────────────────────────────────────────
+  - id: aws-quantum-blog
+    name: AWS Quantum Technologies Blog
+    kind: rss
+    url: "https://aws.amazon.com/blogs/quantum-computing/feed/"
+    homepage: https://aws.amazon.com/blogs/quantum-computing/
+    category_hint: software
+    significance_hint: 3
+    max_per_day: 5
+
+  # ── Media ─────────────────────────────────────────────────
+  - id: quantum-insider
+    name: The Quantum Insider
+    kind: rss
+    url: "https://thequantuminsider.com/feed/"
+    homepage: https://thequantuminsider.com
+    category_hint: industry
+    significance_hint: 3
+    max_per_day: 15
+
+  - id: quantum-computing-report
+    name: Quantum Computing Report
+    kind: rss
+    url: "https://quantumcomputingreport.com/feed/"
+    homepage: https://quantumcomputingreport.com
+    category_hint: industry
+    significance_hint: 3
+    max_per_day: 15
+
+  - id: quantum-zeitgeist
+    name: Quantum Zeitgeist
+    kind: rss
+    url: "https://quantumzeitgeist.com/feed/"
+    homepage: https://quantumzeitgeist.com
+    category_hint: industry
+    significance_hint: 2
+    max_per_day: 10
+
+  - id: physorg-quantum
+    name: Phys.org — Quantum Physics
+    kind: rss
+    url: "https://phys.org/rss-feed/physics-news/quantum-physics/"
+    homepage: https://phys.org/physics-news/quantum-physics/
+    category_hint: research
+    significance_hint: 2
+    max_per_day: 10
+
+  # ── Policy / PQC ──────────────────────────────────────────
+  - id: nist-news
+    name: NIST News
+    kind: rss
+    url: "https://www.nist.gov/news-events/news/rss.xml"
+    homepage: https://www.nist.gov/news-events/news
+    category_hint: pqc
+    keyword_filter: "quantum|post-quantum|pqc|cryptograph"
+    significance_hint: 3
+
+  # ── Fallback discovery ────────────────────────────────────
+  - id: gnews-quantum
+    name: Google News — quantum computing
+    kind: rss
+    url: "https://news.google.com/rss/search?q=%22quantum+computing%22&hl=en-US&gl=US&ceid=US:en"
+    homepage: https://news.google.com
+    category_hint: industry
+    discovered: true
+    significance_hint: 2
+    max_per_day: 15
+
+# Known gaps (no working feed found on 2026-07-11; revisit):
+#   IEEE Spectrum quantum topic feed (404), IBM Quantum blog, Google Quantum AI,
+#   Quantinuum / IonQ / Rigetti / Pasqal / QuEra newsrooms (no RSS discovered).
+#   Vendor announcements currently arrive via media + Google News fallback.

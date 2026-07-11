@@ -1,0 +1,125 @@
+{
+  "date": "2026-07-11",
+  "sources": [
+    {
+      "id": "arxiv-quant-ph",
+      "name": "arXiv quant-ph",
+      "ok": true,
+      "fetched": 40,
+      "kept": 10,
+      "fetched_at": "2026-07-11T05:42:14.959Z"
+    },
+    {
+      "id": "npj-quantum-information",
+      "name": "npj Quantum Information",
+      "ok": true,
+      "fetched": 8,
+      "kept": 4,
+      "fetched_at": "2026-07-11T05:42:14.983Z"
+    },
+    {
+      "id": "prx-quantum",
+      "name": "PRX Quantum",
+      "ok": true,
+      "fetched": 100,
+      "kept": 10,
+      "fetched_at": "2026-07-11T05:42:14.983Z"
+    },
+    {
+      "id": "qiskit-releases",
+      "name": "Qiskit releases",
+      "ok": true,
+      "fetched": 10,
+      "kept": 0,
+      "fetched_at": "2026-07-11T05:42:14.984Z"
+    },
+    {
+      "id": "cirq-releases",
+      "name": "Cirq releases",
+      "ok": true,
+      "fetched": 10,
+      "kept": 0,
+      "fetched_at": "2026-07-11T05:42:14.984Z"
+    },
+    {
+      "id": "pennylane-releases",
+      "name": "PennyLane releases",
+      "ok": true,
+      "fetched": 10,
+      "kept": 0,
+      "fetched_at": "2026-07-11T05:42:14.985Z"
+    },
+    {
+      "id": "cudaq-releases",
+      "name": "NVIDIA CUDA-Q releases",
+      "ok": true,
+      "fetched": 10,
+      "kept": 0,
+      "fetched_at": "2026-07-11T05:42:14.985Z"
+    },
+    {
+      "id": "qutip-releases",
+      "name": "QuTiP releases",
+      "ok": true,
+      "fetched": 10,
+      "kept": 0,
+      "fetched_at": "2026-07-11T05:42:14.986Z"
+    },
+    {
+      "id": "aws-quantum-blog",
+      "name": "AWS Quantum Technologies Blog",
+      "ok": true,
+      "fetched": 10,
+      "kept": 0,
+      "fetched_at": "2026-07-11T05:42:14.986Z"
+    },
+    {
+      "id": "quantum-insider",
+      "name": "The Quantum Insider",
+      "ok": true,
+      "fetched": 10,
+      "kept": 10,
+      "fetched_at": "2026-07-11T05:42:14.987Z"
+    },
+    {
+      "id": "quantum-computing-report",
+      "name": "Quantum Computing Report",
+      "ok": true,
+      "fetched": 10,
+      "kept": 10,
+      "fetched_at": "2026-07-11T05:42:14.988Z"
+    },
+    {
+      "id": "quantum-zeitgeist",
+      "name": "Quantum Zeitgeist",
+      "ok": true,
+      "fetched": 200,
+      "kept": 10,
+      "fetched_at": "2026-07-11T05:42:14.988Z"
+    },
+    {
+      "id": "physorg-quantum",
+      "name": "Phys.org — Quantum Physics",
+      "ok": true,
+      "fetched": 30,
+      "kept": 10,
+      "fetched_at": "2026-07-11T05:42:14.989Z"
+    },
+    {
+      "id": "nist-news",
+      "name": "NIST News",
+      "ok": true,
+      "fetched": 40,
+      "kept": 0,
+      "fetched_at": "2026-07-11T05:42:14.989Z"
+    },
+    {
+      "id": "gnews-quantum",
+      "name": "Google News — quantum computing",
+      "ok": true,
+      "fetched": 100,
+      "kept": 15,
+      "fetched_at": "2026-07-11T05:42:14.989Z"
+    }
+  ]
+}

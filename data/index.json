@@ -1,0 +1,14 @@
+{
+  "generated_at": "2026-07-11T05:42:16.595Z",
+  "latest": "2026-07-11",
+  "days": [
+    {
+      "date": "2026-07-11",
+      "count": 75,
+      "categories": {
+        "industry": 41,
+        "research": 34
+      }
+    }
+  ]
+}
