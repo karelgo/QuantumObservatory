@@ -3,3 +3,6 @@ web/.next/
 web/out/
 *.log
 .DS_Store
+.env
+.env.*
+!.env.example

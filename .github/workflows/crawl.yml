@@ -2,13 +2,16 @@
 # Claude, and commits the day's data back. A failed run opens an issue
 # instead of failing silently.
 #
-# Endpoint configuration (classification skips gracefully without it):
-#   Microsoft Foundry (preferred):
-#     secret   ANTHROPIC_FOUNDRY_API_KEY — Foundry API key
-#     variable ANTHROPIC_FOUNDRY_RESOURCE — resource NAME, e.g.
-#       "my-resource" → https://my-resource.services.ai.azure.com/anthropic/
-#       (or variable ANTHROPIC_FOUNDRY_BASE_URL with the full endpoint URL)
-#       Set variables under Settings → Secrets and variables → Actions → Variables.
+# Endpoint configuration (classification skips gracefully without it).
+# Set keys as Secrets and non-secret URLs as Variables under
+# Settings → Secrets and variables → Actions.
+#   Azure AI Foundry — OpenAI-compatible deployment (in use):
+#     secret   AZURE_FOUNDRY_API_KEY  — Foundry API key
+#     variable AZURE_FOUNDRY_ENDPOINT — the /openai/v1 base URL, e.g.
+#       https://my-resource.services.ai.azure.com/openai/v1
+#     variable OBSERVATORY_MODEL      — deployment name (default gpt-5.4-nano)
+#   Anthropic on Foundry (alternative — a Claude deployment):
+#     secret ANTHROPIC_FOUNDRY_API_KEY + variable ANTHROPIC_FOUNDRY_RESOURCE
 #   First-party Anthropic API (fallback):
 #     secret ANTHROPIC_API_KEY
 
@@ -49,6 +52,9 @@ jobs:
 
       - name: Crawl and classify
         env:
+          AZURE_FOUNDRY_API_KEY: ${{ secrets.AZURE_FOUNDRY_API_KEY }}
+          AZURE_FOUNDRY_ENDPOINT: ${{ vars.AZURE_FOUNDRY_ENDPOINT }}
+          OBSERVATORY_MODEL: ${{ vars.OBSERVATORY_MODEL }}
           ANTHROPIC_FOUNDRY_API_KEY: ${{ secrets.ANTHROPIC_FOUNDRY_API_KEY }}
           ANTHROPIC_FOUNDRY_RESOURCE: ${{ vars.ANTHROPIC_FOUNDRY_RESOURCE }}
           ANTHROPIC_FOUNDRY_BASE_URL: ${{ vars.ANTHROPIC_FOUNDRY_BASE_URL }}

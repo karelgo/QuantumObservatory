@@ -23,14 +23,15 @@ No database, no server state. A GitHub Actions cron runs the crawl daily, commit
 
 ### Classifier configuration
 
-The classifier picks its endpoint from the environment (and skips gracefully when neither is configured — heuristic categories, no summaries):
+The classifier picks the first configured backend from the environment (and skips gracefully when none is set — heuristic categories, no summaries):
 
-| Endpoint | Environment |
-|---|---|
-| **Microsoft Foundry** (preferred) | `ANTHROPIC_FOUNDRY_API_KEY` + `ANTHROPIC_FOUNDRY_RESOURCE` (resource **name**, e.g. `my-resource` → `https://my-resource.services.ai.azure.com/anthropic/`; or `ANTHROPIC_FOUNDRY_BASE_URL` with the full endpoint URL) |
-| First-party Anthropic API | `ANTHROPIC_API_KEY` |
+| Backend | Environment | Default model |
+|---|---|---|
+| **Azure AI Foundry** (OpenAI-compatible, in use) | `AZURE_FOUNDRY_API_KEY` + `AZURE_FOUNDRY_ENDPOINT` (the `/openai/v1` base URL) | `gpt-5.4-nano` |
+| Anthropic on Foundry (a Claude deployment) | `ANTHROPIC_FOUNDRY_API_KEY` + `ANTHROPIC_FOUNDRY_RESOURCE` (or `…_BASE_URL`) | `claude-opus-4-8` |
+| First-party Anthropic API | `ANTHROPIC_API_KEY` | `claude-opus-4-8` |
 
-`OBSERVATORY_MODEL` overrides the model (default `claude-opus-4-8`; on Foundry it must match your Foundry model/deployment name). For the daily workflow, set these under *Settings → Secrets and variables → Actions* — keys as **secrets**, the resource host as a **variable**.
+`OBSERVATORY_MODEL` overrides the model — on Azure Foundry it must match your **deployment name**. Copy `.env.example` to `.env.local` (gitignored) for local runs, or set these under *Settings → Secrets and variables → Actions* for the daily workflow (keys as **secrets**, URLs and model as **variables**). The classifier uses schema-strict structured outputs on either backend, so responses are always validated JSON.
 
 ## Principles
 

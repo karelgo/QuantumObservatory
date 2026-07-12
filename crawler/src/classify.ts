@@ -1,38 +1,11 @@
 import Anthropic from '@anthropic-ai/sdk';
 import { AnthropicFoundry } from '@anthropic-ai/foundry-sdk';
 import { zodOutputFormat } from '@anthropic-ai/sdk/helpers/zod';
+import OpenAI from 'openai';
 import { z } from 'zod';
 import type { CategorySlug } from './types.js';
 
-// The owner's cost lever: switch to e.g. `claude-haiku-4-5` via env
-// without a code change. Default follows BRIEF.md. On Microsoft Foundry
-// this must match the Foundry model/deployment name.
-const MODEL = process.env.OBSERVATORY_MODEL ?? 'claude-opus-4-8';
 const BATCH_SIZE = 25;
-
-/**
- * Endpoint selection, in order of preference:
- * 1. Microsoft Foundry — set ANTHROPIC_FOUNDRY_API_KEY plus either
- *    ANTHROPIC_FOUNDRY_RESOURCE (the resource NAME, e.g. "my-resource" →
- *    https://my-resource.services.ai.azure.com/anthropic/) or
- *    ANTHROPIC_FOUNDRY_BASE_URL (a full endpoint URL). The SDK reads all
- *    three env vars itself. (Structured outputs are beta on Foundry per
- *    Anthropic's platform availability table; a failing batch degrades
- *    to heuristics.)
- * 2. First-party Anthropic API — set ANTHROPIC_API_KEY.
- * Both clients expose the same messages surface.
- */
-function makeClient(): Anthropic {
-  if (process.env.ANTHROPIC_FOUNDRY_API_KEY) {
-    if (!process.env.ANTHROPIC_FOUNDRY_RESOURCE && !process.env.ANTHROPIC_FOUNDRY_BASE_URL) {
-      throw new Error(
-        'ANTHROPIC_FOUNDRY_API_KEY is set but neither ANTHROPIC_FOUNDRY_RESOURCE (resource name, e.g. "my-resource") nor ANTHROPIC_FOUNDRY_BASE_URL (full endpoint URL) is — set one',
-      );
-    }
-    return new AnthropicFoundry() as unknown as Anthropic;
-  }
-  return new Anthropic();
-}
 
 const CATEGORY_SLUGS = [
   'hardware',
@@ -69,6 +42,32 @@ const OutputSchema = z.object({
     }),
   ),
 });
+type Output = z.infer<typeof OutputSchema>;
+
+// Hand-written JSON Schema for OpenAI strict structured outputs. Kept in
+// lockstep with OutputSchema above (strict mode requires every property
+// listed in `required` and additionalProperties:false).
+const OPENAI_JSON_SCHEMA = {
+  type: 'object',
+  additionalProperties: false,
+  properties: {
+    items: {
+      type: 'array',
+      items: {
+        type: 'object',
+        additionalProperties: false,
+        properties: {
+          id: { type: 'string' },
+          category: { type: 'string', enum: CATEGORY_SLUGS },
+          summary: { type: ['string', 'null'] },
+          significance: { type: 'integer' },
+        },
+        required: ['id', 'category', 'summary', 'significance'],
+      },
+    },
+  },
+  required: ['items'],
+} as const;
 
 const SYSTEM = `You are the classifier for The Quantum Observatory, a daily digest of quantum computing news. For each input item you assign a category, write a summary, and score significance.
 
@@ -97,14 +96,112 @@ SIGNIFICANCE (1-5):
 
 Return every input id exactly once.`;
 
+// ── Backends ───────────────────────────────────────────────────────
+// One `complete(system, user) -> validated Output` per provider, chosen
+// from the environment. Adding a provider is one Backend implementation.
+
+interface Backend {
+  label: string;
+  model: string;
+  complete(system: string, user: string): Promise<Output>;
+}
+
+function userPrompt(batch: ClassifierInput[]): string {
+  return `Classify these ${batch.length} items:\n\n${JSON.stringify(batch, null, 2)}`;
+}
+
+/** Azure AI Foundry (or any OpenAI-compatible endpoint) via the OpenAI SDK. */
+function openAIBackend(): Backend {
+  const model = process.env.OBSERVATORY_MODEL ?? 'gpt-5.4-nano';
+  const client = new OpenAI({
+    apiKey: process.env.AZURE_FOUNDRY_API_KEY,
+    baseURL: process.env.AZURE_FOUNDRY_ENDPOINT,
+  });
+  return {
+    label: `Azure Foundry (${model})`,
+    model,
+    async complete(system, user) {
+      const resp = await client.chat.completions.create({
+        model,
+        // Generous ceiling: gpt-5.x models spend reasoning tokens that
+        // count against this, and a truncated batch would fail to parse.
+        max_completion_tokens: 16000,
+        messages: [
+          { role: 'system', content: system },
+          { role: 'user', content: user },
+        ],
+        response_format: {
+          type: 'json_schema',
+          json_schema: { name: 'classifications', strict: true, schema: OPENAI_JSON_SCHEMA },
+        },
+      });
+      const choice = resp.choices[0];
+      if (choice?.finish_reason === 'length') {
+        throw new Error('response truncated (max_completion_tokens) — batch too large');
+      }
+      const content = choice?.message?.content;
+      if (!content) throw new Error('empty completion');
+      return OutputSchema.parse(JSON.parse(content));
+    },
+  };
+}
+
+/** Anthropic — first-party API or Anthropic-on-Foundry. */
+function anthropicBackend(): Backend {
+  const model = process.env.OBSERVATORY_MODEL ?? 'claude-opus-4-8';
+  let client: Anthropic;
+  let label: string;
+  if (process.env.ANTHROPIC_FOUNDRY_API_KEY) {
+    if (!process.env.ANTHROPIC_FOUNDRY_RESOURCE && !process.env.ANTHROPIC_FOUNDRY_BASE_URL) {
+      throw new Error(
+        'ANTHROPIC_FOUNDRY_API_KEY is set but neither ANTHROPIC_FOUNDRY_RESOURCE (resource name, e.g. "my-resource") nor ANTHROPIC_FOUNDRY_BASE_URL (full endpoint URL) is — set one',
+      );
+    }
+    client = new AnthropicFoundry() as unknown as Anthropic;
+    label = `Anthropic on Foundry (${model})`;
+  } else {
+    client = new Anthropic();
+    label = `Anthropic API (${model})`;
+  }
+  return {
+    label,
+    model,
+    async complete(system, user) {
+      const resp = await client.messages.parse({
+        model,
+        max_tokens: 8000,
+        system,
+        messages: [{ role: 'user', content: user }],
+        output_config: { format: zodOutputFormat(OutputSchema) },
+      });
+      if (!resp.parsed_output) throw new Error('no parsed output');
+      return resp.parsed_output;
+    },
+  };
+}
+
 /**
- * True when the SDK will find credentials in the environment —
- * Microsoft Foundry (ANTHROPIC_FOUNDRY_API_KEY) or the first-party API
- * (ANTHROPIC_API_KEY). GitHub Actions provides these as repo secrets.
+ * Backend selection, in order of preference:
+ * 1. Azure AI Foundry (OpenAI-compatible) — AZURE_FOUNDRY_API_KEY +
+ *    AZURE_FOUNDRY_ENDPOINT (the `/openai/v1` base URL); OBSERVATORY_MODEL
+ *    is the deployment name (default gpt-5.4-nano).
+ * 2. Anthropic on Foundry — ANTHROPIC_FOUNDRY_API_KEY (+ resource/base URL).
+ * 3. First-party Anthropic API — ANTHROPIC_API_KEY.
+ * Returns null when nothing is configured.
  */
+function makeBackend(): Backend | null {
+  if (process.env.AZURE_FOUNDRY_API_KEY) return openAIBackend();
+  if (process.env.ANTHROPIC_FOUNDRY_API_KEY || process.env.ANTHROPIC_API_KEY || process.env.ANTHROPIC_AUTH_TOKEN) {
+    return anthropicBackend();
+  }
+  return null;
+}
+
+/** True when a classification backend is configured in the environment. */
 export function hasCredentials(): boolean {
   return Boolean(
-    process.env.ANTHROPIC_FOUNDRY_API_KEY ||
+    process.env.AZURE_FOUNDRY_API_KEY ||
+      process.env.ANTHROPIC_FOUNDRY_API_KEY ||
       process.env.ANTHROPIC_API_KEY ||
       process.env.ANTHROPIC_AUTH_TOKEN,
   );
@@ -117,28 +214,17 @@ export function hasCredentials(): boolean {
 export async function classifyItems(
   inputs: ClassifierInput[],
 ): Promise<Map<string, Classification>> {
-  const client = makeClient();
+  const backend = makeBackend();
+  if (!backend) throw new Error('no classification backend configured');
+  console.log(`  backend: ${backend.label}`);
+
   const results = new Map<string, Classification>();
   const validIds = new Set(inputs.map((i) => i.id));
 
   for (let start = 0; start < inputs.length; start += BATCH_SIZE) {
     const batch = inputs.slice(start, start + BATCH_SIZE);
     try {
-      const response = await client.messages.parse({
-        model: MODEL,
-        max_tokens: 8000,
-        system: SYSTEM,
-        messages: [
-          {
-            role: 'user',
-            content: `Classify these ${batch.length} items:\n\n${JSON.stringify(batch, null, 2)}`,
-          },
-        ],
-        output_config: { format: zodOutputFormat(OutputSchema) },
-      });
-
-      const parsed = response.parsed_output;
-      if (!parsed) throw new Error('no parsed output');
+      const parsed = await backend.complete(SYSTEM, userPrompt(batch));
       for (const item of parsed.items) {
         if (!validIds.has(item.id)) continue; // never trust an invented id
         results.set(item.id, {
