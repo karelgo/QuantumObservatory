@@ -1,12 +1,19 @@
 {
-  "generated_at": "2026-07-12T08:08:14.977Z",
+  "generated_at": "2026-07-12T18:10:05.036Z",
   "latest": "2026-07-12",
   "days": [
     {
       "date": "2026-07-12",
-      "count": 10,
+      "count": 27,
       "categories": {
-        "industry": 10
+        "industry": 15,
+        "policy": 1,
+        "research": 5,
+        "software": 1,
+        "people": 1,
+        "pqc": 2,
+        "events": 1,
+        "hardware": 1
       }
     },
     {
