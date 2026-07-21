@@ -5,7 +5,311 @@
     <link>https://github.com/karelgo/QuantumObservatory</link>
     <description>Everything that happened in quantum computing, collapsed into one daily digest. A QuantumVerse sister project.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Jul 2026 08:49:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 08:16:58 GMT</lastBuildDate>
+    <item>
+      <title>CQE-led Bloch Quantum Tech Hub Raises $55 Million</title>
+      <link>https://thequantuminsider.com/2026/07/20/cqe-led-bloch-quantum-tech-hub-raises-55-million/</link>
+      <guid isPermaLink="false">2026-07-21-cqe-led-bloch-quantum-tech-hub-raises-55-million</guid>
+      <pubDate>Mon, 20 Jul 2026 22:12:31 GMT</pubDate>
+      <category>industry</category>
+      <description>via The Quantum Insider</description>
+    </item>
+    <item>
+      <title>Interlune Develops Cryogenic Technology to Expand Helium-3 Supply for Quantum Computing</title>
+      <link>https://thequantuminsider.com/2026/07/20/interlune-produces-pure-helium-3-from-domestic-helium-using-novel-cryogenic-technology/</link>
+      <guid isPermaLink="false">2026-07-21-interlune-develops-cryogenic-technology-to-expand-helium-3-s</guid>
+      <pubDate>Mon, 20 Jul 2026 17:12:54 GMT</pubDate>
+      <category>industry</category>
+      <description>via The Quantum Insider</description>
+    </item>
+    <item>
+      <title>Maybell Quantum to Establish New Mexico Operations as part of New Mexico’s $450 Million Quantum Initiative</title>
+      <link>https://thequantuminsider.com/2026/07/20/maybell-quantum-new-mexico-quantum-lab/</link>
+      <guid isPermaLink="false">2026-07-21-maybell-quantum-to-establish-new-mexico-operations-as-part-o</guid>
+      <pubDate>Mon, 20 Jul 2026 14:18:00 GMT</pubDate>
+      <category>industry</category>
+      <description>via The Quantum Insider</description>
+    </item>
+    <item>
+      <title>IEEE Study Highlights How Micro-Transfer Printing Can Lead to Advanced Silicon Photonics</title>
+      <link>https://thequantuminsider.com/2026/07/20/ieee-study-highlights-how-micro-transfer-printing-can-lead-to-advanced-silicon-photonics/</link>
+      <guid isPermaLink="false">2026-07-21-ieee-study-highlights-how-micro-transfer-printing-can-lead-t</guid>
+      <pubDate>Mon, 20 Jul 2026 13:12:27 GMT</pubDate>
+      <category>industry</category>
+      <description>via The Quantum Insider</description>
+    </item>
+    <item>
+      <title>BTQ Technologies and TIDAL PWR Develop Framework for Quantum-Ready Data Centers</title>
+      <link>https://thequantuminsider.com/2026/07/20/btq-tidal-pwr-quantum-data-center-architecture/</link>
+      <guid isPermaLink="false">2026-07-21-btq-technologies-and-tidal-pwr-develop-framework-for-quantum</guid>
+      <pubDate>Mon, 20 Jul 2026 12:08:41 GMT</pubDate>
+      <category>industry</category>
+      <description>via The Quantum Insider</description>
+    </item>
+    <item>
+      <title>Israel Innovation Authority Launches NIS 100 Million National Quantum Computing R&amp;D Infrastructure</title>
+      <link>https://thequantuminsider.com/2026/07/20/israel-launches-national-quantum-computing-infrastructure/</link>
+      <guid isPermaLink="false">2026-07-21-israel-innovation-authority-launches-nis-100-million-nationa</guid>
+      <pubDate>Mon, 20 Jul 2026 11:47:24 GMT</pubDate>
+      <category>industry</category>
+      <description>via The Quantum Insider</description>
+    </item>
+    <item>
+      <title>Quantum Materials Discovery Could Advance Electronics For Extreme Environments</title>
+      <link>https://thequantuminsider.com/2026/07/20/quantum-materials-discovery-could-advance-electronics-for-extreme-environments/</link>
+      <guid isPermaLink="false">2026-07-21-quantum-materials-discovery-could-advance-electronics-for-ex</guid>
+      <pubDate>Mon, 20 Jul 2026 11:43:51 GMT</pubDate>
+      <category>industry</category>
+      <description>via The Quantum Insider</description>
+    </item>
+    <item>
+      <title>Joint Study by AWS, NVIDIA, LBNL, and NASA Establishes Framework for Quantum-HPC Integration</title>
+      <link>https://quantumcomputingreport.com/joint-study-by-aws-nvidia-lbnl-and-nasa-establishes-framework-for-quantum-hpc-integration/</link>
+      <guid isPermaLink="false">2026-07-21-joint-study-by-aws-nvidia-lbnl-and-nasa-establishes-framewor</guid>
+      <pubDate>Tue, 21 Jul 2026 02:48:06 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Computing Report</description>
+    </item>
+    <item>
+      <title>Bloch Quantum Tech Hub Secures $55M in Federal and Matching Grants to Build U.S. Quantum Supply Chain</title>
+      <link>https://quantumcomputingreport.com/bloch-quantum-tech-hub-secures-55m-in-federal-and-matching-grants-to-build-u-s-quantum-supply-chain/</link>
+      <guid isPermaLink="false">2026-07-21-bloch-quantum-tech-hub-secures-55m-in-federal-and-matching-g</guid>
+      <pubDate>Tue, 21 Jul 2026 02:38:49 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Computing Report</description>
+    </item>
+    <item>
+      <title>BTQ Technologies and TIDAL PWR Partner to Develop Trusted Quantum Data Center Reference Architectures</title>
+      <link>https://quantumcomputingreport.com/btq-technologies-and-tidal-pwr-partner-to-develop-trusted-quantum-data-center-reference-architectures/</link>
+      <guid isPermaLink="false">2026-07-21-btq-technologies-and-tidal-pwr-partner-to-develop-trusted-qu</guid>
+      <pubDate>Mon, 20 Jul 2026 17:52:03 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Computing Report</description>
+    </item>
+    <item>
+      <title>Israel Innovation Authority Launches NIS 100M ($33M USD) Call to Build National Quantum R&amp;D Infrastructure</title>
+      <link>https://quantumcomputingreport.com/israel-innovation-authority-launches-nis-100m-call-to-build-national-quantum-rd-infrastructure/</link>
+      <guid isPermaLink="false">2026-07-21-israel-innovation-authority-launches-nis-100m-33m-usd-call-t</guid>
+      <pubDate>Mon, 20 Jul 2026 17:29:46 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Computing Report</description>
+    </item>
+    <item>
+      <title>Zhongqi Wuliang Unveils Server-Rack Neutral-Atom Quantum Computer at WAIC 2026</title>
+      <link>https://quantumcomputingreport.com/zhongqi-wuliang-unveils-server-rack-neutral-atom-quantum-computer-at-waic-2026/</link>
+      <guid isPermaLink="false">2026-07-21-zhongqi-wuliang-unveils-server-rack-neutral-atom-quantum-com</guid>
+      <pubDate>Mon, 20 Jul 2026 12:59:57 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Computing Report</description>
+    </item>
+    <item>
+      <title>A framework for quantum-classical integration decisions</title>
+      <link>https://aws.amazon.com/blogs/quantum-computing/a-framework-for-quantum-classical-integration-decisions/</link>
+      <guid isPermaLink="false">2026-07-21-a-framework-for-quantum-classical-integration-decisions</guid>
+      <pubDate>Mon, 20 Jul 2026 18:38:09 GMT</pubDate>
+      <category>software</category>
+      <description>via AWS Quantum Technologies Blog</description>
+    </item>
+    <item>
+      <title>University of Mainz Team Identifies Schmidt Rank Threshold for Deterministic Bell Measurements</title>
+      <link>https://quantumzeitgeist.com/university-mainz-schmidt-rank-threshold-deterministic-bell/</link>
+      <guid isPermaLink="false">2026-07-21-university-of-mainz-team-identifies-schmidt-rank-threshold-f</guid>
+      <pubDate>Mon, 20 Jul 2026 17:46:00 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Zeitgeist</description>
+    </item>
+    <item>
+      <title>Researchers Detail New Ion Trap Array for Scalable Quantum Computing From MCQST</title>
+      <link>https://quantumzeitgeist.com/munich-center-quantum-science-technology-mcqst-detail-ion-trap-array/</link>
+      <guid isPermaLink="false">2026-07-21-researchers-detail-new-ion-trap-array-for-scalable-quantum-c</guid>
+      <pubDate>Mon, 20 Jul 2026 15:07:54 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Zeitgeist</description>
+    </item>
+    <item>
+      <title>US moves to strengthen quantum hardware supply chain with isotope breakthrough - SDxCentral</title>
+      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxPYldDOU14TlhISXJmVU9VT2hoYjZPSG5nQW5jcUJHaEdHYUZ5aE4wY05hQkhYX0VhYVlxeDJFYmtWNE9ZcW41NklMUTdCOHBEdDdGb0lqSlAxcDBVU2IwSWpqU1pXaHFSOUhaTTdhYTRXOTZneFRCdlNSZklPNlVhSTBmQmlXcTZLdTNDems0dURPQ2dnY05HLW9KcTgybExiLXlKTXNoajdfdTlocHdBTw?oc=5</link>
+      <guid isPermaLink="false">2026-07-21-us-moves-to-strengthen-quantum-hardware-supply-chain-with-is</guid>
+      <pubDate>Tue, 21 Jul 2026 07:52:30 GMT</pubDate>
+      <category>industry</category>
+      <description>via Google News — quantum computing</description>
+    </item>
+    <item>
+      <title>Israel Innovation Authority Launches $33M Quantum Computing Initiative - Quantum Zeitgeist</title>
+      <link>https://news.google.com/rss/articles/CBMieEFVX3lxTE05S1lKQzM1NFluZ0xvMHdTQkdTRzV2NTRwcDBHSmtULS1DSHFXTDlhT3dpSjhBd1pkVkhDREY0eEpybkRIUEZ3NlRfdFFWYTlyUmFiVjlSN2JSblRWWEFuTUJVeFVzWDRRZVVzSl9abWhwUVBPVS1Hbw?oc=5</link>
+      <guid isPermaLink="false">2026-07-21-israel-innovation-authority-launches-33m-quantum-computing-i</guid>
+      <pubDate>Tue, 21 Jul 2026 07:30:00 GMT</pubDate>
+      <category>industry</category>
+      <description>via Google News — quantum computing</description>
+    </item>
+    <item>
+      <title>QodeX Finds Quantum Models Mirror Linear Feature Bias - Quantum Zeitgeist</title>
+      <link>https://news.google.com/rss/articles/CBMie0FVX3lxTE1qY2JhSFdMYUd5NkQ0SUNRclRRYXpQaHBqTUdIWklZM0ZORGszRE9VQk9RXzVnbWNwZ01QaTN6UkVITlNleV9EamdNUTAxRDhkb2xsT2gwbW16dkJCRm1HU1d3QWpuVkQ4Yl9wSDE3ZWVCTTZ6ZHl2c3U3TQ?oc=5</link>
+      <guid isPermaLink="false">2026-07-21-qodex-finds-quantum-models-mirror-linear-feature-bias-quantu</guid>
+      <pubDate>Tue, 21 Jul 2026 07:30:00 GMT</pubDate>
+      <category>industry</category>
+      <description>via Google News — quantum computing</description>
+    </item>
+    <item>
+      <title>Logarithmic Scaling Breakthrough Slashes Quantum Hamiltonian Descent Register Requirements - Quantum Zeitgeist</title>
+      <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxQME01RERnSDl6aUdPX3Ezd2xCRlVOemV5SmI5dnFaZFNiVWZpd1NoQmNuS3RTQ0Q5OTllbGtYNmJ4UFBzQjZxLThTbEJENFdVTkN3WU5SVGttblNPVnlLQ0lmX09NWUo0Q2JUQVJxclpMSks1WGluMEthWUZuWlVBOWdCQWo?oc=5</link>
+      <guid isPermaLink="false">2026-07-21-logarithmic-scaling-breakthrough-slashes-quantum-hamiltonian</guid>
+      <pubDate>Tue, 21 Jul 2026 07:30:00 GMT</pubDate>
+      <category>industry</category>
+      <description>via Google News — quantum computing</description>
+    </item>
+    <item>
+      <title>BTQ, TIDAL PWR Build Quantum Data Center Reference Architecture - Quantum Zeitgeist</title>
+      <link>https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZaGNrcFNCMGZ1V3ZOVlRJbnAzNlRLN0k3WjFfRmoxUFp2Q3dwT0JIYzFncUxXNDhpbGlTckVMUk1CQnRrdU54d083VTNmZmdkYnpFQjFRSDNOa0RuTG1KQnh6X1JPcWs3cEZTcXNib2k?oc=5</link>
+      <guid isPermaLink="false">2026-07-21-btq-tidal-pwr-build-quantum-data-center-reference-architectu</guid>
+      <pubDate>Tue, 21 Jul 2026 07:30:00 GMT</pubDate>
+      <category>industry</category>
+      <description>via Google News — quantum computing</description>
+    </item>
+    <item>
+      <title>Quantum Computing Centre invest £7 million in control tech - UKAuthority</title>
+      <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxPYkRjRUFacE1PLVZBN2M3OXZycmFPQjc3UHlOZjJwU3FtaEEwbmNldU1SMDFQcFBBc3FuTTRBbGtYNjRlU2lYOE1KN3EwNFhPZUxKNmdLeVhxVWxZdm9ZMlBOQ3VfRndTMTY4UTJNdjdPdURGWS04cDZLQXp6UHFjc0dtaEJrV2lmek5WbGlXam1QbDAzQ0VKczRR?oc=5</link>
+      <guid isPermaLink="false">2026-07-21-quantum-computing-centre-invest-7-million-in-control-tech-uk</guid>
+      <pubDate>Tue, 21 Jul 2026 07:26:35 GMT</pubDate>
+      <category>industry</category>
+      <description>via Google News — quantum computing</description>
+    </item>
+    <item>
+      <title>DIS and DSTA Collaborate with IBM to Explore Quantum Computing for Mission Planning, Logistics Optimisation - mindef.gov.sg</title>
+      <link>https://news.google.com/rss/articles/CBMieEFVX3lxTFA3d20yLWtidzZtZ016MXhvV1dXNFd4Vlpaalk5c1JtSkl0VDgzZzEwSUYwamVia2NaWnIzNFJTOWlMOGpnLU9LQ0sxNzBBWjRzZEV2bUZNMDBYT0tMdmwyMW03QVBEdHNJcjY2VXcwUTNrd3hHTHpObQ?oc=5</link>
+      <guid isPermaLink="false">2026-07-21-dis-and-dsta-collaborate-with-ibm-to-explore-quantum-computi</guid>
+      <pubDate>Tue, 21 Jul 2026 06:11:26 GMT</pubDate>
+      <category>industry</category>
+      <description>via Google News — quantum computing</description>
+    </item>
+    <item>
+      <title>Quantum Computing Is Emerging as a Tool for Tomorrow’s Electrical Grids - POWER Magazine</title>
+      <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxPUnBXOEplWnZBUEFtdDhKZjdjNXBWN2poYjQ5UHE5dFpRWXhjSkZoRXg2VVdBSnVzQWNTS2EzMjVIRnNDT1VkMTZNbGxENmJ5VTNVSFZSMFRXZmhESkNmLURZVHI4ZHFCV3h2bFYtTUZKTG43N1didFJwa1lDVTFWUXFsRkQ4MzdUVGdEZkNGNHllTC1qdG81NUpOa1A?oc=5</link>
+      <guid isPermaLink="false">2026-07-21-quantum-computing-is-emerging-as-a-tool-for-tomorrow-s-elect</guid>
+      <pubDate>Tue, 21 Jul 2026 01:19:24 GMT</pubDate>
+      <category>industry</category>
+      <description>via Google News — quantum computing</description>
+    </item>
+    <item>
+      <title>Vietnam hosts first international quantum computing hackathon - Báo VietNamNet</title>
+      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxNOS15bWFJYUxRLXpxd3hSSHlLSDJ6cGlZMm9RYUhhcFhGVU1ucTMtQmJKYXpFTHNlTG14TFROcTZ2eVc2YjVmYVQ4MXVQdGt6Vzh5YXJtbHBKZTJSdVRXeHplZmJnbnlzdmNyVkZTa0dTSzZabVZqdmJMQ0FFOGRlY1JIOU1MamtrcW1GQWZyYXc5MjJ1RXlVRlZfdC1ESXFH?oc=5</link>
+      <guid isPermaLink="false">2026-07-21-vietnam-hosts-first-international-quantum-computing-hackatho</guid>
+      <pubDate>Tue, 21 Jul 2026 00:28:00 GMT</pubDate>
+      <category>industry</category>
+      <description>via Google News — quantum computing</description>
+    </item>
+    <item>
+      <title>Cutting through the quantum computing noise - Metal Tech News</title>
+      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxOQllkdFZ2UGpaNDR1bEpoSWozcU9VV3MzclVwU3FxZk5UcHBWVEVlcEl2WERId0RMWTVVem56R0QwM3ozU1B5Q2lIdFF6UzI5VzBjUUZsd0tTTUlWZGNBR0g5WGxIZHF6dFlNaHZfOFlPWGRiZEw1c0lweGZteDlQQkhpVDNaSFZSWDc1NmFpY1VIZ1ZZNHhLVDdKSzhCbFVmY2Z2Mzk4Sk9VemlXdENlNg?oc=5</link>
+      <guid isPermaLink="false">2026-07-21-cutting-through-the-quantum-computing-noise-metal-tech-news</guid>
+      <pubDate>Mon, 20 Jul 2026 21:09:33 GMT</pubDate>
+      <category>industry</category>
+      <description>via Google News — quantum computing</description>
+    </item>
+    <item>
+      <title>Material Assays Project Radiation Rates For SNOLAB Qubit Measurements - Quantum Zeitgeist</title>
+      <link>https://news.google.com/rss/articles/CBMie0FVX3lxTE5qNGRGTllEMFZTcDU3SmdLUEowWHROSnZYU0p0eTRsR0taR00tci02cnhxWjdUT296dmF4eWE5NmVpWWxDMEZPZ2hMX0tGbVBsUmhBMzhxVUxhYjFyR3gwTUM1RVk3MUlmX25sOWVCVnYyZllDN1didmpVRQ?oc=5</link>
+      <guid isPermaLink="false">2026-07-21-material-assays-project-radiation-rates-for-snolab-qubit-mea</guid>
+      <pubDate>Mon, 20 Jul 2026 20:38:39 GMT</pubDate>
+      <category>industry</category>
+      <description>via Google News — quantum computing</description>
+    </item>
+    <item>
+      <title>New Programming Language Enforces Causality In Quantum Programs - Quantum Zeitgeist</title>
+      <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxOOGZOd2hwXzZEU0RFd1I2VTVKUlhMN2pOUnY4VlhfLWc0RVZ5NXBQbGVsRmVYRTFkRzBYUDBvUnBnVGhuQ2NNN3BvX1YwdVBQU0FBaU5xTEVpZDM2eWNlT21TU3Rvb1ZQeUU5Wm1YX1dycDhUTnlqNFgtc0dKemUwVUdrNlQ1cmx4ZFhNb19LWVJZMFd4ZlZ6dA?oc=5</link>
+      <guid isPermaLink="false">2026-07-21-new-programming-language-enforces-causality-in-quantum-progr</guid>
+      <pubDate>Mon, 20 Jul 2026 20:27:20 GMT</pubDate>
+      <category>industry</category>
+      <description>via Google News — quantum computing</description>
+    </item>
+    <item>
+      <title>Mag 7 Earnings: How Expectations for Alphabet and Tesla Have Evolved - TradingView</title>
+      <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRkdLR01XblJuSklNeUphWlFoUWthTkc2WmRFN0d2Z3N1SE1UMy1ySHBlOVJlY3JqRnQ0eWFQM2IzMi1oNkcwQlM2U1N5ak5XZTM2aEp6OHBOVk8wQ3VJamtIQ0ZtM2xqa082WXV3ZFFLZVNlaWdPTS11dDJRUzR5X29EYlA5OUN2bjI1X0dXTDM1aTdXb0d1RkFISDl2RC10MVFJLWdkRk13T3VTWnA0eUtSaGdROVh1aEJDbWUycGk?oc=5</link>
+      <guid isPermaLink="false">2026-07-21-mag-7-earnings-how-expectations-for-alphabet-and-tesla-have-</guid>
+      <pubDate>Mon, 20 Jul 2026 20:12:00 GMT</pubDate>
+      <category>industry</category>
+      <description>via Google News — quantum computing</description>
+    </item>
+    <item>
+      <title>Non-Abelian Gauge Field Mechanics</title>
+      <link>https://arxiv.org/abs/2607.18215v1</link>
+      <guid isPermaLink="false">2026-07-21-non-abelian-gauge-field-mechanics</guid>
+      <pubDate>Mon, 20 Jul 2026 17:49:00 GMT</pubDate>
+      <category>research</category>
+      <description>via arXiv quant-ph</description>
+    </item>
+    <item>
+      <title>QuantiSpect: A Structure-Aware Lightweight 3D CNN Pre-Decoder for Scalable Surface Code Quantum Error Correction</title>
+      <link>https://arxiv.org/abs/2607.18204v1</link>
+      <guid isPermaLink="false">2026-07-21-quantispect-a-structure-aware-lightweight-3d-cnn-pre-decoder</guid>
+      <pubDate>Mon, 20 Jul 2026 17:43:08 GMT</pubDate>
+      <category>research</category>
+      <description>via arXiv quant-ph</description>
+    </item>
+    <item>
+      <title>Hardware Robustness of Sample-Based Quantum Diagonalization</title>
+      <link>https://arxiv.org/abs/2607.18196v1</link>
+      <guid isPermaLink="false">2026-07-21-hardware-robustness-of-sample-based-quantum-diagonalization</guid>
+      <pubDate>Mon, 20 Jul 2026 17:36:08 GMT</pubDate>
+      <category>research</category>
+      <description>via arXiv quant-ph</description>
+    </item>
+    <item>
+      <title>Semi-fractality and localization on a chiral Cayley tree</title>
+      <link>https://arxiv.org/abs/2607.18179v1</link>
+      <guid isPermaLink="false">2026-07-21-semi-fractality-and-localization-on-a-chiral-cayley-tree</guid>
+      <pubDate>Mon, 20 Jul 2026 17:16:17 GMT</pubDate>
+      <category>research</category>
+      <description>via arXiv quant-ph</description>
+    </item>
+    <item>
+      <title>Phase-Sensitive Benchmarking of Composite Quantum Gates with Chiral-Interference Circuits on Quantum Hardware</title>
+      <link>https://arxiv.org/abs/2607.18137v1</link>
+      <guid isPermaLink="false">2026-07-21-phase-sensitive-benchmarking-of-composite-quantum-gates-with</guid>
+      <pubDate>Mon, 20 Jul 2026 16:29:30 GMT</pubDate>
+      <category>research</category>
+      <description>via arXiv quant-ph</description>
+    </item>
+    <item>
+      <title>CutBackdoor: A Circuit Cut Triggered Backdoor Attack on Variational Quantum Algorithms</title>
+      <link>https://arxiv.org/abs/2607.18126v1</link>
+      <guid isPermaLink="false">2026-07-21-cutbackdoor-a-circuit-cut-triggered-backdoor-attack-on-varia</guid>
+      <pubDate>Mon, 20 Jul 2026 16:20:12 GMT</pubDate>
+      <category>research</category>
+      <description>via arXiv quant-ph</description>
+    </item>
+    <item>
+      <title>Exponential Reduction of Mesh Dependence in Quantum Estimation of Parabolic PDE Observables</title>
+      <link>https://arxiv.org/abs/2607.18113v1</link>
+      <guid isPermaLink="false">2026-07-21-exponential-reduction-of-mesh-dependence-in-quantum-estimati</guid>
+      <pubDate>Mon, 20 Jul 2026 16:09:24 GMT</pubDate>
+      <category>research</category>
+      <description>via arXiv quant-ph</description>
+    </item>
+    <item>
+      <title>Topology of the Set of Entangled State</title>
+      <link>https://arxiv.org/abs/2607.18105v1</link>
+      <guid isPermaLink="false">2026-07-21-topology-of-the-set-of-entangled-state</guid>
+      <pubDate>Mon, 20 Jul 2026 16:04:26 GMT</pubDate>
+      <category>research</category>
+      <description>via arXiv quant-ph</description>
+    </item>
+    <item>
+      <title>Foundry CMOS platform for multimodal quantum materials characterization</title>
+      <link>https://arxiv.org/abs/2607.18059v1</link>
+      <guid isPermaLink="false">2026-07-21-foundry-cmos-platform-for-multimodal-quantum-materials-chara</guid>
+      <pubDate>Mon, 20 Jul 2026 15:27:11 GMT</pubDate>
+      <category>research</category>
+      <description>via arXiv quant-ph</description>
+    </item>
+    <item>
+      <title>New bound on $S_{1}\times S_{2}$-setting Bell locality of a nonseparable Werner state</title>
+      <link>https://arxiv.org/abs/2607.18050v1</link>
+      <guid isPermaLink="false">2026-07-21-new-bound-on-s-1-times-s-2-setting-bell-locality-of-a-nonsep</guid>
+      <pubDate>Mon, 20 Jul 2026 15:20:10 GMT</pubDate>
+      <category>research</category>
+      <description>via arXiv quant-ph</description>
+    </item>
     <item>
       <title>DOE Advances Domestic Silicon and Germanium Isotope Supply Chains For Quantum Information Science</title>
       <link>https://thequantuminsider.com/2026/07/20/doe-advances-domestic-silicon-and-germanium-isotope-supply-chains-for-quantum-information-science/</link>
@@ -101,310 +405,6 @@
       <pubDate>Sun, 19 Jul 2026 09:45:32 GMT</pubDate>
       <category>industry</category>
       <description>via Quantum Zeitgeist</description>
-    </item>
-    <item>
-      <title>An ordinary laptop solved a problem thought to require a quantum computer - ScienceDaily</title>
-      <link>https://news.google.com/rss/articles/CBMibkFVX3lxTFBVRkpxcXpWZnhocHN6b0MtZ3Brb2U1dkRsWVlNSkRLeVBxbnZHZy1WWEtFaW96XzNSdXR4WDJUb21yWUFjNklzODJESVFpRGx3YW14MVpXOEhxOXctdXh2S1VHQkdveEJFekRkTnhn?oc=5</link>
-      <guid isPermaLink="false">2026-07-20-an-ordinary-laptop-solved-a-problem-thought-to-require-a-qua</guid>
-      <pubDate>Mon, 20 Jul 2026 07:41:54 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>DOE Labs Achieve Major Breakthrough in Ultra-Pure Isotope Production for Quantum Computing - AZoQuantum</title>
-      <link>https://news.google.com/rss/articles/CBMiXkFVX3lxTE5UbGZNTjVkX2Z0RFN2TVRwTlFTU1UyY1Exc0dyTFViaUFBTWlnbjBwTFdJYUJsX1Q1YllLa2RPZTNyRU5McnpzeW9Ic0l2RUlMRHZEVFRjWkVKWmhPbEE?oc=5</link>
-      <guid isPermaLink="false">2026-07-20-doe-labs-achieve-major-breakthrough-in-ultra-pure-isotope-pr</guid>
-      <pubDate>Mon, 20 Jul 2026 06:32:00 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>Quantum Sampling Opens a New Route Through Peptide Space - Science 2.0</title>
-      <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUTF6enV2ajhMWXltUVY5SXpkQWJzZFNHelV4ZTlkS3RMZ0dzQUxTZ04wZE1YU0FuNmhJaXozOUU5NkpEcW1Rc1MxbW9mUXpZNU5DZnNsSWJiR0lzb2RJbHNySWx2czV0UU5zdmNidnJKdU1ZZ0I1MFBoUl96RGY0bGpuWVZRbWNXdHVGLUkyTjJ3MW1mUHY0d2xmeDd2SXU2RklsZzRCX1U?oc=5</link>
-      <guid isPermaLink="false">2026-07-20-quantum-sampling-opens-a-new-route-through-peptide-space-sci</guid>
-      <pubDate>Mon, 20 Jul 2026 05:17:00 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>Forum Live: Exploring Quantum Inward &amp; Reaching for Space Outward - A Dialogue at the Starting Point of the New Computing Power Civilization - 36Kr</title>
-      <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zZmZTWHdOcW1ST1VSWXZtbzNyMTFnTFJjVWVsNHZSazFaaUE3ajJySUduSEs0X2w2WDY4OWJHWm9pY1NFUHFSYzNCcm9BWnp0Z0Uw?oc=5</link>
-      <guid isPermaLink="false">2026-07-20-forum-live-exploring-quantum-inward-reaching-for-space-outwa</guid>
-      <pubDate>Mon, 20 Jul 2026 04:43:40 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>Andrew Chi-Chih Yao × Gilles Brassard: Two Turing Award Winners Look Back on the Quantum Magic Moment - 36Kr</title>
-      <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9USXVnN2VZd18zQmFWbXZUTmduNmlkd0NjOEhqeHYwdjhwOXBqV0hMbkxlX1NRVDlpQVNncjRHckNDZkhEVFcydTdQUHk0VHJmZ0Y0?oc=5</link>
-      <guid isPermaLink="false">2026-07-20-andrew-chi-chih-yao-gilles-brassard-two-turing-award-winners</guid>
-      <pubDate>Mon, 20 Jul 2026 00:42:54 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>Digital Catapult welcomes new cohort to QTAP supporting UK industry - New Electronics</title>
-      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxQVVRxbGo1NkVrZ0thOTJ4bVRFZGVXa3ZLWUo4UFFQNGszQUlndlRTVU9CWnh6YU1iQlBpSkRQTkczcVZzZWptWUVKamQtdU01OV80eGFVUXo5dXFmNHhKWkpIOUplYi1ad25oMmllMlpyMnY1OUVjaWRjRzE2N1NWNm5vdXB1aXNMMkhNM0JpUmJpRXRjbTdXMkJWN182SVEzNjJfdUtzOHdTZXBFbEV4T3dCQQ?oc=5</link>
-      <guid isPermaLink="false">2026-07-20-digital-catapult-welcomes-new-cohort-to-qtap-supporting-uk-i</guid>
-      <pubDate>Sun, 19 Jul 2026 22:10:28 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>Quantum Computing Stocks To Follow Today - July 19th - MarketBeat</title>
-      <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxPaEJtZEN3T3dXVXFiVGI0WFFyZzlLaXp3SXV6a3Y0V21XbFBtWjN6Rkd5djd2RVMwUWtGd1FSSVpIQnF6bnR0UFBPUzVmbW10UWc1TUlhX05BRWhuNEdkRmlzY0R2OHRmTGx2R0RRZXQ5eEREclI2RjM3bjRPZjd6RjRFelNDanE1WU9oYmVLMlItRDlmZFpldDlDcm53N3AzemNkSUdRMA?oc=5</link>
-      <guid isPermaLink="false">2026-07-20-quantum-computing-stocks-to-follow-today-july-19th-marketbea</guid>
-      <pubDate>Sun, 19 Jul 2026 19:06:45 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>World Brain Day 2026: Human intelligence research lab, beyond quantum computing, AI? - Sedona.Biz</title>
-      <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxObEpMeE00MUp1eGpNLUhDWWZKVDlxS3N5MVE0RjduaDktVU9reDlkNHVIY0dDcVpzTlBNdllHZWVodEhMM0tnb1N2YlRXS0RHRmJVbFFjVlhhVjhSQnNuNjJsZkdSRGI2eXZnR0hPT3FNdF92MFQ4YzRkOHc0Vll1Wk9nN1I1SE9SUTVEOXIwaXVjdlU3S1MyN1l3OG81anNrZUE?oc=5</link>
-      <guid isPermaLink="false">2026-07-20-world-brain-day-2026-human-intelligence-research-lab-beyond-</guid>
-      <pubDate>Sun, 19 Jul 2026 17:29:18 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>2 Quantum Computing Stocks with 100%+ Upside Potential in 2026, According to Analysts - TipRanks</title>
-      <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ0pocW52a1RtallaTnZYbnRVQTh6Q1VLNURVdXhXbGNJR0JtamdIMW56WmFtSWt5R2x5LXkyenl6a3RwdUoxUkh6Vkw1dlZSMFltRktCOC1ySk5pREdaTExXZDFDVndIc0llb0QzRWtHTlpTdEV2N2ZDWDV0clYxalZxanBoQWtFckhUTU1iTGFqelUxOHlyOTVNV3phUGdFX0VpRzdacUVmWWIxQm5nWlFzQThJWnBM?oc=5</link>
-      <guid isPermaLink="false">2026-07-20-2-quantum-computing-stocks-with-100-upside-potential-in-2026</guid>
-      <pubDate>Sun, 19 Jul 2026 16:50:52 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>D-Wave Quantum's CEO Sold Over 50,000 Company Shares. Here's What That Means for Investors. - The Motley Fool</title>
-      <link>https://news.google.com/rss/articles/CBMiywFBVV95cUxNXzJqRm1tRnpxQ0U5NWp3YmpMelY3UUtNUXBPZWFuUXdrM0l2cXpYV1gxbW9xREViMjl6d2tMTzJsMEpRRWxFNXdELUd3Zm5pWGRhak53b0lMUFZrOHRHMzRLVFN1c2twdlFzSVp0MFZiSGJnVjYzZ192cE1pNDllb2N4TDRWbTdaR0c3M2M2Z0hLdjFWZGszdTRnWlBWMGc2Z1JaRGdPWmlieG5xb1FwdDMzSER3RFNQc1N1Wk1JMG93eUtZSjkySVBYOA?oc=5</link>
-      <guid isPermaLink="false">2026-07-20-d-wave-quantum-s-ceo-sold-over-50-000-company-shares-here-s-</guid>
-      <pubDate>Sun, 19 Jul 2026 16:23:00 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>Topological Materials Market Growth Forecast to 2035: Quantum Computing and Spintronics Drive Expansion - News and Statistics - IndexBox</title>
-      <link>https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUlo0NkVjcHczUWwweGlxOVdWYjFRSy1NMXQ0ZFZ0bmRvZ0JPeEtVZ0ZxOHA4T2lpZEFlYWVodGZ2S3ItZEdqWTlESXJESDN5LWNHdHVhUjlGYnh3UTUyUkRTZkRZX1JyT0lseHFpSmUzRDZWbHpHWEwyMUF1eGFmSjd4T3VFYVdOUEFKWFVIX2ZZTHl0ckRiN1BHd05MX0xMR2tqSTd6VS1SU3NmRl9WT1NPVVFWdlBtdEVmb1ZaX3lKbE16bTQ1VUZOTjkxWFozVThUczE3Y2pnQlNO?oc=5</link>
-      <guid isPermaLink="false">2026-07-20-topological-materials-market-growth-forecast-to-2035-quantum</guid>
-      <pubDate>Sun, 19 Jul 2026 15:06:12 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>Ukraine Quantum Computing Companies 2026: Complete Vendor Guide - Quantum Zeitgeist</title>
-      <link>https://news.google.com/rss/articles/CBMic0FVX3lxTE15VmROZFZUenREeGdvN1NNNGduYUxuVUh6UTNOWHdxWUkyWDUzQ1VMZFlYMUk2YXViZkJKclBDazRJX1M2OEhuSVJ5dVZGVXJ0SEg3OXh5WGdVTGdBVWtmSXFGT1lzS0VfSGxHOVVqOGtMZU0?oc=5</link>
-      <guid isPermaLink="false">2026-07-20-ukraine-quantum-computing-companies-2026-complete-vendor-gui</guid>
-      <pubDate>Sun, 19 Jul 2026 14:40:41 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>Quantum entanglement without transport: Leaky qubits offer route around noisy channels</title>
-      <link>https://phys.org/news/2026-07-quantum-entanglement-leaky-qubits-route.html</link>
-      <guid isPermaLink="false">2026-07-20-quantum-entanglement-without-transport-leaky-qubits-offer-ro</guid>
-      <pubDate>Sun, 19 Jul 2026 18:20:01 GMT</pubDate>
-      <category>research</category>
-      <description>via Phys.org — Quantum Physics</description>
-    </item>
-    <item>
-      <title>Guest Post: Patentability of Quantum Computing Inventions</title>
-      <link>https://thequantuminsider.com/2026/07/18/guest-post-patentability-of-quantum-computing-inventions/</link>
-      <guid isPermaLink="false">2026-07-19-guest-post-patentability-of-quantum-computing-inventions</guid>
-      <pubDate>Sat, 18 Jul 2026 10:57:47 GMT</pubDate>
-      <category>industry</category>
-      <description>via The Quantum Insider</description>
-    </item>
-    <item>
-      <title>Russia Quantum Computing Companies 2026: Complete Vendor Guide</title>
-      <link>https://quantumzeitgeist.com/russia-quantum-computing-companies/</link>
-      <guid isPermaLink="false">2026-07-19-russia-quantum-computing-companies-2026-complete-vendor-guid</guid>
-      <pubDate>Sat, 18 Jul 2026 18:43:00 GMT</pubDate>
-      <category>industry</category>
-      <description>via Quantum Zeitgeist</description>
-    </item>
-    <item>
-      <title>Luxembourg Quantum Computing Companies 2026: Complete Vendor Guide</title>
-      <link>https://quantumzeitgeist.com/luxembourg-quantum-computing-companies/</link>
-      <guid isPermaLink="false">2026-07-19-luxembourg-quantum-computing-companies-2026-complete-vendor-</guid>
-      <pubDate>Sat, 18 Jul 2026 10:02:00 GMT</pubDate>
-      <category>industry</category>
-      <description>via Quantum Zeitgeist</description>
-    </item>
-    <item>
-      <title>What Are qLDPC Codes?</title>
-      <link>https://quantumzeitgeist.com/what-are-qldpc-codes/</link>
-      <guid isPermaLink="false">2026-07-19-what-are-qldpc-codes</guid>
-      <pubDate>Sat, 18 Jul 2026 09:00:00 GMT</pubDate>
-      <category>industry</category>
-      <description>via Quantum Zeitgeist</description>
-    </item>
-    <item>
-      <title>China Startup Fits Quantum Computer in a Server Rack Without Cryogenic Cooling - Tech Times</title>
-      <link>https://news.google.com/rss/articles/CBMixwFBVV95cUxQMk9TcVB2WEZWckJWVDdMQ2pRSGhZV2MzeEV5X1BtVHVGVVhWUmdJb1JNanhOaTYtTnktdk5PNWpRZFBYcUozWHBCMFpQeThXbUxXU2FnMDJ2YzVWN3Z0WEEtalJTYkFQQjNpQkF6YlV3NVFNX0FDZ2QzNnh2eXMzX3VqSmhtYUdBaHJwcHJ1M1FYX2xKSmg1d3Y2YlF0S0ZBd2JoTnBYNkpObnU5QUdvQlBmdVBCQzRVZFgtaFRJaDRUNzVxbjd3?oc=5</link>
-      <guid isPermaLink="false">2026-07-19-china-startup-fits-quantum-computer-in-a-server-rack-without</guid>
-      <pubDate>Sun, 19 Jul 2026 01:53:25 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>Quantum Computing Stocks To Follow Now - July 18th - MarketBeat</title>
-      <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxNYUtzNEktS0J0aWMyMy1xZkk3bmxWVDV1RnpRZjJhYXY5MXFuNXpBYktpM1c5bWNQOE1wSEhXdG5rVnlMNGI5VDU0a3hEREtER2xsbjVsRTVKUWpQbWRHdUhZNGV4T1hrVkUxeGZReWY4SkxxTTE0VnU3bzVRckRfQ0NyRGEyRmJPaFNYSjdMZWJ0bzYySHZmbW11QUtkcjh6clNYNw?oc=5</link>
-      <guid isPermaLink="false">2026-07-19-quantum-computing-stocks-to-follow-now-july-18th-marketbeat</guid>
-      <pubDate>Sat, 18 Jul 2026 19:12:46 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>$Quantum Computing (QUBT.US)$ once again available for shorting. - Moomoo</title>
-      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxNUTduTGFLdmQ2UXVYSlQyRlNhZjlxX2JwTHBVOWZLRmtuNFRvaWc4bnFIXzVpSWgzMVBfRG9Wbjh1bFZpWFZITWdMNzBid1c4Z1o4b25DZE9lQnJyWUtoVTNKX1Fid1R5X0l4anFXZFJnNlRaVzZhLXlJUnZFOEN6c0d5NWM3T2tUa3M2MnFFdjdNbUN4S01kcksyZHBPRVB1aUl1eTNnRnphenhLMENGQ0pORQ?oc=5</link>
-      <guid isPermaLink="false">2026-07-19-quantum-computing-qubt-us-once-again-available-for-shorting-</guid>
-      <pubDate>Sat, 18 Jul 2026 15:29:03 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>New ‘fingerprint’ technique could catch faulty quantum hardware before it gets deployed - Interesting Engineering</title>
-      <link>https://news.google.com/rss/articles/CBMiigFBVV95cUxPbTBSYVVLZ1J0NW9LQ2NRcDNhUXRYdHR0TU9TU000Z1dHRHc5MVQzOHdqY0hOcF9MdEpIZlYwa1d2eUk4dDJONGJ5SG1TbXVjMnFIaXM3WlE0NXlNdU1XUFhfVjlVLTY3YjdCQTE3VHNwdy1mYjh6Ujkxc293aDBLZlVBR3l4VXV5cFE?oc=5</link>
-      <guid isPermaLink="false">2026-07-19-new-fingerprint-technique-could-catch-faulty-quantum-hardwar</guid>
-      <pubDate>Sat, 18 Jul 2026 13:02:00 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>Quantum Computing Stocks Split as Revenue Surge Meets Persistent Cash Burn - ChartMill</title>
-      <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdmVsNFhWY1ZmRWJWZDNRbzR1ZC15N1J5Z1RhRld3OHBZZ19EM0NjMldybEhsTmFham5NVW9qS1E3cTJJX2lka05iVHlvNTJ6djhsSFZjMk0zMjhLem9STXhQYmVZY0p0WUdBcmlNaWNOeGRUNmtUcW9Id3h6b0VST2pGYVlqX1RlNnEyNC05OS1YMjJjVHJ1c0Z1Uk9SSXZ0aThMcUlsMFZZbkR2WHhNMkVuV0JfdlpyUm81WWhPVU9zTFE?oc=5</link>
-      <guid isPermaLink="false">2026-07-19-quantum-computing-stocks-split-as-revenue-surge-meets-persis</guid>
-      <pubDate>Sat, 18 Jul 2026 12:35:47 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>How quantum circuits based on neutral atoms could find and fix errors</title>
-      <link>https://phys.org/news/2026-07-quantum-circuits-based-neutral-atoms.html</link>
-      <guid isPermaLink="false">2026-07-19-how-quantum-circuits-based-on-neutral-atoms-could-find-and-f</guid>
-      <pubDate>Sat, 18 Jul 2026 13:20:01 GMT</pubDate>
-      <category>research</category>
-      <description>via Phys.org — Quantum Physics</description>
-    </item>
-    <item>
-      <title>AI unlocks QLED recipe that doubles efficiency and boosts lifetime 40-fold</title>
-      <link>https://phys.org/news/2026-07-ai-qled-recipe-efficiency-boosts.html</link>
-      <guid isPermaLink="false">2026-07-19-ai-unlocks-qled-recipe-that-doubles-efficiency-and-boosts-li</guid>
-      <pubDate>Sat, 18 Jul 2026 12:00:09 GMT</pubDate>
-      <category>research</category>
-      <description>via Phys.org — Quantum Physics</description>
-    </item>
-    <item>
-      <title>QTREX Quantum Appoints Dr. Shlomit Chappel-Ram as Independent Director</title>
-      <link>https://thequantuminsider.com/2026/07/17/qtrex-quantum-appoints-shlomit-chappel-ram-independent-director/</link>
-      <guid isPermaLink="false">2026-07-18-qtrex-quantum-appoints-dr-shlomit-chappel-ram-as-independent</guid>
-      <pubDate>Fri, 17 Jul 2026 14:00:48 GMT</pubDate>
-      <category>industry</category>
-      <description>via The Quantum Insider</description>
-    </item>
-    <item>
-      <title>Top 25 Institutions Leading Quantum Computing Research in 2026</title>
-      <link>https://thequantuminsider.com/2026/07/17/top-quantum-computing-research-institutions-2026/</link>
-      <guid isPermaLink="false">2026-07-18-top-25-institutions-leading-quantum-computing-research-in-20</guid>
-      <pubDate>Fri, 17 Jul 2026 13:50:29 GMT</pubDate>
-      <category>industry</category>
-      <description>via The Quantum Insider</description>
-    </item>
-    <item>
-      <title>Tennessee Launches K-12 Quantum Education Program Through TN QuantumWorks</title>
-      <link>https://thequantuminsider.com/2026/07/17/tn-quantumworks-k12-quantum-education-program/</link>
-      <guid isPermaLink="false">2026-07-18-tennessee-launches-k-12-quantum-education-program-through-tn</guid>
-      <pubDate>Fri, 17 Jul 2026 12:31:06 GMT</pubDate>
-      <category>industry</category>
-      <description>via The Quantum Insider</description>
-    </item>
-    <item>
-      <title>Who’s News: Strategic Appointments at Pasqal, PsiQuantum, and Haiqu</title>
-      <link>https://quantumcomputingreport.com/whos-news-strategic-appointments-at-pasqal-psiquantum-and-haiqu/</link>
-      <guid isPermaLink="false">2026-07-18-who-s-news-strategic-appointments-at-pasqal-psiquantum-and-h</guid>
-      <pubDate>Sat, 18 Jul 2026 05:04:36 GMT</pubDate>
-      <category>industry</category>
-      <description>via Quantum Computing Report</description>
-    </item>
-    <item>
-      <title>Aqarios Enters Public Markets via SPAC, Becoming Germany’s First Listed Quantum Pure-Play</title>
-      <link>https://quantumcomputingreport.com/aqarios-enters-public-markets-via-spac-becoming-germanys-first-listed-quantum-pure-play/</link>
-      <guid isPermaLink="false">2026-07-18-aqarios-enters-public-markets-via-spac-becoming-germany-s-fi</guid>
-      <pubDate>Sat, 18 Jul 2026 04:44:06 GMT</pubDate>
-      <category>industry</category>
-      <description>via Quantum Computing Report</description>
-    </item>
-    <item>
-      <title>Singapore’s pQCee Raises $3.9M Seed Round to Accelerate Global Crypto-Agility Deployment</title>
-      <link>https://quantumcomputingreport.com/singapores-pqcee-raises-3-9m-seed-round-to-accelerate-global-crypto-agility-deployment/</link>
-      <guid isPermaLink="false">2026-07-18-singapore-s-pqcee-raises-3-9m-seed-round-to-accelerate-globa</guid>
-      <pubDate>Sat, 18 Jul 2026 04:17:40 GMT</pubDate>
-      <category>industry</category>
-      <description>via Quantum Computing Report</description>
-    </item>
-    <item>
-      <title>Tennessee Launces Comprehensive K–12 Quantum Education and Career Initiative</title>
-      <link>https://quantumcomputingreport.com/tennessee-launces-comprehensive-k-12-quantum-education-and-career-initiative/</link>
-      <guid isPermaLink="false">2026-07-18-tennessee-launces-comprehensive-k-12-quantum-education-and-c</guid>
-      <pubDate>Sat, 18 Jul 2026 03:56:58 GMT</pubDate>
-      <category>industry</category>
-      <description>via Quantum Computing Report</description>
-    </item>
-    <item>
-      <title>Quantinuum and Academic Partners Demonstrate First Universal Topological Gate Set via Non-Abelian Anyons</title>
-      <link>https://quantumcomputingreport.com/quantinuum-and-academic-partners-demonstrate-first-universal-topological-gate-set-via-non-abelian-anyons/</link>
-      <guid isPermaLink="false">2026-07-18-quantinuum-and-academic-partners-demonstrate-first-universal</guid>
-      <pubDate>Sat, 18 Jul 2026 03:41:47 GMT</pubDate>
-      <category>industry</category>
-      <description>via Quantum Computing Report</description>
-    </item>
-    <item>
-      <title>Digital Catapult and NQCC Launch Third QTAP Cohort, Introducing Banking and Healthcare Streams</title>
-      <link>https://quantumcomputingreport.com/digital-catapult-and-nqcc-launch-third-qtap-cohort-introducing-banking-and-healthcare-streams/</link>
-      <guid isPermaLink="false">2026-07-18-digital-catapult-and-nqcc-launch-third-qtap-cohort-introduci</guid>
-      <pubDate>Sat, 18 Jul 2026 03:28:46 GMT</pubDate>
-      <category>industry</category>
-      <description>via Quantum Computing Report</description>
-    </item>
-    <item>
-      <title>Quantum Source and Israel’s DDR&amp;D Demonstrate Calibration-Free, Single-Atom Entangled Photon Source</title>
-      <link>https://quantumcomputingreport.com/quantum-source-and-israels-ddrd-demonstrate-calibration-free-single-atom-entangled-photon-source/</link>
-      <guid isPermaLink="false">2026-07-18-quantum-source-and-israel-s-ddr-d-demonstrate-calibration-fr</guid>
-      <pubDate>Sat, 18 Jul 2026 03:10:23 GMT</pubDate>
-      <category>industry</category>
-      <description>via Quantum Computing Report</description>
-    </item>
-    <item>
-      <title>Quantum Source Alpha Labs Proposes Hybrid Photon-Atom Blueprint for Fault-Tolerant Computing</title>
-      <link>https://quantumcomputingreport.com/quantum-source-alpha-labs-proposes-hybrid-photon-atom-blueprint-for-fault-tolerant-computing/</link>
-      <guid isPermaLink="false">2026-07-18-quantum-source-alpha-labs-proposes-hybrid-photon-atom-bluepr</guid>
-      <pubDate>Sat, 18 Jul 2026 02:49:32 GMT</pubDate>
-      <category>industry</category>
-      <description>via Quantum Computing Report</description>
-    </item>
-    <item>
-      <title>ESA Installs Its First On-Premises Quantum Computer to Boost Earth Observation Capabilities</title>
-      <link>https://quantumcomputingreport.com/esa-installs-its-first-on-premises-quantum-computer-to-boost-earth-observation-capabilities/</link>
-      <guid isPermaLink="false">2026-07-18-esa-installs-its-first-on-premises-quantum-computer-to-boost</guid>
-      <pubDate>Sat, 18 Jul 2026 02:37:17 GMT</pubDate>
-      <category>industry</category>
-      <description>via Quantum Computing Report</description>
-    </item>
-    <item>
-      <title>IBM Improves Qubit Reset by 25x and Releases Qiskit v2.5</title>
-      <link>https://quantumcomputingreport.com/ibm-improves-qubit-reset-by-25x-and-releases-qiskit-v2-5/</link>
-      <guid isPermaLink="false">2026-07-18-ibm-improves-qubit-reset-by-25x-and-releases-qiskit-v2-5</guid>
-      <pubDate>Fri, 17 Jul 2026 23:31:03 GMT</pubDate>
-      <category>industry</category>
-      <description>via Quantum Computing Report</description>
-    </item>
-    <item>
-      <title>Loss Mechanisms in High-Coherence Multimode Mechanical Resonators Coupled to Superconducting Circuits</title>
-      <link>http://link.aps.org/doi/10.1103/vszq-z1sh</link>
-      <guid isPermaLink="false">2026-07-18-loss-mechanisms-in-high-coherence-multimode-mechanical-reson</guid>
-      <pubDate>Fri, 17 Jul 2026 10:00:00 GMT</pubDate>
-      <category>research</category>
-      <description>via PRX Quantum</description>
     </item>
   </channel>
 </rss>
