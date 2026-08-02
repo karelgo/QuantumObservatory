@@ -5,7 +5,239 @@
     <link>https://github.com/karelgo/QuantumObservatory</link>
     <description>Everything that happened in quantum computing, collapsed into one daily digest. A QuantumVerse sister project.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Aug 2026 08:11:28 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 08:13:01 GMT</lastBuildDate>
+    <item>
+      <title>Two Hands Corporation Begins External Beta Testing for EntangleX Quantum Simulator</title>
+      <link>https://quantumcomputingreport.com/two-hands-corporation-begins-external-beta-testing-for-entanglex-quantum-simulator/</link>
+      <guid isPermaLink="false">2026-08-02-two-hands-corporation-begins-external-beta-testing-for-entan</guid>
+      <pubDate>Sat, 01 Aug 2026 12:34:52 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Computing Report</description>
+    </item>
+    <item>
+      <title>IQM and Deutsche Bahn Execute Hybrid Quantum Algorithm for Railway Scheduling</title>
+      <link>https://quantumcomputingreport.com/iqm-and-deutsche-bahn-execute-hybrid-quantum-algorithm-for-railway-scheduling/</link>
+      <guid isPermaLink="false">2026-08-02-iqm-and-deutsche-bahn-execute-hybrid-quantum-algorithm-for-r</guid>
+      <pubDate>Sat, 01 Aug 2026 12:22:47 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Computing Report</description>
+    </item>
+    <item>
+      <title>EY Expands In-House Capabilities with On-Site Quantum Computer Hub in Canada</title>
+      <link>https://quantumcomputingreport.com/ey-expands-in-house-capabilities-with-on-site-quantum-computer-hub-in-canada/</link>
+      <guid isPermaLink="false">2026-08-02-ey-expands-in-house-capabilities-with-on-site-quantum-comput</guid>
+      <pubDate>Sat, 01 Aug 2026 12:09:50 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Computing Report</description>
+    </item>
+    <item>
+      <title>Vexlum Establishes UK Operations and Appoints Dr. Stefan Truppe as Managing Director</title>
+      <link>https://quantumcomputingreport.com/vexlum-establishes-uk-operations-and-appoints-dr-stefan-truppe-as-managing-director/</link>
+      <guid isPermaLink="false">2026-08-02-vexlum-establishes-uk-operations-and-appoints-dr-stefan-trup</guid>
+      <pubDate>Sat, 01 Aug 2026 11:51:51 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Computing Report</description>
+    </item>
+    <item>
+      <title>NSF Awards UC San Diego $18 Million MRSEC Grant for Quantum Materials Development in $108 Million National Materials Initiative</title>
+      <link>https://quantumcomputingreport.com/nsf-awards-uc-san-diego-18-million-mrsec-grant-for-quantum-materials-development-in-108-million-national-materials-initiative/</link>
+      <guid isPermaLink="false">2026-08-02-nsf-awards-uc-san-diego-18-million-mrsec-grant-for-quantum-m</guid>
+      <pubDate>Sat, 01 Aug 2026 11:34:53 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Computing Report</description>
+    </item>
+    <item>
+      <title>Podcast with Cierra Lunde and Mike Kilroy from HKA Marketing Communications</title>
+      <link>https://quantumcomputingreport.com/podcast-with-cierra-lunde-and-mike-kilroy-from-hka-marketing-communications/</link>
+      <guid isPermaLink="false">2026-08-02-podcast-with-cierra-lunde-and-mike-kilroy-from-hka-marketing</guid>
+      <pubDate>Sat, 01 Aug 2026 11:14:14 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Computing Report</description>
+    </item>
+    <item>
+      <title>Cleveland Clinic and IBM Develop Quantum Machine Learning Model for Cancer Neoantigen Prediction</title>
+      <link>https://quantumcomputingreport.com/cleveland-clinic-and-ibm-develop-quantum-machine-learning-model-for-cancer-neoantigen-prediction/</link>
+      <guid isPermaLink="false">2026-08-02-cleveland-clinic-and-ibm-develop-quantum-machine-learning-mo</guid>
+      <pubDate>Sat, 01 Aug 2026 09:54:24 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Computing Report</description>
+    </item>
+    <item>
+      <title>Kalman Filter Reduces Magnetic Field Drift in Quantum Gas Experiments</title>
+      <link>https://quantumzeitgeist.com/vilnius-university-kalman-filter-reduces-magnetic/</link>
+      <guid isPermaLink="false">2026-08-02-kalman-filter-reduces-magnetic-field-drift-in-quantum-gas-ex</guid>
+      <pubDate>Sat, 01 Aug 2026 18:08:33 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Zeitgeist</description>
+    </item>
+    <item>
+      <title>NRL’s Quantum Science Institute Coordinates Navy’s QIST Research</title>
+      <link>https://quantumzeitgeist.com/quantum-science-navys-qist-research-nrls/</link>
+      <guid isPermaLink="false">2026-08-02-nrl-s-quantum-science-institute-coordinates-navy-s-qist-rese</guid>
+      <pubDate>Sat, 01 Aug 2026 18:05:19 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Zeitgeist</description>
+    </item>
+    <item>
+      <title>New Qubit Suppresses Odd Harmonics by Two Orders of Magnitude</title>
+      <link>https://quantumzeitgeist.com/colorado-boulder-qubit-suppresses-harmonics-odd/</link>
+      <guid isPermaLink="false">2026-08-02-new-qubit-suppresses-odd-harmonics-by-two-orders-of-magnitud</guid>
+      <pubDate>Sat, 01 Aug 2026 18:03:56 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Zeitgeist</description>
+    </item>
+    <item>
+      <title>Superconducting Qubits Show Time-Crystalline Order for 120 Cycles</title>
+      <link>https://quantumzeitgeist.com/zhejiang-university-superconducting-qubits-time-crystalline/</link>
+      <guid isPermaLink="false">2026-08-02-superconducting-qubits-show-time-crystalline-order-for-120-c</guid>
+      <pubDate>Sat, 01 Aug 2026 18:03:52 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Zeitgeist</description>
+    </item>
+    <item>
+      <title>IBM &amp; Chicago Verify Quantum Advantage With New Error Correction</title>
+      <link>https://quantumzeitgeist.com/quantum-error-correction-ibm-chicago/</link>
+      <guid isPermaLink="false">2026-08-02-ibm-chicago-verify-quantum-advantage-with-new-error-correcti</guid>
+      <pubDate>Sat, 01 Aug 2026 18:02:40 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Zeitgeist</description>
+    </item>
+    <item>
+      <title>Cartagena Engineers Quantum Measure Critical Point for Self-Sustained Magnetometer</title>
+      <link>https://quantumzeitgeist.com/universidad-politecnica-de-cartagena-engineers-quantum/</link>
+      <guid isPermaLink="false">2026-08-02-cartagena-engineers-quantum-measure-critical-point-for-self-</guid>
+      <pubDate>Sat, 01 Aug 2026 17:31:00 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Zeitgeist</description>
+    </item>
+    <item>
+      <title>Chloe Lubinski of Anthropic Rebuilt Her Life by Changing One Belief</title>
+      <link>https://quantumzeitgeist.com/chloe-lubinski/</link>
+      <guid isPermaLink="false">2026-08-02-chloe-lubinski-of-anthropic-rebuilt-her-life-by-changing-one</guid>
+      <pubDate>Sat, 01 Aug 2026 16:27:03 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Zeitgeist</description>
+    </item>
+    <item>
+      <title>Graph Trace Formula Links Quantum Probability to Curvature</title>
+      <link>https://quantumzeitgeist.com/china-graph-trace-formula-links-quantum/</link>
+      <guid isPermaLink="false">2026-08-02-graph-trace-formula-links-quantum-probability-to-curvature</guid>
+      <pubDate>Sat, 01 Aug 2026 15:53:00 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Zeitgeist</description>
+    </item>
+    <item>
+      <title>Quantum Circuit Compresses Flow Surrogates to Fewer Than 100 Parameters</title>
+      <link>https://quantumzeitgeist.com/university-college-london-quantum-circuit-compresses/</link>
+      <guid isPermaLink="false">2026-08-02-quantum-circuit-compresses-flow-surrogates-to-fewer-than-100</guid>
+      <pubDate>Sat, 01 Aug 2026 12:32:00 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Zeitgeist</description>
+    </item>
+    <item>
+      <title>Slovenia Quantum Computing Companies, The Complete Vendor Guide</title>
+      <link>https://quantumzeitgeist.com/slovenia-quantum-computing-companies/</link>
+      <guid isPermaLink="false">2026-08-02-slovenia-quantum-computing-companies-the-complete-vendor-gui</guid>
+      <pubDate>Sat, 01 Aug 2026 11:37:00 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Zeitgeist</description>
+    </item>
+    <item>
+      <title>The Quantum Arms Race Is Already Here - The Times of Israel</title>
+      <link>https://news.google.com/rss/articles/CBMiekFVX3lxTE1uODM0QjNxS2h4OXlvdmN5S1JFa1lLTW1qb2hxNTBOdGhROUtaVVpKMGU4aFV3OXFKNWI4ZUd3MldHR1FxN2QxNTVhekVNVVR2cjNSRmMxcW1PS1VHWlVLM0hPdTduRzNPeXBuYjZfR2FaN0g5MDU1NW9B?oc=5</link>
+      <guid isPermaLink="false">2026-08-02-the-quantum-arms-race-is-already-here-the-times-of-israel</guid>
+      <pubDate>Sun, 02 Aug 2026 06:45:00 GMT</pubDate>
+      <category>industry</category>
+      <description>via Google News — quantum computing</description>
+    </item>
+    <item>
+      <title>'That Is The End Of Bitcoin'—The Quantum Race For $470 Billion - Forbes</title>
+      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxQV0pHcThjb0tldHlua0VqakM0TXEyYS1RS2NnOWlLYU9VdDExRU84NlRVbGg4cEJleE1ab25pYUxmdldoX21rbUlzeTB5NFRiNl8xR3ZBUkRTMVJzenc0VmtwV3pQc1d4dGV6aVduXzNkbkFoMl9JX0paa1R5RkJ0SzlnejdUM2R0bVY5WlZZR1A5ZFlvaE5QeVRTYXRtWVZaUkFxTkFrRVVkV0Y4Q3cyWlFB?oc=5</link>
+      <guid isPermaLink="false">2026-08-02-that-is-the-end-of-bitcoin-the-quantum-race-for-470-billion-</guid>
+      <pubDate>Sun, 02 Aug 2026 05:25:00 GMT</pubDate>
+      <category>industry</category>
+      <description>via Google News — quantum computing</description>
+    </item>
+    <item>
+      <title>EY Deploys On-Site Quantum Computing For Enterprise Transformation - Quantum Zeitgeist</title>
+      <link>https://news.google.com/rss/articles/CBMifkFVX3lxTE5XR0IyelhEbUo5MXhRaHRDX3Rfal9lOUk0bWh0YnlBaUcyeEZFQkdOd3dpXy1hOXgzck9xd2FUQ1BhZURocDAyZGRVRUttUy1CcTJ3TjBRa21VekM3RmxaT3J3bDhzS3NoSDJpQzM3Y2hCcWJmWWk2dHNnUEF4UQ?oc=5</link>
+      <guid isPermaLink="false">2026-08-02-ey-deploys-on-site-quantum-computing-for-enterprise-transfor</guid>
+      <pubDate>Sat, 01 Aug 2026 23:46:19 GMT</pubDate>
+      <category>industry</category>
+      <description>via Google News — quantum computing</description>
+    </item>
+    <item>
+      <title>Lov Grover, The Definitive Profile Of The 1996 Quantum Search Pioneer - Quantum Zeitgeist</title>
+      <link>https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rUHEtUER6dHFWQTRMY2tSQU9TempCRFg1RnpwYlB2VE01RHNXLWRJalhXVWZpZGUzRlRTbHBCRUxwSXJ5d1lCeEw0TFVTTGlKaFE?oc=5</link>
+      <guid isPermaLink="false">2026-08-02-lov-grover-the-definitive-profile-of-the-1996-quantum-search</guid>
+      <pubDate>Sat, 01 Aug 2026 23:46:19 GMT</pubDate>
+      <category>industry</category>
+      <description>via Google News — quantum computing</description>
+    </item>
+    <item>
+      <title>Quantum Photons Survive a 24-Kilometer Journey Through Chicago’s Busy Internet - SciTechDaily</title>
+      <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxOX2ZyMEllNFZ4dlRBTWlnUERybVZCWFdjbjhabzIzOURWRzNzTGdKcmRNMkhvQm9UektOZm9yamZJdVFoWTNGcmJwbU5GWUdBbFE1QVpmUzVmV2ZONDJjWHRQbXdSTkFERWpvLWdDTjJjUkFnTTVIYUh5VG5HYVZRMWJYY05NVWY1Qm1QVmFha01fazluNVJBX3Vqa2FORy02TGRaTVVR?oc=5</link>
+      <guid isPermaLink="false">2026-08-02-quantum-photons-survive-a-24-kilometer-journey-through-chica</guid>
+      <pubDate>Sat, 01 Aug 2026 22:24:05 GMT</pubDate>
+      <category>industry</category>
+      <description>via Google News — quantum computing</description>
+    </item>
+    <item>
+      <title>Quantum Computing’s “Dark Horse” Just Cleared a Major Hurdle - SciTechDaily</title>
+      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTl90dFJyNkdFT2J4Z2Jzc0pJTndnR2V2bWRPMTNkczBaSTA3dVJrSEJPM1laUUNfUTFJSk50RVVTM01qLXFzMXU2UWFRWEtrRGpVYU9UNlZJckNIU3dVVVkwRXhScnliaTZPM25Db2ZvWTBxVW9MOVduMU9faEVEMEdjczFKR3FrQmRF?oc=5</link>
+      <guid isPermaLink="false">2026-08-02-quantum-computing-s-dark-horse-just-cleared-a-major-hurdle-s</guid>
+      <pubDate>Sat, 01 Aug 2026 21:49:25 GMT</pubDate>
+      <category>industry</category>
+      <description>via Google News — quantum computing</description>
+    </item>
+    <item>
+      <title>Quantum Computing Stocks To Keep An Eye On - August 1st - MarketBeat</title>
+      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWjd0WHl2M0k2bnlCcmM3eWo1VHhnd3J2NHFVbmZ5NXhRX3JHb3EtenY5WWROSXQtczdULVJoeWh6ZkJ4cC1MYVgzMGxpaWM5YjZPMUc4YXVmdFhVOXhmdGt6aWNMcFpYUVdyQnBGSjRCMGEzdnRfbnRTMmR4Q2g4R3FnVGpxa1Z5ZUdGZW1UVWdybmVfM3V2OHRJZ1lIWi05ZkFqUURsRXBBakE?oc=5</link>
+      <guid isPermaLink="false">2026-08-02-quantum-computing-stocks-to-keep-an-eye-on-august-1st-market</guid>
+      <pubDate>Sat, 01 Aug 2026 19:09:10 GMT</pubDate>
+      <category>industry</category>
+      <description>via Google News — quantum computing</description>
+    </item>
+    <item>
+      <title>Governments have spent billions on quantum computers. Has AI usurped them? - ABC News &amp; Headlines – Australian Broadcasting Corporation</title>
+      <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxQU0hTdlNSY0JpcXRhVURJMU9QcEt5LUhQX3lubWdJY0VyQ1pvQ2Nnazg0S19DTmVydlFaQjNDYzZoS2x3bVM3cklBbzFOYVhadnBGWUV5b2ttREl4Wlk1SktNZlBrU0VoaWg5NG1xM1pjdnA1QnhBX1VJZmplbGVsaFZrLXJUeUFnR3FINg?oc=5</link>
+      <guid isPermaLink="false">2026-08-02-governments-have-spent-billions-on-quantum-computers-has-ai-</guid>
+      <pubDate>Sat, 01 Aug 2026 19:00:00 GMT</pubDate>
+      <category>industry</category>
+      <description>via Google News — quantum computing</description>
+    </item>
+    <item>
+      <title>B.Tech in Quantum Computing: Eligibility, Admission, Career, Salary and Top Colleges - College Mentor</title>
+      <link>https://news.google.com/rss/articles/CBMib0FVX3lxTE0xWUpVbmVXYk9qWlNhWEUxaXhjb0ctX3FkSUlIbWJRZFhTblBIeTY3aC10eGlZVy05dW9nbHlYeExXUWNtM3JBS1dkM0V4dHdQR291UVZZRkhManpNQU54dFhzbUxPTzVUbWEtNHVRaw?oc=5</link>
+      <guid isPermaLink="false">2026-08-02-b-tech-in-quantum-computing-eligibility-admission-career-sal</guid>
+      <pubDate>Sat, 01 Aug 2026 14:44:36 GMT</pubDate>
+      <category>industry</category>
+      <description>via Google News — quantum computing</description>
+    </item>
+    <item>
+      <title>IBM CEO sends blunt message on quantum computing - thestreet.com</title>
+      <link>https://news.google.com/rss/articles/CBMi9wFBVV95cUxQRmEzUklUUHZHblp5VDJSWW9pZ19US3gzMmpqd2syV0p3Z1FRNm1QOF80SzYyQlFxd3NsZU9EQkU0aWVCV1ExY1VuTVVLWjQxamF4VThKQy1yaVVpRWMyT3lwNDdlQ0lOM01PMWhPb2poblF6Z3d2d3d2SWtKUVFubzNsU3ZLRGgtQUE5U0c2Y1FMSG5GbG9DWUoxRXM5T2x5cngxWm5DZzJqWVJsMHJxS3FmN0wyZlpNYTA5R1RkRU1Rczd6Z0VhbjNWRW43QzFFdHdNRTJoNDVxNi11bHV6U3NUUHNMMXJvbl92bWdBc3BHbm9pcU1r?oc=5</link>
+      <guid isPermaLink="false">2026-08-02-ibm-ceo-sends-blunt-message-on-quantum-computing-thestreet-c</guid>
+      <pubDate>Sat, 01 Aug 2026 12:33:00 GMT</pubDate>
+      <category>industry</category>
+      <description>via Google News — quantum computing</description>
+    </item>
+    <item>
+      <title>Unusual metal oxide shows signs of magnetism under lattice strain in ultrathin layers</title>
+      <link>https://phys.org/news/2026-07-unusual-metal-oxide-magnetism-lattice.html</link>
+      <guid isPermaLink="false">2026-08-02-unusual-metal-oxide-shows-signs-of-magnetism-under-lattice-s</guid>
+      <pubDate>Sat, 01 Aug 2026 18:40:01 GMT</pubDate>
+      <category>research</category>
+      <description>via Phys.org — Quantum Physics</description>
+    </item>
+    <item>
+      <title>Quantum computer completes verified task beyond practical reach of classical simulations</title>
+      <link>https://phys.org/news/2026-07-quantum-task-classical-simulations.html</link>
+      <guid isPermaLink="false">2026-08-02-quantum-computer-completes-verified-task-beyond-practical-re</guid>
+      <pubDate>Sat, 01 Aug 2026 12:00:05 GMT</pubDate>
+      <category>research</category>
+      <description>via Phys.org — Quantum Physics</description>
+    </item>
     <item>
       <title>Gil Kalai (Hebrew University / Reichman University): Why noise may doom quantum computers</title>
       <link>https://thequantuminsider.com/2026/08/01/gil-kalai-hebrew-university-reichman-university-why-noise-may-doom-quantum-computers/</link>
@@ -171,238 +403,6 @@
       <link>https://news.google.com/rss/articles/CBMif0FVX3lxTFBxLXprUnJNa2E3cFU1WTFRRm11c3J1dTJpbkx0V3MtTldpWmI4TlliTThXOWdFVGdjeC1PdmpJT2RqV2EwcllIT0JfeE1YVlk4Skw5VnZBTDU5X2RpMTNRbVJUNFhaTEQzbk5VUmp1Y3AzcEFwNWZHRllITXllblU?oc=5</link>
       <guid isPermaLink="false">2026-08-01-sealsq-completes-200m-fund-deployment-with-miraex-quantum-bu</guid>
       <pubDate>Sat, 01 Aug 2026 00:21:17 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>IBM: Three Demonstrations Prove Quantum Advantage Has Been Reached - The Next Platform</title>
-      <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxNWW1QbzdBVXdLdDRBQ3owWTl0dVl2aS05WklXbW5ZamNLV3Y1eFhuT2gwR2JuanFmZFgwTWhSQzV3TGp3SWFUYXIwZkhNUlFHTnA0bUNmUERYZmdyb2JjNUN2TzQ2WUs0NmVObVBSTmN6N1BpOTkzZzJjQWcwakZ1MGFoS2VCTFZtRlE2d0F2NWF0QVpnS2ZuYzV5bVJlWFBhS00tSGNpeER2aXZmdTVYcTJtbmdkRTdDRE9Tc0dR?oc=5</link>
-      <guid isPermaLink="false">2026-08-01-ibm-three-demonstrations-prove-quantum-advantage-has-been-re</guid>
-      <pubDate>Fri, 31 Jul 2026 22:48:36 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>IBM quietly cleared a quantum computing hurdle experts doubted - thestreet.com</title>
-      <link>https://news.google.com/rss/articles/CBMie0FVX3lxTE1pTlVrMS1VRF82MnNLRnVDcGNNQ2txM1dDQ3p6cFBNOE9WaWVfMWFzNVZha0JXRmhnaENDbU9uSzBxTlFMOEJhZ0l1Y3U2TTl4Mjk0bkdfQUdjNlBvR0JLNVdaSWRnVXo0RnZyQ1pyQTA4SEI2dFJPQ0FYSQ?oc=5</link>
-      <guid isPermaLink="false">2026-08-01-ibm-quietly-cleared-a-quantum-computing-hurdle-experts-doubt</guid>
-      <pubDate>Fri, 31 Jul 2026 21:55:06 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>FTC approves IonQ acquisition of SkyWater semiconductor ‍foundry - Reuters</title>
-      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxNTGZha29mNzNPN2tRYzd5dVNJaDNJMVUzdzhWZnMwZUVpQjhWSHh1dnh1bHlJWE02TXJ4UHA3M25RWW1EZ0tzTHY2a3VpWWtLV0FWUjlieGtnX1ZjTkNBak1VM0ltaVhwRFhORloxTVlYajRyN0ZiRVo1cWprNkM0WTEtNE5ielpYNDl1NHBDYmstX3VqblktSDROTkF2U0pzaFROQm9RRWlVcjRfbHFpamYxaw?oc=5</link>
-      <guid isPermaLink="false">2026-08-01-ftc-approves-ionq-acquisition-of-skywater-semiconductor-foun</guid>
-      <pubDate>Fri, 31 Jul 2026 21:46:29 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>Quantum Interconnect Chip Enters Market: SEALSQ’s Miraex Solves Microwave-Optical Gap - Tech Times</title>
-      <link>https://news.google.com/rss/articles/CBMi1AFBVV95cUxNb20tT2tWS1NQNjZGUHlQMFZVNEtZbDdpUnV6R0Fmall0bEFfV0E4Z1JZaDJDNGpLZ1M1OFloYXBDay1XeHRkSzV0alVyNE5PendlTWp2Wkgxc21Ea2x3aUs5V0NZaHJvSUFaemV4d1NSSk56ek94OFFWRjAzZ3VIYzZ2Qlh0VDEtejlHZjFnMzcwLVpUSDJHMkxzYnJfMFpIeHY3em5wNUM5UFdDcV91dXEyd2d5MW5YbFB0MGhRZTYxcEtkTlNFdHF1dnV4SWljT1plSA?oc=5</link>
-      <guid isPermaLink="false">2026-08-01-quantum-interconnect-chip-enters-market-sealsq-s-miraex-solv</guid>
-      <pubDate>Fri, 31 Jul 2026 20:35:56 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>Simulating the noisy quantum future: New algorithm may unlock fault‑tolerant quantum computing - Digital Journal</title>
-      <link>https://news.google.com/rss/articles/CBMizgFBVV95cUxPR1Q2V1J4VG9KYVliU1kxd2dQd01tQmdnTzhJN01pY3pXRVc0TlQyOEYzSVdScmtyc25SQTQ3NzBRQ3JCclJabDRsVktoVjVJd2JFdklNdllPakYtaVpMb2s1Y3hKWldHZW83S1NWUUF0VmZhNGVUUExRVG9lNm01Y2ZlM3c5eF9pUXF0eExXek92YWRET2ZiX0NBaWdIX2wyUncxRFg5LThRLWQ1U3U4YWI0emZiVDZnR3puV0ZFeEoteHJ4cFVZWGdRam1oZw?oc=5</link>
-      <guid isPermaLink="false">2026-08-01-simulating-the-noisy-quantum-future-new-algorithm-may-unlock</guid>
-      <pubDate>Fri, 31 Jul 2026 20:22:25 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>How Amazon became one of the world’s top chip companies in a decade - About Amazon</title>
-      <link>https://news.google.com/rss/articles/CBMieEFVX3lxTE9oTTMtVXpHbmZ6ZnFKeWhnYUM3eVM2eGtpTmFrU293cGUtV09yNGNPU2RnczYyMXI1c1I4aktfU1pTRURWTGRNVk1CdUQ2RzhFT1NPN21QQWJ5b3lXamE1T09weF94ejAycXN0TzZyLWp2YUpDRUxiYQ?oc=5</link>
-      <guid isPermaLink="false">2026-08-01-how-amazon-became-one-of-the-world-s-top-chip-companies-in-a</guid>
-      <pubDate>Fri, 31 Jul 2026 20:07:13 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>Quantum Computing EOs Create Immediate Compliance Deadlines, New Federal Partnership Opportunities - JD Supra</title>
-      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRUUtZ0xrUDZrMG9WaGZUSEZhaEtPNFY1R1AzeFo0djdTSzBJN1hHZTFka051SDNndWwtZkFmeXI0LXRzQVQ1ZlRydHZpV0JtNjJlOXpIMDlkd0Q3UjhOZHcxOXN6NkFVYWdtWDg0bHRleDJPQTRod1Q4R1JCcWZQQUEwR1A5ZExG?oc=5</link>
-      <guid isPermaLink="false">2026-08-01-quantum-computing-eos-create-immediate-compliance-deadlines-</guid>
-      <pubDate>Fri, 31 Jul 2026 20:04:33 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>Diamond's newfound defect may tame vibrations that hinder quantum light sources</title>
-      <link>https://phys.org/news/2026-07-diamond-newfound-defect-vibrations-hinder.html</link>
-      <guid isPermaLink="false">2026-08-01-diamond-s-newfound-defect-may-tame-vibrations-that-hinder-qu</guid>
-      <pubDate>Fri, 31 Jul 2026 15:40:08 GMT</pubDate>
-      <category>research</category>
-      <description>via Phys.org — Quantum Physics</description>
-    </item>
-    <item>
-      <title>Less-explored form of quantum code could be more powerful—and more stable—than its alternative in error correction</title>
-      <link>https://phys.org/news/2026-07-explored-quantum-code-powerful-stable.html</link>
-      <guid isPermaLink="false">2026-08-01-less-explored-form-of-quantum-code-could-be-more-powerful-an</guid>
-      <pubDate>Fri, 31 Jul 2026 14:00:04 GMT</pubDate>
-      <category>research</category>
-      <description>via Phys.org — Quantum Physics</description>
-    </item>
-    <item>
-      <title>Two independent studies push semiconductor qubits towards practical scales</title>
-      <link>https://phys.org/news/2026-07-independent-semiconductor-qubits-scales.html</link>
-      <guid isPermaLink="false">2026-08-01-two-independent-studies-push-semiconductor-qubits-towards-pr</guid>
-      <pubDate>Fri, 31 Jul 2026 11:20:04 GMT</pubDate>
-      <category>research</category>
-      <description>via Phys.org — Quantum Physics</description>
-    </item>
-    <item>
-      <title>IBM CEO Expects Quantum Computing to Drive Revenue by 2020s, Trillion-Dollar Value by End of 2030s</title>
-      <link>https://thequantuminsider.com/2026/07/31/ibm-ceo-expects-quantum-computing-to-drive-revenue-by-2020s-trillion-dollar-value-by-end-of-2030s/</link>
-      <guid isPermaLink="false">2026-07-31-ibm-ceo-expects-quantum-computing-to-drive-revenue-by-2020s-</guid>
-      <pubDate>Fri, 31 Jul 2026 07:58:32 GMT</pubDate>
-      <category>industry</category>
-      <description>via The Quantum Insider</description>
-    </item>
-    <item>
-      <title>BlueQubit Supports Qedma, IBM and RIKEN Study on Error-Mitigated Quantum Simulation</title>
-      <link>https://thequantuminsider.com/2026/07/31/bluequbit-qedma-ibm-riken-quantum-simulation-study/</link>
-      <guid isPermaLink="false">2026-07-31-bluequbit-supports-qedma-ibm-and-riken-study-on-error-mitiga</guid>
-      <pubDate>Fri, 31 Jul 2026 07:30:00 GMT</pubDate>
-      <category>industry</category>
-      <description>via The Quantum Insider</description>
-    </item>
-    <item>
-      <title>IBM and University of Chicago Demonstrate Verified Logical Quantum Computation Beyond Classical Simulation</title>
-      <link>https://thequantuminsider.com/2026/07/31/ibm-university-of-chicago-verified-logical-quantum-computation/</link>
-      <guid isPermaLink="false">2026-07-31-ibm-and-university-of-chicago-demonstrate-verified-logical-q</guid>
-      <pubDate>Fri, 31 Jul 2026 07:00:00 GMT</pubDate>
-      <category>industry</category>
-      <description>via The Quantum Insider</description>
-    </item>
-    <item>
-      <title>Booz Allen Backs the Search for Quantum’s Next Breakout Company</title>
-      <link>https://thequantuminsider.com/2026/07/30/booz-allen-backs-the-search-for-quantums-next-breakout-company/</link>
-      <guid isPermaLink="false">2026-07-31-booz-allen-backs-the-search-for-quantum-s-next-breakout-comp</guid>
-      <pubDate>Thu, 30 Jul 2026 18:48:33 GMT</pubDate>
-      <category>industry</category>
-      <description>via The Quantum Insider</description>
-    </item>
-    <item>
-      <title>NIST’s Andrew Regenscheid Explains the Transition to Post-Quantum Cryptography</title>
-      <link>https://thequantuminsider.com/2026/07/30/nist-andrew-regenscheid-post-quantum-cryptography-transition/</link>
-      <guid isPermaLink="false">2026-07-31-nist-s-andrew-regenscheid-explains-the-transition-to-post-qu</guid>
-      <pubDate>Thu, 30 Jul 2026 18:26:06 GMT</pubDate>
-      <category>industry</category>
-      <description>via The Quantum Insider</description>
-    </item>
-    <item>
-      <title>NRL Expands Quantum Research Efforts Across Sensing, Computing and Networking</title>
-      <link>https://thequantuminsider.com/2026/07/30/us-naval-research-laboratory-quantum-technology-research/</link>
-      <guid isPermaLink="false">2026-07-31-nrl-expands-quantum-research-efforts-across-sensing-computin</guid>
-      <pubDate>Thu, 30 Jul 2026 18:10:32 GMT</pubDate>
-      <category>industry</category>
-      <description>via The Quantum Insider</description>
-    </item>
-    <item>
-      <title>Pusan National University Researchers Have Developed a Hybrid Quantum Network with Indistinguishable Quantum Sources</title>
-      <link>https://thequantuminsider.com/2026/07/30/pusan-national-university-researchers-have-developed-a-hybrid-quantum-network-with-indistinguishable-quantum-sources/</link>
-      <guid isPermaLink="false">2026-07-31-pusan-national-university-researchers-have-developed-a-hybri</guid>
-      <pubDate>Thu, 30 Jul 2026 14:29:14 GMT</pubDate>
-      <category>industry</category>
-      <description>via The Quantum Insider</description>
-    </item>
-    <item>
-      <title>IBM and Qedma Demonstrate Error-Mitigated Quantum Simulation Beyond Classical Benchmarks</title>
-      <link>https://thequantuminsider.com/2026/07/30/ibm-qedma-error-mitigated-quantum-simulation-classical-benchmarks/</link>
-      <guid isPermaLink="false">2026-07-31-ibm-and-qedma-demonstrate-error-mitigated-quantum-simulation</guid>
-      <pubDate>Thu, 30 Jul 2026 12:10:31 GMT</pubDate>
-      <category>industry</category>
-      <description>via The Quantum Insider</description>
-    </item>
-    <item>
-      <title>Vexlum Opens UK Laboratory and Appoints Dr. Stefan Truppe to Lead Local Operations</title>
-      <link>https://thequantuminsider.com/2026/07/30/vexlum-grows-its-european-presence-and-appoints-dr-stefan-truppe-as-managing-director-of-vexlum-uk/</link>
-      <guid isPermaLink="false">2026-07-31-vexlum-opens-uk-laboratory-and-appoints-dr-stefan-truppe-to-</guid>
-      <pubDate>Thu, 30 Jul 2026 11:58:09 GMT</pubDate>
-      <category>industry</category>
-      <description>via The Quantum Insider</description>
-    </item>
-    <item>
-      <title>IBM and Algorithmiq Develop Framework for Verifying Quantum Computations Beyond Classical Simulation</title>
-      <link>https://thequantuminsider.com/2026/07/30/ibm-algorithmiq-quantum-computation-verification-framework/</link>
-      <guid isPermaLink="false">2026-07-31-ibm-and-algorithmiq-develop-framework-for-verifying-quantum-</guid>
-      <pubDate>Thu, 30 Jul 2026 11:49:21 GMT</pubDate>
-      <category>industry</category>
-      <description>via The Quantum Insider</description>
-    </item>
-    <item>
-      <title>U.S. Naval Research Laboratory Outlines Strategic Quantum Research Priorities</title>
-      <link>https://quantumcomputingreport.com/u-s-naval-research-laboratory-outlines-strategic-quantum-research-priorities/</link>
-      <guid isPermaLink="false">2026-07-31-u-s-naval-research-laboratory-outlines-strategic-quantum-res</guid>
-      <pubDate>Fri, 31 Jul 2026 00:09:48 GMT</pubDate>
-      <category>industry</category>
-      <description>via Quantum Computing Report</description>
-    </item>
-    <item>
-      <title>Pusan National University and UNIST Demonstrate Hybrid Quantum Interconnect Benchmark</title>
-      <link>https://quantumcomputingreport.com/pusan-national-university-and-unist-demonstrate-hybrid-quantum-interconnect-benchmark/</link>
-      <guid isPermaLink="false">2026-07-31-pusan-national-university-and-unist-demonstrate-hybrid-quant</guid>
-      <pubDate>Fri, 31 Jul 2026 00:03:57 GMT</pubDate>
-      <category>industry</category>
-      <description>via Quantum Computing Report</description>
-    </item>
-    <item>
-      <title>IBM and Ecosystem Partners Demonstrate “Trusted Quantum Advantage” Beyond Classical Supercomputers</title>
-      <link>https://quantumcomputingreport.com/ibm-and-ecosystem-partners-demonstrate-trusted-quantum-advantage-beyond-classical-supercomputers/</link>
-      <guid isPermaLink="false">2026-07-31-ibm-and-ecosystem-partners-demonstrate-trusted-quantum-advan</guid>
-      <pubDate>Thu, 30 Jul 2026 23:50:42 GMT</pubDate>
-      <category>industry</category>
-      <description>via Quantum Computing Report</description>
-    </item>
-    <item>
-      <title>Certifying Non-Classicality and Non-Gaussianity Through Optical Parametric Amplification</title>
-      <link>http://link.aps.org/doi/10.1103/j68x-skmn</link>
-      <guid isPermaLink="false">2026-07-31-certifying-non-classicality-and-non-gaussianity-through-opti</guid>
-      <pubDate>Thu, 30 Jul 2026 10:00:00 GMT</pubDate>
-      <category>research</category>
-      <description>via PRX Quantum</description>
-    </item>
-    <item>
-      <title>Why full-fledged quantum computers might always be five years away - New Scientist</title>
-      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxQclNmNE9oY25ZU2pXT1ZycXNnTTY0eXBDZVM2YVlSOUdjNGtuTnN0ZlpoYVhUUms5UE5xNC01U3hYRzFjYzd1aGNzMmtmQnNZNnN1QVUtVU1ZUE1YYmJfYTZCQk5hYndYS0JIdDhvdjV3SHJoN3o1VU5MblFRd1A2LUFhSmFkS3MyVENpbVJPTlRoVTQzSG8yWW9JV2c4MDM2cnpkTWtDZHBfSWlNSWpiRDRn?oc=5</link>
-      <guid isPermaLink="false">2026-07-31-why-full-fledged-quantum-computers-might-always-be-five-year</guid>
-      <pubDate>Fri, 31 Jul 2026 08:00:19 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>QED-C® Roadmap Identifies Infrastructure Priorities Critical to Scaling Quantum Networks - AZoQuantum</title>
-      <link>https://news.google.com/rss/articles/CBMiXkFVX3lxTE4zcDREcmJhX3VSVWhtWHZRbTZuYmt1NXZNaGpScXZ0RE8zWlkzcjRmTl9wOGtmcm13SnZzX0FSeGdIZGhlbDRFa3g2TVBVTlVwa1J2cHFCc3pMZkVYZlE?oc=5</link>
-      <guid isPermaLink="false">2026-07-31-qed-c-roadmap-identifies-infrastructure-priorities-critical-</guid>
-      <pubDate>Fri, 31 Jul 2026 05:24:00 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>IBM's Quantum Computer Solves Problem in 15 Minutes - 조선일보</title>
-      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ0lvMVJKTVBCelczbmMxa1JtRkhZbEdmamdiMzljTmdBZ01RZmZPNUkxN1N4NVRQNGQyeUJJd3ZTZ1pzcUFVTlV3N2I0ZGpoX3lkdjJmYTR0YVJ2ZzdyTmlNRU94LTB2Qk4wcU1EUzlfdFY5YWZmeE9yZG9WeUowS1ZSTzlhbTdK?oc=5</link>
-      <guid isPermaLink="false">2026-07-31-ibm-s-quantum-computer-solves-problem-in-15-minutes</guid>
-      <pubDate>Fri, 31 Jul 2026 04:28:31 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>Quantum AI Automation Drives NetSfere’s Enterprise Control &amp; Trust - quantumzeitgeist.com</title>
-      <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxORzJ5QzJPckgzaWRBU1lEeFRHcXdxc2FPNjJqbktwRGJOcXowYXc5dHNGR3E1LV9YQ25nMnVuMGY3MHJnc2tHS0tLVEV2MHQxTDZSRF9OOVpiaUFZVG9CZ0R2Yi0xVnpHYlF3Z3A5RWMzZFZDWGFaYk45dWtoZV9ITUJR?oc=5</link>
-      <guid isPermaLink="false">2026-07-31-quantum-ai-automation-drives-netsfere-s-enterprise-control-t</guid>
-      <pubDate>Fri, 31 Jul 2026 00:45:56 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>S&amp;P 500 Platform Validates NeuroThera’s Quantum Analytics - quantumzeitgeist.com</title>
-      <link>https://news.google.com/rss/articles/CBMiigFBVV95cUxQdWdIUXhXN2VKWXlfTy1temZWNmJmQ3lvdGxtVEE0WGdoUUljT3FFTjhaNkl4TU44V09lUzZMaHZVSXpCRVozTkZOaE14elJheVNvVk92cGxVT0VMd2pNOG44WEc2cldMaVQ3dGhxWXIwekp6VXo1Yy1nQUM4UVlPQ0dIZ3FiTE8xS0E?oc=5</link>
-      <guid isPermaLink="false">2026-07-31-s-p-500-platform-validates-neurothera-s-quantum-analytics-qu</guid>
-      <pubDate>Fri, 31 Jul 2026 00:45:56 GMT</pubDate>
       <category>industry</category>
       <description>via Google News — quantum computing</description>
     </item>
