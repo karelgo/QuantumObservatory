@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import { Fraunces } from 'next/font/google';
 import Link from 'next/link';
+import { SITE_URL, url } from '@/lib/site';
 import './globals.css';
 
 const fraunces = Fraunces({
@@ -10,10 +11,13 @@ const fraunces = Fraunces({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL(SITE_URL),
   title: 'The Quantum Observatory',
   description:
     'A daily-updated, categorized overview of everything happening in quantum computing. A QuantumVerse sister project.',
   alternates: {
+    // Resolved against metadataBase, which already carries the base path —
+    // do not prefix this one with url().
     types: { 'application/rss+xml': '/feed.xml' },
   },
 };
@@ -33,8 +37,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             <Link href="/">Today</Link>
             <Link href="/about/">About</Link>
             <Link href="/sources/">Sources</Link>
-            <a href="/feed.xml">RSS</a>
-            <a href="/pulse.json">Pulse</a>
+            <a href={url('/feed.xml')}>RSS</a>
+            <a href={url('/pulse.json')}>Pulse</a>
           </nav>
         </header>
         {children}
