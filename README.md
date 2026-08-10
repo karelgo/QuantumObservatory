@@ -21,6 +21,18 @@ web/                    static Next.js site rendered from data/
 
 No database, no server state. A GitHub Actions cron runs the crawl daily, commits the data, and the static site rebuilds. Classification and summaries come from Claude with structured outputs; heuristics from `sources.yaml` come first, the model refines.
 
+### Hosting
+
+The site is a static export (`next build` with `output: 'export'`), so it needs a file server and nothing else. It is published to **GitHub Pages** at <https://karelgo.github.io/QuantumObservatory/> by `.github/workflows/deploy.yml`, which builds `web/out/` and uploads it as the Pages artifact.
+
+One-time setup: *Settings → Pages → Source → **GitHub Actions***. The workflow tries to enable this itself on its first run; set it by hand if that is refused.
+
+Deploys are triggered by a push to `main` that touches `data/`, `web/`, or `sources.yaml`; by a successful **Daily crawl**; and manually via *Run workflow*. The crawl needs its own trigger because pushes made with `GITHUB_TOKEN` deliberately do not start other workflows.
+
+`SITE_URL` is the only deployment knob. Its path segment becomes Next's `basePath` — `/QuantumObservatory` for a project Pages site, empty for a domain root — and the crawler stamps the same URL into `pulse.json` and `feed.xml`. The deploy workflow reads it from the Pages API, so a **custom domain** needs only *Settings → Pages → Custom domain*, plus the repository variable `SITE_URL` set to the same address to keep the feeds in sync. Local `npm run dev` leaves it unset and serves from `/` as before.
+
+Any static host works equally well — Cloudflare Pages and Netlify both build with `npm run build`, publish `web/out`, and want `SITE_URL` set to the site's address.
+
 ### Classifier configuration
 
 The classifier picks the first configured backend from the environment (and skips gracefully when none is set — heuristic categories, no summaries):

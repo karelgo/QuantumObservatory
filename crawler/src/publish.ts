@@ -2,9 +2,9 @@ import fs from 'node:fs';
 import path from 'node:path';
 import type { Item } from './types.js';
 
-// Where the site lives once hosting is decided; the repo is the stable
-// address until then. Override with SITE_URL when deploying.
-const SITE_URL = process.env.SITE_URL ?? 'https://github.com/karelgo/QuantumObservatory';
+// Where the site lives. The workflows pass this explicitly; the default is
+// the project Pages address, so a local crawl still writes usable feeds.
+const SITE_URL = process.env.SITE_URL ?? 'https://karelgo.github.io/QuantumObservatory';
 const FEED_SIZE = 50;
 
 function xmlEscape(s: string): string {

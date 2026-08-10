@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import { url } from '@/lib/site';
 
 export const metadata: Metadata = {
   title: 'About — The Quantum Observatory',
@@ -33,7 +34,8 @@ export default function AboutPage() {
         There is no database: each day&apos;s items are a JSON file committed to the repository,
         and this site is statically rendered from them. The full archive is the URL space —{' '}
         <code>/day/&#123;date&#125;</code> for any crawl day, <code>/category/&#123;slug&#125;</code>{' '}
-        for rolling views, <a href="/pulse.json">/pulse.json</a> and <a href="/feed.xml">/feed.xml</a>{' '}
+        for rolling views, <a href={url('/pulse.json')}>/pulse.json</a> and{' '}
+        <a href={url('/feed.xml')}>/feed.xml</a>{' '}
         for machines.
       </p>
 
@@ -52,7 +54,7 @@ export default function AboutPage() {
         artifacts — circuits, results, and claims made shareable, runnable, and verifiable.
         QuantumVerse hosts what the field <em>builds</em>; the Observatory reports what the field{' '}
         <em>does</em>. They share one visual identity, and the Observatory&apos;s{' '}
-        <a href="/pulse.json">pulse feed</a> is the contract that will let QuantumVerse render the
+        <a href={url('/pulse.json')}>pulse feed</a> is the contract that will let QuantumVerse render the
         field&apos;s daily pulse on its own pages.
       </p>
     </main>

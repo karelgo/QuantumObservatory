@@ -1,0 +1,87 @@
+# Publishes the static export to GitHub Pages. The site has no server and no
+# runtime data fetching — `next build` reads the committed data/ files and
+# writes web/out/, which is uploaded as the Pages artifact.
+#
+# The daily crawl commits with GITHUB_TOKEN, and pushes made with that token
+# deliberately do not trigger other workflows — so the crawl cannot fire the
+# `push` trigger below. The `workflow_run` trigger is what rebuilds the site
+# after each successful crawl; without it the data would update and the
+# published pages would not.
+#
+# Address: taken from the Pages API (custom domain included). Override with
+# the repository variable SITE_URL if you need a different public address —
+# keep it in sync with the same variable in crawl.yml.
+
+name: Deploy site
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'data/**'
+      - 'web/**'
+      - 'sources.yaml'
+      - 'package-lock.json'
+      - '.github/workflows/deploy.yml'
+  workflow_run:
+    workflows: ['Daily crawl']
+    types: [completed]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    # A crawl that failed has nothing new to publish.
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    steps:
+      # Always publish the tip of the default branch. On workflow_run the
+      # event's head_sha predates the crawl's own data commit.
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+
+      - name: Configure Pages
+        id: pages
+        uses: actions/configure-pages@v5
+        with:
+          enablement: true
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build static export
+        env:
+          SITE_URL: ${{ vars.SITE_URL || steps.pages.outputs.base_url }}
+        run: |
+          npm run build
+          # Harmless under the Actions deployment, which never runs Jekyll;
+          # keeps _next/ served if this ever moves to a branch-based source.
+          touch web/out/.nojekyll
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: web/out
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
