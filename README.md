@@ -25,7 +25,7 @@ No database, no server state. A GitHub Actions cron runs the crawl daily, commit
 
 The site is a static export (`next build` with `output: 'export'`), so it needs a file server and nothing else. It is published to **GitHub Pages** at <https://karelgo.github.io/QuantumObservatory/> by `.github/workflows/deploy.yml`, which builds `web/out/` and uploads it as the Pages artifact.
 
-One-time setup: *Settings → Pages → Source → **GitHub Actions***. The workflow tries to enable this itself on its first run; set it by hand if that is refused.
+One-time setup: *Settings → Pages → Source → **GitHub Actions***. This cannot be automated — `GITHUB_TOKEN` is refused permission to create a Pages site — and it is not optional. Left on the default *Deploy from a branch*, Pages runs Jekyll over the repository root and serves this README as the home page instead of the site.
 
 Deploys are triggered by a push to `main` that touches `data/`, `web/`, or `sources.yaml`; by a successful **Daily crawl**; and manually via *Run workflow*. The crawl needs its own trigger because pushes made with `GITHUB_TOKEN` deliberately do not start other workflows.
 
