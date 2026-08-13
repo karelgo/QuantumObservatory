@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-08-12T07:16:17.136Z",
-  "latest": "2026-08-12",
+  "generated_at": "2026-08-13T07:18:14.923Z",
+  "latest": "2026-08-13",
   "days": [
+    {
+      "date": "2026-08-13",
+      "count": 58,
+      "categories": {
+        "industry": 43,
+        "research": 15
+      }
+    },
     {
       "date": "2026-08-12",
       "count": 48,
