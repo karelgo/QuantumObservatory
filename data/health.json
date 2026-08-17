@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-16",
+  "date": "2026-08-17",
   "sources": [
     {
       "id": "arxiv-quant-ph",
@@ -7,16 +7,15 @@
       "ok": true,
       "fetched": 40,
       "kept": 0,
-      "fetched_at": "2026-08-16T06:30:12.965Z"
+      "fetched_at": "2026-08-17T06:41:36.009Z"
     },
     {
       "id": "npj-quantum-information",
       "name": "npj Quantum Information",
-      "ok": false,
-      "fetched": 0,
+      "ok": true,
+      "fetched": 8,
       "kept": 0,
-      "error": "unrecognized feed format (not RSS/Atom/RDF)",
-      "fetched_at": "2026-08-16T06:30:12.999Z"
+      "fetched_at": "2026-08-17T06:41:36.039Z"
     },
     {
       "id": "prx-quantum",
@@ -24,7 +23,7 @@
       "ok": true,
       "fetched": 100,
       "kept": 0,
-      "fetched_at": "2026-08-16T06:30:13.001Z"
+      "fetched_at": "2026-08-17T06:41:36.040Z"
     },
     {
       "id": "qiskit-releases",
@@ -32,7 +31,7 @@
       "ok": true,
       "fetched": 10,
       "kept": 0,
-      "fetched_at": "2026-08-16T06:30:13.001Z"
+      "fetched_at": "2026-08-17T06:41:36.041Z"
     },
     {
       "id": "cirq-releases",
@@ -40,7 +39,7 @@
       "ok": true,
       "fetched": 10,
       "kept": 0,
-      "fetched_at": "2026-08-16T06:30:13.002Z"
+      "fetched_at": "2026-08-17T06:41:36.042Z"
     },
     {
       "id": "pennylane-releases",
@@ -48,7 +47,7 @@
       "ok": true,
       "fetched": 10,
       "kept": 0,
-      "fetched_at": "2026-08-16T06:30:13.004Z"
+      "fetched_at": "2026-08-17T06:41:36.044Z"
     },
     {
       "id": "cudaq-releases",
@@ -56,7 +55,7 @@
       "ok": true,
       "fetched": 10,
       "kept": 0,
-      "fetched_at": "2026-08-16T06:30:13.005Z"
+      "fetched_at": "2026-08-17T06:41:36.045Z"
     },
     {
       "id": "qutip-releases",
@@ -64,7 +63,7 @@
       "ok": true,
       "fetched": 10,
       "kept": 0,
-      "fetched_at": "2026-08-16T06:30:13.005Z"
+      "fetched_at": "2026-08-17T06:41:36.046Z"
     },
     {
       "id": "aws-quantum-blog",
@@ -72,39 +71,39 @@
       "ok": true,
       "fetched": 10,
       "kept": 0,
-      "fetched_at": "2026-08-16T06:30:13.006Z"
+      "fetched_at": "2026-08-17T06:41:36.047Z"
     },
     {
       "id": "quantum-insider",
       "name": "The Quantum Insider",
       "ok": true,
       "fetched": 10,
-      "kept": 2,
-      "fetched_at": "2026-08-16T06:30:13.008Z"
+      "kept": 1,
+      "fetched_at": "2026-08-17T06:41:36.048Z"
     },
     {
       "id": "quantum-computing-report",
       "name": "Quantum Computing Report",
       "ok": true,
       "fetched": 10,
-      "kept": 3,
-      "fetched_at": "2026-08-16T06:30:13.009Z"
+      "kept": 2,
+      "fetched_at": "2026-08-17T06:41:36.049Z"
     },
     {
       "id": "quantum-zeitgeist",
       "name": "Quantum Zeitgeist",
       "ok": true,
       "fetched": 200,
-      "kept": 10,
-      "fetched_at": "2026-08-16T06:30:13.010Z"
+      "kept": 3,
+      "fetched_at": "2026-08-17T06:41:36.050Z"
     },
     {
       "id": "physorg-quantum",
       "name": "Phys.org — Quantum Physics",
       "ok": true,
       "fetched": 30,
-      "kept": 0,
-      "fetched_at": "2026-08-16T06:30:13.010Z"
+      "kept": 1,
+      "fetched_at": "2026-08-17T06:41:36.051Z"
     },
     {
       "id": "nist-news",
@@ -112,7 +111,7 @@
       "ok": true,
       "fetched": 40,
       "kept": 0,
-      "fetched_at": "2026-08-16T06:30:13.011Z"
+      "fetched_at": "2026-08-17T06:41:36.051Z"
     },
     {
       "id": "gnews-quantum",
@@ -120,7 +119,7 @@
       "ok": true,
       "fetched": 100,
       "kept": 11,
-      "fetched_at": "2026-08-16T06:30:13.011Z"
+      "fetched_at": "2026-08-17T06:41:36.052Z"
     }
   ]
 }
