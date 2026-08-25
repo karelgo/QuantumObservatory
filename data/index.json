@@ -1,7 +1,16 @@
 {
-  "generated_at": "2026-08-24T06:44:31.832Z",
-  "latest": "2026-08-24",
+  "generated_at": "2026-08-25T06:36:39.114Z",
+  "latest": "2026-08-25",
   "days": [
+    {
+      "date": "2026-08-25",
+      "count": 48,
+      "categories": {
+        "industry": 34,
+        "pqc": 1,
+        "research": 13
+      }
+    },
     {
       "date": "2026-08-24",
       "count": 21,
