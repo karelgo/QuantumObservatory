@@ -5,7 +5,247 @@
     <link>https://karelgo.github.io/QuantumObservatory</link>
     <description>Everything that happened in quantum computing, collapsed into one daily digest. A QuantumVerse sister project.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 04 Sep 2026 10:23:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 09:50:29 GMT</lastBuildDate>
+    <item>
+      <title>Brian Gaucher (ERVA): Why engineering, not physics, now limits quantum progress</title>
+      <link>https://thequantuminsider.com/2026/09/05/brian-gaucher-erva-why-engineering-not-physics-now-limits-quantum-progress/</link>
+      <guid isPermaLink="false">2026-09-05-brian-gaucher-erva-why-engineering-not-physics-now-limits-qu</guid>
+      <pubDate>Sat, 05 Sep 2026 07:00:00 GMT</pubDate>
+      <category>industry</category>
+      <description>via The Quantum Insider</description>
+    </item>
+    <item>
+      <title>Europe Looks to Quantum Act to Turn Research Strength Into Industry</title>
+      <link>https://thequantuminsider.com/2026/09/04/europe-looks-to-quantum-act-to-turn-research-strength-into-industry/</link>
+      <guid isPermaLink="false">2026-09-05-europe-looks-to-quantum-act-to-turn-research-strength-into-i</guid>
+      <pubDate>Fri, 04 Sep 2026 17:59:10 GMT</pubDate>
+      <category>industry</category>
+      <description>via The Quantum Insider</description>
+    </item>
+    <item>
+      <title>Quantum Computing Challenges Holding Back Practical Quantum Computers</title>
+      <link>https://thequantuminsider.com/2026/09/04/main-challenges-facing-quantum-computing/</link>
+      <guid isPermaLink="false">2026-09-05-quantum-computing-challenges-holding-back-practical-quantum-</guid>
+      <pubDate>Fri, 04 Sep 2026 15:05:17 GMT</pubDate>
+      <category>industry</category>
+      <description>via The Quantum Insider</description>
+    </item>
+    <item>
+      <title>QuFi Launches Post-Quantum Verification Platform for Digital Assets</title>
+      <link>https://thequantuminsider.com/2026/09/04/qufi-post-quantum-verification-platform-digital-assets/</link>
+      <guid isPermaLink="false">2026-09-05-qufi-launches-post-quantum-verification-platform-for-digital</guid>
+      <pubDate>Fri, 04 Sep 2026 13:54:09 GMT</pubDate>
+      <category>industry</category>
+      <description>via The Quantum Insider</description>
+    </item>
+    <item>
+      <title>RIKEN Adopts QunaSys QURI SDK for Quantum-HPC Hybrid Computing</title>
+      <link>https://thequantuminsider.com/2026/09/04/riken-qunasys-software-jhpc-quantum-project/</link>
+      <guid isPermaLink="false">2026-09-05-riken-adopts-qunasys-quri-sdk-for-quantum-hpc-hybrid-computi</guid>
+      <pubDate>Fri, 04 Sep 2026 10:22:53 GMT</pubDate>
+      <category>industry</category>
+      <description>via The Quantum Insider</description>
+    </item>
+    <item>
+      <title>Who’s News: Strategic Appointments at QuIC, Atom Computing, and Qilimanjaro Quantum Tech</title>
+      <link>https://quantumcomputingreport.com/whos-news-strategic-appointments-at-quic-atom-computing-and-qilimanjaro-quantum-tech/</link>
+      <guid isPermaLink="false">2026-09-05-who-s-news-strategic-appointments-at-quic-atom-computing-and</guid>
+      <pubDate>Sat, 05 Sep 2026 01:17:36 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Computing Report</description>
+    </item>
+    <item>
+      <title>RIKEN Integrates QunaSys QURI SDK Enterprise into Japan’s JHPC-quantum Platform</title>
+      <link>https://quantumcomputingreport.com/riken-integrates-qunasys-quri-sdk-enterprise-into-japans-jhpc-quantum-platform/</link>
+      <guid isPermaLink="false">2026-09-05-riken-integrates-qunasys-quri-sdk-enterprise-into-japan-s-jh</guid>
+      <pubDate>Fri, 04 Sep 2026 11:58:47 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Computing Report</description>
+    </item>
+    <item>
+      <title>Forschungszentrum Jülich Operates eleQtron’s JION Trapped-Ion QPU via JUNIQ Infrastructure</title>
+      <link>https://quantumcomputingreport.com/forschungszentrum-julich-operates-eleqtrons-jion-trapped-ion-qpu-via-juniq-infrastructure/</link>
+      <guid isPermaLink="false">2026-09-05-forschungszentrum-ju-lich-operates-eleqtron-s-jion-trapped-i</guid>
+      <pubDate>Fri, 04 Sep 2026 11:34:39 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Computing Report</description>
+    </item>
+    <item>
+      <title>Quantum Foundry Copenhagen and Novo Nordisk Foundation Announce 5,300 m² Fabrication Facility for Quantum Chips</title>
+      <link>https://quantumcomputingreport.com/quantum-foundry-copenhagen-and-novo-nordisk-foundation-announce-5300-m%c2%b2-fabrication-facility-for-quantum-chips/</link>
+      <guid isPermaLink="false">2026-09-05-quantum-foundry-copenhagen-and-novo-nordisk-foundation-annou</guid>
+      <pubDate>Fri, 04 Sep 2026 11:08:50 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Computing Report</description>
+    </item>
+    <item>
+      <title>Exponentially Accurate Open Quantum Simulation via Randomized Dissipation with Minimal Ancilla</title>
+      <link>http://link.aps.org/doi/10.1103/91yq-swlv</link>
+      <guid isPermaLink="false">2026-09-05-exponentially-accurate-open-quantum-simulation-via-randomize</guid>
+      <pubDate>Fri, 04 Sep 2026 10:00:00 GMT</pubDate>
+      <category>research</category>
+      <description>via PRX Quantum</description>
+    </item>
+    <item>
+      <title>Metalens scans entire eye in 3D with 1.2mm depth</title>
+      <link>https://quantumzeitgeist.com/biophotonics-metalens-scans-3d-entire-eye/</link>
+      <guid isPermaLink="false">2026-09-05-metalens-scans-entire-eye-in-3d-with-1-2mm-depth</guid>
+      <pubDate>Fri, 04 Sep 2026 16:31:22 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Zeitgeist</description>
+    </item>
+    <item>
+      <title>QuFi’s 3 Predictions for Post-Quantum Digital Finance</title>
+      <link>https://quantumzeitgeist.com/qufi-network-post-quantum-digital-finance/</link>
+      <guid isPermaLink="false">2026-09-05-qufi-s-3-predictions-for-post-quantum-digital-finance</guid>
+      <pubDate>Fri, 04 Sep 2026 16:18:09 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Zeitgeist</description>
+    </item>
+    <item>
+      <title>Finding quantum advantage requires focused circuits</title>
+      <link>https://quantumzeitgeist.com/uchicago-pme-finding-quantum-advantage-requires/</link>
+      <guid isPermaLink="false">2026-09-05-finding-quantum-advantage-requires-focused-circuits</guid>
+      <pubDate>Fri, 04 Sep 2026 16:16:15 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Zeitgeist</description>
+    </item>
+    <item>
+      <title>QuTech builds team to integrate full quantum computers</title>
+      <link>https://quantumzeitgeist.com/qutech-integrate-full-quantum-computers/</link>
+      <guid isPermaLink="false">2026-09-05-qutech-builds-team-to-integrate-full-quantum-computers</guid>
+      <pubDate>Fri, 04 Sep 2026 16:15:58 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Zeitgeist</description>
+    </item>
+    <item>
+      <title>RIKEN microbial library reveals hidden CO2-fixing life</title>
+      <link>https://quantumzeitgeist.com/riken-microbial-library-hidden-co2-fixing/</link>
+      <guid isPermaLink="false">2026-09-05-riken-microbial-library-reveals-hidden-co2-fixing-life</guid>
+      <pubDate>Fri, 04 Sep 2026 15:49:00 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Zeitgeist</description>
+    </item>
+    <item>
+      <title>Applications for Quantum Cyber’s antenna program due</title>
+      <link>https://quantumzeitgeist.com/applications-quantum-cybers-antenna-program/</link>
+      <guid isPermaLink="false">2026-09-05-applications-for-quantum-cyber-s-antenna-program-due</guid>
+      <pubDate>Fri, 04 Sep 2026 15:47:28 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Zeitgeist</description>
+    </item>
+    <item>
+      <title>European Research Council finds spin &amp; quantum physics boost data storage</title>
+      <link>https://quantumzeitgeist.com/paul-scherrer-spin-quantum-physics-european/</link>
+      <guid isPermaLink="false">2026-09-05-european-research-council-finds-spin-quantum-physics-boost-d</guid>
+      <pubDate>Fri, 04 Sep 2026 15:45:02 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Zeitgeist</description>
+    </item>
+    <item>
+      <title>Researchers Bound Locations of Quantum Phase Transitions</title>
+      <link>https://quantumzeitgeist.com/quantum-phase-transitions-state-space-condensation-locations/</link>
+      <guid isPermaLink="false">2026-09-05-researchers-bound-locations-of-quantum-phase-transitions</guid>
+      <pubDate>Fri, 04 Sep 2026 15:31:00 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Zeitgeist</description>
+    </item>
+    <item>
+      <title>Institut Néel Team Defines Quantum Paraelectric Behaviour</title>
+      <link>https://quantumzeitgeist.com/quantum-paraelectric-behaviour-double-well-potential-kinetics/</link>
+      <guid isPermaLink="false">2026-09-05-institut-ne-el-team-defines-quantum-paraelectric-behaviour</guid>
+      <pubDate>Fri, 04 Sep 2026 13:48:00 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Zeitgeist</description>
+    </item>
+    <item>
+      <title>California Team Finds Shallow Circuits Become Learnable at Specific Depth</title>
+      <link>https://quantumzeitgeist.com/shallow-circuits-learnability-at-specific-depth/</link>
+      <guid isPermaLink="false">2026-09-05-california-team-finds-shallow-circuits-become-learnable-at-s</guid>
+      <pubDate>Fri, 04 Sep 2026 11:53:00 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Zeitgeist</description>
+    </item>
+    <item>
+      <title>GCISO Urges New Zealand Agencies To Invest In Post-quantum Computing By 2030 - Quantum Zeitgeist</title>
+      <link>https://news.google.com/rss/articles/CBMigAFBVV95cUxPZ2hRSXN4VFNCU254YTFhdUI1amFPX0JQcmhZQTNkRUlsZEN0OFFHZW1uaFhwUHZIZXlLemVwa0EyeXBQeHhhWjhHNmdIQUxzcUlNSWxGMG11UlQ1TlR2LUhIdUo4cWptdWsyN24tUXZCSlhqNzRER2Jmd1NxMWRGVw?oc=5</link>
+      <guid isPermaLink="false">2026-09-05-gciso-urges-new-zealand-agencies-to-invest-in-post-quantum-c</guid>
+      <pubDate>Sat, 05 Sep 2026 08:03:45 GMT</pubDate>
+      <category>industry</category>
+      <description>via Google News — quantum computing</description>
+    </item>
+    <item>
+      <title>Forschungszentrum Jülich And EleQtron Launch JION Trapped-ion Quantum Computer - Quantum Zeitgeist</title>
+      <link>https://news.google.com/rss/articles/CBMiigFBVV95cUxOVGg2NVFwZ0ZnaGxSbUlIYjJSczM4ei02Z0pRUTZVMTI4MjJQc3hPZVFyS0FWa3J5ckpmQmFoVU9NZXl3bzZZdkNPNW1TanZJS3lYSzJDdndiUEFranAzWTZlMFBjdGREMlAxdVp4Y0tfVHJBTW5Dc0FuMTFJSHdxVGhXSC1QaWR4a0E?oc=5</link>
+      <guid isPermaLink="false">2026-09-05-forschungszentrum-ju-lich-and-eleqtron-launch-jion-trapped-i</guid>
+      <pubDate>Sat, 05 Sep 2026 08:03:45 GMT</pubDate>
+      <category>industry</category>
+      <description>via Google News — quantum computing</description>
+    </item>
+    <item>
+      <title>New Codes Aim To Link Quantum Modules Despite Unreliable Connections - Quantum Zeitgeist</title>
+      <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxPSkZoUTJYNUpqV2ZsWUhlTFg4ZmpFVE5Bd3pPNmwzSU96WnJEMEJRdXBUaTlld0VEYlVyM2M4TXVweEFwX0hhTHVjX2QwVzZSVTlSbzlUZlVmc3FnTW5CeWczd2pMMkZZdDU1eFk4bU5UdXpIUG5oTkptaUtDNlhjcEFB?oc=5</link>
+      <guid isPermaLink="false">2026-09-05-new-codes-aim-to-link-quantum-modules-despite-unreliable-con</guid>
+      <pubDate>Sat, 05 Sep 2026 08:03:45 GMT</pubDate>
+      <category>industry</category>
+      <description>via Google News — quantum computing</description>
+    </item>
+    <item>
+      <title>Europe Funds G+D In UPQComing Project To Shield IDs From Quantum Attacks - Quantum Zeitgeist</title>
+      <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxOQVJlRE1DS2tyWGNQVXgySFE1czYwcS0tbUh0bzlhMFo4WjV3cXYtWTlwTXFTX202NThnWDJ6TGlNbmtJSzFkT0xRZE1lOVl4QkExcTYxWE5aT2QtWkFBa01MZmF3QWF4b2hPaFZPT0FpNTV4NmJSVlJxR3lxRmhNVzVySFQ?oc=5</link>
+      <guid isPermaLink="false">2026-09-05-europe-funds-g-d-in-upqcoming-project-to-shield-ids-from-qua</guid>
+      <pubDate>Sat, 05 Sep 2026 08:03:45 GMT</pubDate>
+      <category>industry</category>
+      <description>via Google News — quantum computing</description>
+    </item>
+    <item>
+      <title>Corient Private Wealth LP Makes New $1.29 Million Investment in Quantum Computing Inc. $QUBT - MarketBeat</title>
+      <link>https://news.google.com/rss/articles/CBMi4wFBVV95cUxOc1BGNGs1WXZBUHZNWHFSQjYzNUZSTzl6MlhhcXlvVDktZFBqTi1mSnFZdkxsX201czFaeFhKSk12ZTFYakFxcVJadzY5WTh1TGVJbDZuSlhIOWhyMjV1LVlXQllpOV93eVVneEx1d2xyeEdVTng3QjR1VWU2SjhNV2cyUnNJUi04VWVUWjljcHMwN1VxNWR0SGNTWTVxdDFveDFVTTJwOEsyMmxzclpYb2lhbWhORjgzNURDSDc2b2tHbkxDTllvY1M5MjY2cTJXcVEtTjE1ZlgwVVl6OHd1Tm1VQQ?oc=5</link>
+      <guid isPermaLink="false">2026-09-05-corient-private-wealth-lp-makes-new-1-29-million-investment-</guid>
+      <pubDate>Sat, 05 Sep 2026 07:47:44 GMT</pubDate>
+      <category>industry</category>
+      <description>via Google News — quantum computing</description>
+    </item>
+    <item>
+      <title>Rigetti Computing Stock: Time to Buy This Quantum Computing Stock? - The Globe and Mail</title>
+      <link>https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRzVkNzBtVFpVTlZuQkJFZW42eEE0aGh1WFhSdFhOT2VqS2RyR2d4TDBuQi1yTTcwYnBiaWY5dmhfQlNENzc2SHBFRFU5N0dkekdnVUdQSGdITXdxSDFUNVE0d3o3VnozTVdPU0l4SW9FS3ROSVhwMEsydWVrN282T1Vvbi1ONUhqbnozam40X1NlQ3lYVWFuNmMtRzYyTXRQQ0pKUFdSR2UtX0FzLTlEMFdueUs0TU8yRXBDQjlUbVYwZV9YcThLejJ4aEdaOTZTQjFHY2ZBUzZnbGYtRUVMbV8tYw?oc=5</link>
+      <guid isPermaLink="false">2026-09-05-rigetti-computing-stock-time-to-buy-this-quantum-computing-s</guid>
+      <pubDate>Fri, 04 Sep 2026 23:35:09 GMT</pubDate>
+      <category>industry</category>
+      <description>via Google News — quantum computing</description>
+    </item>
+    <item>
+      <title>QuFi Network Launches Verification Platform to Counter Quantum-Computing Threats - bloomingbit</title>
+      <link>https://news.google.com/rss/articles/CBMiVEFVX3lxTE1qNWRHaVdxSmJZMUhLV3dFY21Rbm9BcHY2YUFCUWdnNHhBS2dWNHBhYjJXNXUza1NwU0ZXMVE3NW90VzBuODFIUFZWS19GRGVGcjhXYg?oc=5</link>
+      <guid isPermaLink="false">2026-09-05-qufi-network-launches-verification-platform-to-counter-quant</guid>
+      <pubDate>Fri, 04 Sep 2026 23:08:09 GMT</pubDate>
+      <category>industry</category>
+      <description>via Google News — quantum computing</description>
+    </item>
+    <item>
+      <title>Quantinuum to Participate in the Bernstein 23rd Annual Pan-European Strategic Decisions Conference - pressreleasehub.pa.media</title>
+      <link>https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWENvVWJjVFFwRFYwcXlzMU5saE5KVG90Y3J5bnBPNTNQSkk0ZktGSjAwU01XWGtLN1c1b01Qb0tCdjZ6NTdEVGc2TmdmVkNVRXl3QnJDRjBDdUVYVzQwZTBhTFVyYXZubzZwM0NpM2h0bEhhNFVualdGT2hMRGw3WXhjeTUtLXl3cEdrTUFEMWtTSmV0alVqRWM0QnZWQXJjUjVIWGp3TjhvcmxPUGZKanF0VUtrclRkbUpCV1NOcUhrYkEwdE5qQkotbTlNU3Q3WjhTWEhJS2I5RlRUY2p5Q2lEMTE?oc=5</link>
+      <guid isPermaLink="false">2026-09-05-quantinuum-to-participate-in-the-bernstein-23rd-annual-pan-e</guid>
+      <pubDate>Fri, 04 Sep 2026 22:07:14 GMT</pubDate>
+      <category>industry</category>
+      <description>via Google News — quantum computing</description>
+    </item>
+    <item>
+      <title>CISA, G7 Urge Organizations to Begin Post-Quantum Cryptography Migration - ExecutiveGov</title>
+      <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxNOVp5czFMZXg2ZGQ5dVY4Rm5PcXJURXlkSG9GWjZTUDZ0T2t1WWtmSzBnMjhaYWR0RFdEQmxzT0NIQy1lVEwtVG5qeEVteVhuYk9Rcnc0cV9jRHphOWxDbE9QZ3o0cDBFS0hQSjBnTzNyNFpRSkxrTnpXQ1h3S0E3b1VCYmE?oc=5</link>
+      <guid isPermaLink="false">2026-09-05-cisa-g7-urge-organizations-to-begin-post-quantum-cryptograph</guid>
+      <pubDate>Fri, 04 Sep 2026 21:08:35 GMT</pubDate>
+      <category>industry</category>
+      <description>via Google News — quantum computing</description>
+    </item>
+    <item>
+      <title>Magic-angle graphene provides evidence for unconventional superconductivity</title>
+      <link>https://phys.org/news/2026-09-magic-angle-graphene-evidence-unconventional.html</link>
+      <guid isPermaLink="false">2026-09-05-magic-angle-graphene-provides-evidence-for-unconventional-su</guid>
+      <pubDate>Fri, 04 Sep 2026 21:20:03 GMT</pubDate>
+      <category>research</category>
+      <description>via Phys.org — Quantum Physics</description>
+    </item>
     <item>
       <title>MIT Qubit Design Could Speed Quantum Operations While Preserving Data</title>
       <link>https://thequantuminsider.com/2026/09/04/mit-qubit-design-could-speed-quantum-operations-while-preserving-data/</link>
@@ -165,246 +405,6 @@
       <pubDate>Thu, 03 Sep 2026 15:45:29 GMT</pubDate>
       <category>industry</category>
       <description>via Quantum Zeitgeist</description>
-    </item>
-    <item>
-      <title>Researchers Map Particle Behaviour in Curved Spacetime</title>
-      <link>https://quantumzeitgeist.com/klein-gordon-oscillator-curved-spacetime-analytical-solutions/</link>
-      <guid isPermaLink="false">2026-09-04-researchers-map-particle-behaviour-in-curved-spacetime</guid>
-      <pubDate>Thu, 03 Sep 2026 15:35:00 GMT</pubDate>
-      <category>industry</category>
-      <description>via Quantum Zeitgeist</description>
-    </item>
-    <item>
-      <title>Exail sends a space-qualified laser for Europe’s quantum mission</title>
-      <link>https://quantumzeitgeist.com/exail-sends-space-qualified-laser-europes/</link>
-      <guid isPermaLink="false">2026-09-04-exail-sends-a-space-qualified-laser-for-europe-s-quantum-mis</guid>
-      <pubDate>Thu, 03 Sep 2026 15:20:23 GMT</pubDate>
-      <category>industry</category>
-      <description>via Quantum Zeitgeist</description>
-    </item>
-    <item>
-      <title>IBM hires MIT grads to speed up AI and quantum work</title>
-      <link>https://quantumzeitgeist.com/quantum-work-ibm-hires-mit/</link>
-      <guid isPermaLink="false">2026-09-04-ibm-hires-mit-grads-to-speed-up-ai-and-quantum-work</guid>
-      <pubDate>Thu, 03 Sep 2026 15:20:14 GMT</pubDate>
-      <category>industry</category>
-      <description>via Quantum Zeitgeist</description>
-    </item>
-    <item>
-      <title>Quantinuum and Aramco will explore quantum computing for energy challenges</title>
-      <link>https://quantumzeitgeist.com/quantum-computing-energy-quantinuum-aramco/</link>
-      <guid isPermaLink="false">2026-09-04-quantinuum-and-aramco-will-explore-quantum-computing-for-ene</guid>
-      <pubDate>Thu, 03 Sep 2026 15:20:06 GMT</pubDate>
-      <category>industry</category>
-      <description>via Quantum Zeitgeist</description>
-    </item>
-    <item>
-      <title>Error rates fall with MIT’s new qubit architecture</title>
-      <link>https://quantumzeitgeist.com/mit-qubit-architecture-error-rates-fall/</link>
-      <guid isPermaLink="false">2026-09-04-error-rates-fall-with-mit-s-new-qubit-architecture</guid>
-      <pubDate>Thu, 03 Sep 2026 15:20:01 GMT</pubDate>
-      <category>industry</category>
-      <description>via Quantum Zeitgeist</description>
-    </item>
-    <item>
-      <title>Quantinuum and Aramco to explore industrial quantum use cases - Yahoo Finance</title>
-      <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxPdmZvWHhYQ2stbUc3X3hlN1IxV3JvZVUwTTRSY2F6UXk3ZW9ZNjJEUXZjSF9kRDg2NzNrRzRBNEdrX1JhWE4tN3hqYndTY204NURIUUszT2Y0dlF2UXlFam1UMEpURzYtYTlUMVJ6Vjh2OWlLOVVLRzJVUUdNWjRZZUwyZ3puSlNac1FsVzMzNWZHTEd5VlZyZHpZbVFZRkhfWEU4LTA0VTdQbXdC?oc=5</link>
-      <guid isPermaLink="false">2026-09-04-quantinuum-and-aramco-to-explore-industrial-quantum-use-case</guid>
-      <pubDate>Fri, 04 Sep 2026 09:04:43 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>Quantinuum and Aramco Explore Quantum Computing for Energy - ChemAnalyst</title>
-      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxOenN3MzBsT2tteEF4ck92ajFnazNpbVF2UV9hMTdiZzdKSEtXTXRHRFFmVEh1NnozU3dSdGpKT1UweG9RcXdTZkMxa01qakRRQUctRndhNnpnR3dUenZZSFM3MEd4VU1ZLVVlLTVFem1RWFZtS1JQY3RkaURYSG9SWkRveVI2U3pfSTZZZHpHS3BGRW5RNkJqVHJ2NVUzUm1ORFM4Um5rdHJrUQ?oc=5</link>
-      <guid isPermaLink="false">2026-09-04-quantinuum-and-aramco-explore-quantum-computing-for-energy-c</guid>
-      <pubDate>Fri, 04 Sep 2026 08:47:35 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>Why Did D-Wave Quantum (QBTS) Move Today? - Yahoo! Finance Canada</title>
-      <link>https://news.google.com/rss/articles/CBMie0FVX3lxTFBLLTlCbGdGazg5VURjdVNiSE5vTk12Sy1ocG9qVnNhZko0QWllZGM2V0J2WFo0Ykotc2Y4dnRWQzBDeDB5aHJFVndQVXI4WlYzYjdmb0E0VHl1ZGg3R3hEVWUtOXd0SWM4N2Q4d3NKVHNjS3JDVFFkR3lNaw?oc=5</link>
-      <guid isPermaLink="false">2026-09-04-why-did-d-wave-quantum-qbts-move-today-yahoo-finance-canada</guid>
-      <pubDate>Fri, 04 Sep 2026 08:18:32 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>‘This new system will help you do more quantum computing, faster’: IBM says its Nighthawk r2 quantum processor marks a step change in compute capability - IT Pro</title>
-      <link>https://news.google.com/rss/articles/CBMikwJBVV95cUxPNUtvY0JtcWYxcmwxTG9IelJmNlo0Sk01U0J1TjZIaW9INXN2WjNGT01JYVY2SlhPendxLWRZY2JUazVEajhxV1V2THA0Vm1NMWdyUlJXWjM0dmJLZGxDTlFHWGg4Umk4ZjczdmVjN1FuODlYdGY4aEtyXzZranRlb0hCQXllYS0tVlk2OGEyRWlxWU5LNVpkMUxIamFieWlua2VDNDlSTHRFZUVoNjl1NjRJTVJ6MVNRMlhzNWFYTDQydzlobUhIWnpRTTdNY2RHdkFpNU81MXZ2VW16TEkycm82Z09ORzlNMjY0OHN3SWdiRGZXbzBpZWd3Q1RSTFgwRWt2aXZxaUpEakdHdll6anN3Yw?oc=5</link>
-      <guid isPermaLink="false">2026-09-04-this-new-system-will-help-you-do-more-quantum-computing-fast</guid>
-      <pubDate>Fri, 04 Sep 2026 08:06:47 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>Novo Owner to Build $62 Million Quantum Chip Plant in Denmark - Bloomberg.com</title>
-      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxNUHZmc19Bb1VTZThtV3N0ZG5xQThBLVZXdm1EQ0h5dXZKeThGTmVackJZeHIxSmZIYV9SdFdfRW1Vb1NNWVBpRmRVVDB0aC1zck0wWmhSSjR6TEEySVl1UFlkMUFpZjZzZkJHOXllNEszSmljeE1uenJMQXcxVnpkU1ZQWDJQSDU4X2VpYjRESkNQM0tZQVhaVFo4MGRRUE43a3I1ZWxQc0ZmWjJjMWNBbw?oc=5</link>
-      <guid isPermaLink="false">2026-09-04-novo-owner-to-build-62-million-quantum-chip-plant-in-denmark</guid>
-      <pubDate>Fri, 04 Sep 2026 05:00:00 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>Atom Computing names Kevin Messerle chief financial officer in Boulder - ColoradoBiz</title>
-      <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxQYXRRdUNSYXlUc2dFWEtna2lWWElNM0hZVkVlZzJSdlJSLTFxVi1pVk5zTWRXTjdfcEdyN3VTR3g1YTVKUUw4ekt3cmJ6dWx6UEFtbDF6ZEtfMzZqNnQyTGNKUFRIbHcyRkZvMzl0SEw1UWkzXzFsdlhVcnhyMlgyUHFzRHhhdElobHdWYg?oc=5</link>
-      <guid isPermaLink="false">2026-09-04-atom-computing-names-kevin-messerle-chief-financial-officer-</guid>
-      <pubDate>Fri, 04 Sep 2026 00:16:55 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>D-Wave, quantum computing's oldest company, is now building a second kind of machine - digitimes</title>
-      <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbGM0YVh5SFZnXzJzV3Z6b1B2ZGFwVE5Jd19wZ3ZhZXJwYl9MQ2VIelRJZWk2OFJtbUtTcHJEekR3U05RYjh3eDNOVmRvbVY5S2ZUUUVDLXE3eGhxUWVzZmFVYmw4M1dHMnpWenNWTmJCdTJTWmRDMnVaNjFTZGZyWEpjS19BOFZyaS1jV01JV0hzMW5FUjZLN3dINVc2VjNUcXVQcjdZSkw?oc=5</link>
-      <guid isPermaLink="false">2026-09-04-d-wave-quantum-computing-s-oldest-company-is-now-building-a-</guid>
-      <pubDate>Fri, 04 Sep 2026 00:01:03 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>G7 Cyber Agencies Issue Quantum Security Warning - RTO Insider</title>
-      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE9BZ1BlLUdWTVFydmVvRmJGYUs4TWIwZ1FuOFltS2RZamVwb0RoZGpfSTBfVnRzQTZDMTJ2VTVSVzZ6NThFbUxtWWdiVm5rcUFNN0JxaHhkWFlndmJUYW04SDF0UV9RUmMyd1FiRXpzTml1aE5WVVB6X25TWl9jUzQ?oc=5</link>
-      <guid isPermaLink="false">2026-09-04-g7-cyber-agencies-issue-quantum-security-warning-rto-insider</guid>
-      <pubDate>Thu, 03 Sep 2026 22:44:33 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>George Mason University Brings Quantum Computing to Campus - GovTech</title>
-      <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxPSnNqdmpPbWw5cFNZYXFMcWJBdXNha1JqOGVXeE85Y01MSHVEU1NtbEh1NHdKbVZUMjQ3ejBiZVJRVTdfVVVUalU2RGViMkpuN3RZbnBfLWhWVkpzQ19Sc1d6eHpYOE9tY2ZELS1OZ1EtS1hhSjRMczA2Z1VOajFCbUVhWTdvMVlZRUFNekFKS2Nka2p1TWlWNEZXN3N2bmxWRi1QZw?oc=5</link>
-      <guid isPermaLink="false">2026-09-04-george-mason-university-brings-quantum-computing-to-campus-g</guid>
-      <pubDate>Thu, 03 Sep 2026 22:28:30 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>IonQ (IONQ) Stock Looks About Right Despite Fresh Quantum Drug Discovery News - simplywall.st</title>
-      <link>https://news.google.com/rss/articles/CBMixgFBVV95cUxOUUNzOTVFeGdPbmt5VFlveXh4enZUNFkwbzdLOGRieHppd0VIYjhkNGFheDFzWFljQVR5RGRlZEQwQUdPWmlQQ2tQN2k4OG44SVY2a2FRNXNLM3Q4SUVTb3dTZV9teFhhNXN2QWpyMDNuSXkyWVZCRW1HU2JXRTN2am9jeVJJdmxiRm9hNDdvd2Yyb0Q5NmZGQjVUbWFKNXpXMDNWS01jbjZrRTBjbkxKc0FYak5xbFZ1bGRFRDVxWEpZUDF4MFHSAcsBQVVfeXFMUDdlbVpwNXJscDJEMXBRSnNSM0JncmF3djMzRkVzSTUxU0VBR0huYUs1VkZUWXZPcm50bU9JODZWT0dMbGFOb2FlSGMzNnBiYWVxNlpXMzU2YkhKZ0RqNDMwUFZrcDE0SjdwMV9zcUhzVFNUUnpIMmRNZWxIV0JaeTBjTGFac1FvZ1M4T2ZoUDVoOUlrQktsQXJQSHRPRUJ5X3lwMGg3YWR6MEo3S0F1RXhtbFNpaHhabUdSQmZnQzA2NVBmbV9qU0lSVUU?oc=5</link>
-      <guid isPermaLink="false">2026-09-04-ionq-ionq-stock-looks-about-right-despite-fresh-quantum-drug</guid>
-      <pubDate>Thu, 03 Sep 2026 21:25:45 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>PsiQuantum, Brookhaven Lab Announce Quantum Collaboration - ExecutiveGov</title>
-      <link>https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ2w0NldfRXhtcUxNaTdYZ1A2cFo0ZHRDZ2x0LWlFQ2xhOElWRndBbWRjZXJwVzllZzhiVkkzQnZhRjlSUmo0YjFKRFhodjBBUTNXU010SFRvNWlVcThCMkRZTmJUTDQxZE1FVXJYbXgxLUJOTGI5aVVSaG96MkY5ejBqVFAwb3JRU1E?oc=5</link>
-      <guid isPermaLink="false">2026-09-04-psiquantum-brookhaven-lab-announce-quantum-collaboration-exe</guid>
-      <pubDate>Thu, 03 Sep 2026 21:11:29 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>Quantum communication and Bell nonlocality require infinite classical communication to simulate</title>
-      <link>https://arxiv.org/abs/2609.04182v1</link>
-      <guid isPermaLink="false">2026-09-04-quantum-communication-and-bell-nonlocality-require-infinite-</guid>
-      <pubDate>Thu, 03 Sep 2026 17:57:48 GMT</pubDate>
-      <category>research</category>
-      <description>via arXiv quant-ph</description>
-    </item>
-    <item>
-      <title>Measurements on the separated subsystems of an entangled state</title>
-      <link>https://arxiv.org/abs/2609.04178v1</link>
-      <guid isPermaLink="false">2026-09-04-measurements-on-the-separated-subsystems-of-an-entangled-sta</guid>
-      <pubDate>Thu, 03 Sep 2026 17:56:28 GMT</pubDate>
-      <category>research</category>
-      <description>via arXiv quant-ph</description>
-    </item>
-    <item>
-      <title>Twin-photon generation in a silicon nitride microresonator</title>
-      <link>https://arxiv.org/abs/2609.04171v1</link>
-      <guid isPermaLink="false">2026-09-04-twin-photon-generation-in-a-silicon-nitride-microresonator</guid>
-      <pubDate>Thu, 03 Sep 2026 17:54:38 GMT</pubDate>
-      <category>research</category>
-      <description>via arXiv quant-ph</description>
-    </item>
-    <item>
-      <title>Parameterised graph theory for tensor networks: entanglement rerouting, structural simplification, and agnostic tomography</title>
-      <link>https://arxiv.org/abs/2609.04165v1</link>
-      <guid isPermaLink="false">2026-09-04-parameterised-graph-theory-for-tensor-networks-entanglement-</guid>
-      <pubDate>Thu, 03 Sep 2026 17:50:38 GMT</pubDate>
-      <category>research</category>
-      <description>via arXiv quant-ph</description>
-    </item>
-    <item>
-      <title>Vanilla Exact Synthesis of CNOT Circuits is NP-hard</title>
-      <link>https://arxiv.org/abs/2609.04160v1</link>
-      <guid isPermaLink="false">2026-09-04-vanilla-exact-synthesis-of-cnot-circuits-is-np-hard</guid>
-      <pubDate>Thu, 03 Sep 2026 17:49:16 GMT</pubDate>
-      <category>research</category>
-      <description>via arXiv quant-ph</description>
-    </item>
-    <item>
-      <title>Spurious quantum correlations</title>
-      <link>https://arxiv.org/abs/2609.04157v1</link>
-      <guid isPermaLink="false">2026-09-04-spurious-quantum-correlations</guid>
-      <pubDate>Thu, 03 Sep 2026 17:48:31 GMT</pubDate>
-      <category>research</category>
-      <description>via arXiv quant-ph</description>
-    </item>
-    <item>
-      <title>Efficient Conversion of Optical to Mechanical States Close to the Single-Quantum Level</title>
-      <link>https://arxiv.org/abs/2609.04150v1</link>
-      <guid isPermaLink="false">2026-09-04-efficient-conversion-of-optical-to-mechanical-states-close-t</guid>
-      <pubDate>Thu, 03 Sep 2026 17:43:22 GMT</pubDate>
-      <category>research</category>
-      <description>via arXiv quant-ph</description>
-    </item>
-    <item>
-      <title>Characterizing Large Scale Quantum Systems with Error Per Circuit Layer</title>
-      <link>https://arxiv.org/abs/2609.04132v1</link>
-      <guid isPermaLink="false">2026-09-04-characterizing-large-scale-quantum-systems-with-error-per-ci</guid>
-      <pubDate>Thu, 03 Sep 2026 17:28:40 GMT</pubDate>
-      <category>research</category>
-      <description>via arXiv quant-ph</description>
-    </item>
-    <item>
-      <title>Quantum thermalization achieves optimal approximate quantum error correction</title>
-      <link>https://arxiv.org/abs/2609.04121v1</link>
-      <guid isPermaLink="false">2026-09-04-quantum-thermalization-achieves-optimal-approximate-quantum-</guid>
-      <pubDate>Thu, 03 Sep 2026 17:23:17 GMT</pubDate>
-      <category>research</category>
-      <description>via arXiv quant-ph</description>
-    </item>
-    <item>
-      <title>Non-local Magic: closed-form solution and equivalence with magic of purification</title>
-      <link>https://arxiv.org/abs/2609.04119v1</link>
-      <guid isPermaLink="false">2026-09-04-non-local-magic-closed-form-solution-and-equivalence-with-ma</guid>
-      <pubDate>Thu, 03 Sep 2026 17:21:11 GMT</pubDate>
-      <category>research</category>
-      <description>via arXiv quant-ph</description>
-    </item>
-    <item>
-      <title>BESIII sets world's most stringent direct limit on Lambda hyperon electric dipole moment</title>
-      <link>https://phys.org/news/2026-09-besiii-world-stringent-limit-lambda.html</link>
-      <guid isPermaLink="false">2026-09-04-besiii-sets-world-s-most-stringent-direct-limit-on-lambda-hy</guid>
-      <pubDate>Thu, 03 Sep 2026 18:00:17 GMT</pubDate>
-      <category>research</category>
-      <description>via Phys.org — Quantum Physics</description>
-    </item>
-    <item>
-      <title>Quantum-optical spin glass could improve how AI remembers and learns</title>
-      <link>https://phys.org/news/2026-09-quantum-optical-glass-ai.html</link>
-      <guid isPermaLink="false">2026-09-04-quantum-optical-spin-glass-could-improve-how-ai-remembers-an</guid>
-      <pubDate>Thu, 03 Sep 2026 18:00:01 GMT</pubDate>
-      <category>research</category>
-      <description>via Phys.org — Quantum Physics</description>
-    </item>
-    <item>
-      <title>AI suggests new physics experiments that could outperform human-designed setups</title>
-      <link>https://phys.org/news/2026-09-ai-physics-outperform-human-setups.html</link>
-      <guid isPermaLink="false">2026-09-04-ai-suggests-new-physics-experiments-that-could-outperform-hu</guid>
-      <pubDate>Thu, 03 Sep 2026 16:20:06 GMT</pubDate>
-      <category>research</category>
-      <description>via Phys.org — Quantum Physics</description>
-    </item>
-    <item>
-      <title>Dual-purpose qubit design could speed operations while cutting quantum errors</title>
-      <link>https://phys.org/news/2026-09-dual-purpose-qubit-quantum-errors.html</link>
-      <guid isPermaLink="false">2026-09-04-dual-purpose-qubit-design-could-speed-operations-while-cutti</guid>
-      <pubDate>Thu, 03 Sep 2026 14:20:04 GMT</pubDate>
-      <category>research</category>
-      <description>via Phys.org — Quantum Physics</description>
     </item>
   </channel>
 </rss>
