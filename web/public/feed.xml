@@ -5,7 +5,343 @@
     <link>https://karelgo.github.io/QuantumObservatory</link>
     <description>Everything that happened in quantum computing, collapsed into one daily digest. A QuantumVerse sister project.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Sep 2026 10:52:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 10:41:52 GMT</lastBuildDate>
+    <item>
+      <title>Beijing Launches Program to Connect Quantum Companies With Industrial Customers</title>
+      <link>https://thequantuminsider.com/2026/09/16/beijing-launches-program-to-connect-quantum-companies-with-industrial-customers/</link>
+      <guid isPermaLink="false">2026-09-16-beijing-launches-program-to-connect-quantum-companies-with-i</guid>
+      <pubDate>Wed, 16 Sep 2026 08:19:49 GMT</pubDate>
+      <category>industry</category>
+      <description>via The Quantum Insider</description>
+    </item>
+    <item>
+      <title>BioInnovation Institute Selects 17 European Startups for Funding and Support</title>
+      <link>https://thequantuminsider.com/2026/09/16/bioinnovation-institute-selects-17-european-startups-for-funding-and-support/</link>
+      <guid isPermaLink="false">2026-09-16-bioinnovation-institute-selects-17-european-startups-for-fun</guid>
+      <pubDate>Wed, 16 Sep 2026 07:57:57 GMT</pubDate>
+      <category>industry</category>
+      <description>via The Quantum Insider</description>
+    </item>
+    <item>
+      <title>BDC Allocates $1 Billion Under Defence Platform for Canadian Defence Technologies</title>
+      <link>https://thequantuminsider.com/2026/09/16/bdc-1-billion-canadian-defence-dual-use-technologies/</link>
+      <guid isPermaLink="false">2026-09-16-bdc-allocates-1-billion-under-defence-platform-for-canadian-</guid>
+      <pubDate>Wed, 16 Sep 2026 07:00:00 GMT</pubDate>
+      <category>industry</category>
+      <description>via The Quantum Insider</description>
+    </item>
+    <item>
+      <title>Infleqtion’s Pranav Gokhale Receives 2026 IEEE QTC Early Career Award</title>
+      <link>https://thequantuminsider.com/2026/09/16/infleqtion-pranav-gokhale-2026-ieee-qtc-early-career-award/</link>
+      <guid isPermaLink="false">2026-09-16-infleqtion-s-pranav-gokhale-receives-2026-ieee-qtc-early-car</guid>
+      <pubDate>Wed, 16 Sep 2026 06:59:20 GMT</pubDate>
+      <category>industry</category>
+      <description>via The Quantum Insider</description>
+    </item>
+    <item>
+      <title>SQC Appoints John Hollister as Chief Financial Officer</title>
+      <link>https://thequantuminsider.com/2026/09/16/sqc-appoints-semiconductor-veteran-john-hollister-cfo/</link>
+      <guid isPermaLink="false">2026-09-16-sqc-appoints-john-hollister-as-chief-financial-officer</guid>
+      <pubDate>Wed, 16 Sep 2026 06:43:33 GMT</pubDate>
+      <category>industry</category>
+      <description>via The Quantum Insider</description>
+    </item>
+    <item>
+      <title>Emergence Quantum and AirTrunk Partner on Cryogenic Data Centres</title>
+      <link>https://thequantuminsider.com/2026/09/16/emergence-quantum-airtrunk-cryogenic-data-centres/</link>
+      <guid isPermaLink="false">2026-09-16-emergence-quantum-and-airtrunk-partner-on-cryogenic-data-cen</guid>
+      <pubDate>Wed, 16 Sep 2026 06:37:59 GMT</pubDate>
+      <category>industry</category>
+      <description>via The Quantum Insider</description>
+    </item>
+    <item>
+      <title>Q*Bird becomes Falqon® Systems, Building the Infrastructure for Quantum Secure Networks</title>
+      <link>https://thequantuminsider.com/2026/09/15/qbird-becomes-falqon-systems-quantum-secure-networks/</link>
+      <guid isPermaLink="false">2026-09-16-q-bird-becomes-falqon-systems-building-the-infrastructure-fo</guid>
+      <pubDate>Tue, 15 Sep 2026 17:41:23 GMT</pubDate>
+      <category>industry</category>
+      <description>via The Quantum Insider</description>
+    </item>
+    <item>
+      <title>Oracle Java 27 Adds Post-Quantum Hybrid Key Exchange for TLS 1.3</title>
+      <link>https://thequantuminsider.com/2026/09/15/oracle-java-27-post-quantum-cryptography-support/</link>
+      <guid isPermaLink="false">2026-09-16-oracle-java-27-adds-post-quantum-hybrid-key-exchange-for-tls</guid>
+      <pubDate>Tue, 15 Sep 2026 16:54:35 GMT</pubDate>
+      <category>industry</category>
+      <description>via The Quantum Insider</description>
+    </item>
+    <item>
+      <title>Iceberg Quantum and Diraq Demonstrate Pinnacle qLDPC Architecture on Spin Qubits</title>
+      <link>https://thequantuminsider.com/2026/09/15/iceberg-quantum-diraq-pinnacle-spin-qubit-hardware/</link>
+      <guid isPermaLink="false">2026-09-16-iceberg-quantum-and-diraq-demonstrate-pinnacle-qldpc-archite</guid>
+      <pubDate>Tue, 15 Sep 2026 15:20:25 GMT</pubDate>
+      <category>industry</category>
+      <description>via The Quantum Insider</description>
+    </item>
+    <item>
+      <title>QC Design Integrates Plaquette With NVIDIA CUDA-Q Logical for Hardware-Realistic QEC Simulation</title>
+      <link>https://thequantuminsider.com/2026/09/15/qc-design-plaquette-nvidia-cuda-q-logical-qec-simulation/</link>
+      <guid isPermaLink="false">2026-09-16-qc-design-integrates-plaquette-with-nvidia-cuda-q-logical-fo</guid>
+      <pubDate>Tue, 15 Sep 2026 15:11:24 GMT</pubDate>
+      <category>industry</category>
+      <description>via The Quantum Insider</description>
+    </item>
+    <item>
+      <title>Fujitsu Open-Sources OpenQARP Framework to Streamline Quantum Application Development</title>
+      <link>https://quantumcomputingreport.com/fujitsu-open-sources-openqarp-framework-to-streamline-quantum-application-development/</link>
+      <guid isPermaLink="false">2026-09-16-fujitsu-open-sources-openqarp-framework-to-streamline-quantu</guid>
+      <pubDate>Wed, 16 Sep 2026 02:13:03 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Computing Report</description>
+    </item>
+    <item>
+      <title>ParityQC Launches Parity Twine Optimizer via IBM Qiskit Functions Catalog</title>
+      <link>https://quantumcomputingreport.com/parityqc-launches-parity-twine-optimizer-via-ibm-qiskit-functions-catalog/</link>
+      <guid isPermaLink="false">2026-09-16-parityqc-launches-parity-twine-optimizer-via-ibm-qiskit-func</guid>
+      <pubDate>Wed, 16 Sep 2026 01:53:19 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Computing Report</description>
+    </item>
+    <item>
+      <title>Emergence Quantum and AirTrunk Partner to Develop Hyperscale Cryogenic Data Center Infrastructure</title>
+      <link>https://quantumcomputingreport.com/emergence-quantum-and-airtrunk-partner-to-develop-hyperscale-cryogenic-data-center-infrastructure/</link>
+      <guid isPermaLink="false">2026-09-16-emergence-quantum-and-airtrunk-partner-to-develop-hyperscale</guid>
+      <pubDate>Wed, 16 Sep 2026 01:44:08 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Computing Report</description>
+    </item>
+    <item>
+      <title>Quantum Computing Inc. Signs Three-Year Framework Agreement with Hamad Bin Khalifa University for Middle East QPU Deployment</title>
+      <link>https://quantumcomputingreport.com/quantum-computing-inc-signs-three-year-framework-agreement-with-hamad-bin-khalifa-university-for-middle-east-qpu-deployment/</link>
+      <guid isPermaLink="false">2026-09-16-quantum-computing-inc-signs-three-year-framework-agreement-w</guid>
+      <pubDate>Wed, 16 Sep 2026 00:18:34 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Computing Report</description>
+    </item>
+    <item>
+      <title>TOYO Corporation Acquires Second On-Premises IQM System to Open Dual-QPU Testbed for Japan’s Ecosystem</title>
+      <link>https://quantumcomputingreport.com/toyo-corporation-acquires-second-on-premises-iqm-system-to-open-dual-qpu-testbed-for-japans-ecosystem/</link>
+      <guid isPermaLink="false">2026-09-16-toyo-corporation-acquires-second-on-premises-iqm-system-to-o</guid>
+      <pubDate>Wed, 16 Sep 2026 00:08:53 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Computing Report</description>
+    </item>
+    <item>
+      <title>ParityQC’s new optimizer cuts gate count for quantum problems</title>
+      <link>https://quantumzeitgeist.com/parityqcs-optimizer-cuts-gate-count/</link>
+      <guid isPermaLink="false">2026-09-16-parityqc-s-new-optimizer-cuts-gate-count-for-quantum-problem</guid>
+      <pubDate>Wed, 16 Sep 2026 07:32:17 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Zeitgeist</description>
+    </item>
+    <item>
+      <title>finQbit returns to Q-Con, a quantum business conference in Gdańsk</title>
+      <link>https://quantumzeitgeist.com/q-con-quantum-conference-finqbit-returns/</link>
+      <guid isPermaLink="false">2026-09-16-finqbit-returns-to-q-con-a-quantum-business-conference-in-gd</guid>
+      <pubDate>Wed, 16 Sep 2026 07:11:44 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Zeitgeist</description>
+    </item>
+    <item>
+      <title>Munich Quantum Valley and Mitacs will fund joint quantum initiatives</title>
+      <link>https://quantumzeitgeist.com/munich-quantum-valley-mitacs-fund/</link>
+      <guid isPermaLink="false">2026-09-16-munich-quantum-valley-and-mitacs-will-fund-joint-quantum-ini</guid>
+      <pubDate>Wed, 16 Sep 2026 07:07:14 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Zeitgeist</description>
+    </item>
+    <item>
+      <title>XRPL targets 2028 quantum upgrade, with no roadmap yet</title>
+      <link>https://quantumzeitgeist.com/xrpl-quantum-upgrade-targets-roadmap/</link>
+      <guid isPermaLink="false">2026-09-16-xrpl-targets-2028-quantum-upgrade-with-no-roadmap-yet</guid>
+      <pubDate>Wed, 16 Sep 2026 06:26:46 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Zeitgeist</description>
+    </item>
+    <item>
+      <title>IBM maps a path from error reduction to full quantum correction</title>
+      <link>https://quantumzeitgeist.com/ibm-maps-path-error-reduction/</link>
+      <guid isPermaLink="false">2026-09-16-ibm-maps-a-path-from-error-reduction-to-full-quantum-correct</guid>
+      <pubDate>Wed, 16 Sep 2026 06:20:48 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Zeitgeist</description>
+    </item>
+    <item>
+      <title>ITMO launches institute to build Russia’s photonics future</title>
+      <link>https://quantumzeitgeist.com/itmo-photonics-institute-russias/</link>
+      <guid isPermaLink="false">2026-09-16-itmo-launches-institute-to-build-russia-s-photonics-future</guid>
+      <pubDate>Wed, 16 Sep 2026 06:18:54 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Zeitgeist</description>
+    </item>
+    <item>
+      <title>Australia prepares for quantum decryption as early as 2030 Supported By SQA</title>
+      <link>https://quantumzeitgeist.com/sqa-quantum-decryption-2030-australia-prepares/</link>
+      <guid isPermaLink="false">2026-09-16-australia-prepares-for-quantum-decryption-as-early-as-2030-s</guid>
+      <pubDate>Wed, 16 Sep 2026 06:17:05 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Zeitgeist</description>
+    </item>
+    <item>
+      <title>NVIDIA’s NVLink 6 keeps AI factories running through any error</title>
+      <link>https://quantumzeitgeist.com/nvidia-nvlink-6-nvidias-keeps/</link>
+      <guid isPermaLink="false">2026-09-16-nvidia-s-nvlink-6-keeps-ai-factories-running-through-any-err</guid>
+      <pubDate>Wed, 16 Sep 2026 06:16:26 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Zeitgeist</description>
+    </item>
+    <item>
+      <title>FLARE 2.9 adds Slurm support to Docker and Kubernetes deployments</title>
+      <link>https://quantumzeitgeist.com/flare-adds-slurm-support-docker/</link>
+      <guid isPermaLink="false">2026-09-16-flare-2-9-adds-slurm-support-to-docker-and-kubernetes-deploy</guid>
+      <pubDate>Wed, 16 Sep 2026 06:16:24 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Zeitgeist</description>
+    </item>
+    <item>
+      <title>NVIDIA Vera Rubin boosts AI power efficiency with Groq 3 LPX</title>
+      <link>https://quantumzeitgeist.com/nvidia-groq-3-lpx-vera/</link>
+      <guid isPermaLink="false">2026-09-16-nvidia-vera-rubin-boosts-ai-power-efficiency-with-groq-3-lpx</guid>
+      <pubDate>Wed, 16 Sep 2026 06:16:21 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Zeitgeist</description>
+    </item>
+    <item>
+      <title>IonQ vs. Rigetti Computing: Which Pure-Play Quantum Stock Actually Has the Technology Edge? - The Motley Fool</title>
+      <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxPRmlTb2VKUmd5bndsY21sRnFjOTZfM3ZoT3ZzWTNBZFE2ZjgzTTZnZjFXTmZFMUpudF9iY3FobE45TmptSEw3VWZYT2RsUWF0VlhHcUpHcWpqT095c2VtVW1ORUhHTkxtZkRXeWR0cjJmSUFlMlI1UF8wUlVTVXNmUDM3SmUzYm55c000OVRObjZNdWxhdTJF?oc=5</link>
+      <guid isPermaLink="false">2026-09-16-ionq-vs-rigetti-computing-which-pure-play-quantum-stock-actu</guid>
+      <pubDate>Wed, 16 Sep 2026 10:32:28 GMT</pubDate>
+      <category>industry</category>
+      <description>via Google News — quantum computing</description>
+    </item>
+    <item>
+      <title>Former Mossad chief Yossi Cohen appointed president of Quantum X Labs advisory board - The Jerusalem Post</title>
+      <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxNclg4R2xOZko4Ujd4XzRsNk4wV3dHUkVYcXlJU0tjNW5YSDBrUkVSSThUN0hPY0w5eFlyR3NWR0xrZW5ZYWtnc3ZFNDBLRE1xWHBrUHdqc0xMdEhwQXVJNkJ1X29kdzc4Smp2S2tlWnVFQTNYSFNXX1JVRkRSNjdfRTdEOE5NQQ?oc=5</link>
+      <guid isPermaLink="false">2026-09-16-former-mossad-chief-yossi-cohen-appointed-president-of-quant</guid>
+      <pubDate>Wed, 16 Sep 2026 07:25:00 GMT</pubDate>
+      <category>industry</category>
+      <description>via Google News — quantum computing</description>
+    </item>
+    <item>
+      <title>Open-Source Platform Simplifies Quantum Computing - Open Source For You</title>
+      <link>https://news.google.com/rss/articles/CBMikwFBVV95cUxPaHAzMEt1VEthTmNHcUdZcFBwak1DRXktUGpNVGJHQ1YxcnBsNmlyOUphYnkxT3BGeWN0RU85dWdCNldQZ3JGQV9ub3I2U1REU2poRGRmaDFfRVIzLVI3N0l5Q1ZVczNObE85NzdaVlA4MlRjODhTdHJCbF82amJRajBoNTFQZVVPUUJwZEw4cEhRN1k?oc=5</link>
+      <guid isPermaLink="false">2026-09-16-open-source-platform-simplifies-quantum-computing-open-sourc</guid>
+      <pubDate>Wed, 16 Sep 2026 06:45:35 GMT</pubDate>
+      <category>industry</category>
+      <description>via Google News — quantum computing</description>
+    </item>
+    <item>
+      <title>Mitsubishi Electric invests in quantum computing startup OptQC - Evertiq</title>
+      <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxQR1IwSUZESjNybmdlaDFqemlJSFBUckpoMlVYU0NGbk0wZlYzeV9Rc1N3Q0lTYlFjV2dEQ3RTWU5uRFdkc00zbi04WnNqcDNCTFYweE5DbmlXVzZXN2ZXQ0x0S3ZTNTNGcXZ6VlJVaXZkaXNrMzd3YUNlbzh2VnRRNzF3clFCOENIc0NJdlF6NFhSZzVhNU4zdG9wUVNhVWM?oc=5</link>
+      <guid isPermaLink="false">2026-09-16-mitsubishi-electric-invests-in-quantum-computing-startup-opt</guid>
+      <pubDate>Wed, 16 Sep 2026 06:34:10 GMT</pubDate>
+      <category>industry</category>
+      <description>via Google News — quantum computing</description>
+    </item>
+    <item>
+      <title>Infleqtion’s Co-founder Recognized For Quantum Compilation Work - Quantum Zeitgeist</title>
+      <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxQTlluR0w0anFoT0FCWDg5dkFEcDZwYWttRTRiR1Nhb2dMdjljZVhsN0duTWtheTg4ZGxrLURNT01NaENoeTdzQUotZU94WFBYR2pVaHR6YjNnOTV6V0luVWtXQlNGRTlHQXdUa28tMTNjYXlzZW1rSEtnZlBCVHpMLVpkSQ?oc=5</link>
+      <guid isPermaLink="false">2026-09-16-infleqtion-s-co-founder-recognized-for-quantum-compilation-w</guid>
+      <pubDate>Wed, 16 Sep 2026 05:56:15 GMT</pubDate>
+      <category>industry</category>
+      <description>via Google News — quantum computing</description>
+    </item>
+    <item>
+      <title>Regularized barycentric Rényi divergences</title>
+      <link>https://arxiv.org/abs/2609.17517v1</link>
+      <guid isPermaLink="false">2026-09-16-regularized-barycentric-re-nyi-divergences</guid>
+      <pubDate>Tue, 15 Sep 2026 17:53:27 GMT</pubDate>
+      <category>research</category>
+      <description>via arXiv quant-ph</description>
+    </item>
+    <item>
+      <title>A Case Study on Noise Resilient Operator Selection in Adaptive Variational Quantum Algorithms</title>
+      <link>https://arxiv.org/abs/2609.17501v1</link>
+      <guid isPermaLink="false">2026-09-16-a-case-study-on-noise-resilient-operator-selection-in-adapti</guid>
+      <pubDate>Tue, 15 Sep 2026 17:42:37 GMT</pubDate>
+      <category>research</category>
+      <description>via arXiv quant-ph</description>
+    </item>
+    <item>
+      <title>Antidistinguishability of states in General Probabilistic Theories</title>
+      <link>https://arxiv.org/abs/2609.17498v1</link>
+      <guid isPermaLink="false">2026-09-16-antidistinguishability-of-states-in-general-probabilistic-th</guid>
+      <pubDate>Tue, 15 Sep 2026 17:37:48 GMT</pubDate>
+      <category>research</category>
+      <description>via arXiv quant-ph</description>
+    </item>
+    <item>
+      <title>Beyond Hardware: Adaptive Algorithmic Control by State-Proxy Equalization</title>
+      <link>https://arxiv.org/abs/2609.17497v1</link>
+      <guid isPermaLink="false">2026-09-16-beyond-hardware-adaptive-algorithmic-control-by-state-proxy-</guid>
+      <pubDate>Tue, 15 Sep 2026 17:37:39 GMT</pubDate>
+      <category>research</category>
+      <description>via arXiv quant-ph</description>
+    </item>
+    <item>
+      <title>Query-optimal quantum simulation of Lindblad evolution</title>
+      <link>https://arxiv.org/abs/2609.17490v1</link>
+      <guid isPermaLink="false">2026-09-16-query-optimal-quantum-simulation-of-lindblad-evolution</guid>
+      <pubDate>Tue, 15 Sep 2026 17:32:12 GMT</pubDate>
+      <category>research</category>
+      <description>via arXiv quant-ph</description>
+    </item>
+    <item>
+      <title>Predictive Structure Behind Rare Outcomes in Random Quantum Circuits</title>
+      <link>https://arxiv.org/abs/2609.17482v1</link>
+      <guid isPermaLink="false">2026-09-16-predictive-structure-behind-rare-outcomes-in-random-quantum-</guid>
+      <pubDate>Tue, 15 Sep 2026 17:24:08 GMT</pubDate>
+      <category>research</category>
+      <description>via arXiv quant-ph</description>
+    </item>
+    <item>
+      <title>Quantum Compiler Design for Fault-Tolerant Quantum Computing</title>
+      <link>https://arxiv.org/abs/2609.17465v1</link>
+      <guid isPermaLink="false">2026-09-16-quantum-compiler-design-for-fault-tolerant-quantum-computing</guid>
+      <pubDate>Tue, 15 Sep 2026 17:05:49 GMT</pubDate>
+      <category>research</category>
+      <description>via arXiv quant-ph</description>
+    </item>
+    <item>
+      <title>One Gate at a Time: Complexity Growth in Random Quantum Circuits</title>
+      <link>https://arxiv.org/abs/2609.17457v1</link>
+      <guid isPermaLink="false">2026-09-16-one-gate-at-a-time-complexity-growth-in-random-quantum-circu</guid>
+      <pubDate>Tue, 15 Sep 2026 16:58:25 GMT</pubDate>
+      <category>research</category>
+      <description>via arXiv quant-ph</description>
+    </item>
+    <item>
+      <title>On the relaxation dynamics of non-equilibrium quantum systems</title>
+      <link>https://arxiv.org/abs/2609.17447v1</link>
+      <guid isPermaLink="false">2026-09-16-on-the-relaxation-dynamics-of-non-equilibrium-quantum-system</guid>
+      <pubDate>Tue, 15 Sep 2026 16:52:27 GMT</pubDate>
+      <category>research</category>
+      <description>via arXiv quant-ph</description>
+    </item>
+    <item>
+      <title>Evaluating Verified Autonomy in Quantum Engineering</title>
+      <link>https://arxiv.org/abs/2609.17439v1</link>
+      <guid isPermaLink="false">2026-09-16-evaluating-verified-autonomy-in-quantum-engineering</guid>
+      <pubDate>Tue, 15 Sep 2026 16:46:08 GMT</pubDate>
+      <category>research</category>
+      <description>via arXiv quant-ph</description>
+    </item>
+    <item>
+      <title>Magnets could help quantum computers talk to each other, says researcher</title>
+      <link>https://phys.org/news/2026-09-magnets-quantum.html</link>
+      <guid isPermaLink="false">2026-09-16-magnets-could-help-quantum-computers-talk-to-each-other-says</guid>
+      <pubDate>Tue, 15 Sep 2026 20:00:01 GMT</pubDate>
+      <category>research</category>
+      <description>via Phys.org — Quantum Physics</description>
+    </item>
+    <item>
+      <title>Novel particle beam could challenge Einstein's theory of gravity</title>
+      <link>https://phys.org/news/2026-09-particle-einstein-theory-gravity.html</link>
+      <guid isPermaLink="false">2026-09-16-novel-particle-beam-could-challenge-einstein-s-theory-of-gra</guid>
+      <pubDate>Tue, 15 Sep 2026 13:40:06 GMT</pubDate>
+      <category>research</category>
+      <description>via Phys.org — Quantum Physics</description>
+    </item>
     <item>
       <title>Quantum Dice and North Wales Police Test Probabilistic Computing for Emergency Response</title>
       <link>https://thequantuminsider.com/2026/09/15/quantum-dice-north-wales-police-probabilistic-vehicle-deployment/</link>
@@ -69,342 +405,6 @@
       <pubDate>Mon, 14 Sep 2026 14:52:07 GMT</pubDate>
       <category>industry</category>
       <description>via The Quantum Insider</description>
-    </item>
-    <item>
-      <title>Photonic Proposes CAD$500 Million Canadian Semiconductor Manufacturing Facility</title>
-      <link>https://thequantuminsider.com/2026/09/14/photonic-proposes-cad500-million-canadian-semiconductor-manufacturing-facility/</link>
-      <guid isPermaLink="false">2026-09-15-photonic-proposes-cad-500-million-canadian-semiconductor-man</guid>
-      <pubDate>Mon, 14 Sep 2026 14:35:46 GMT</pubDate>
-      <category>industry</category>
-      <description>via The Quantum Insider</description>
-    </item>
-    <item>
-      <title>BlueQubit Launches Quantum Flywheel Research Grant Program</title>
-      <link>https://thequantuminsider.com/2026/09/14/bluequbit-quantum-flywheel-research-grant-program/</link>
-      <guid isPermaLink="false">2026-09-15-bluequbit-launches-quantum-flywheel-research-grant-program</guid>
-      <pubDate>Mon, 14 Sep 2026 14:20:49 GMT</pubDate>
-      <category>industry</category>
-      <description>via The Quantum Insider</description>
-    </item>
-    <item>
-      <title>NVIDIA Unveils CUDA-Q Logical to Accelerate Fault-Tolerant System Orchestration Across Hardware Modalities</title>
-      <link>https://quantumcomputingreport.com/nvidia-unveils-cuda-q-logical-to-accelerate-fault-tolerant-system-orchestration-across-hardware-modalities/</link>
-      <guid isPermaLink="false">2026-09-15-nvidia-unveils-cuda-q-logical-to-accelerate-fault-tolerant-s</guid>
-      <pubDate>Tue, 15 Sep 2026 08:03:17 GMT</pubDate>
-      <category>industry</category>
-      <description>via Quantum Computing Report</description>
-    </item>
-    <item>
-      <title>MITRE, Quantum Brilliance, NVIDIA, and SandboxAQ Introduce GPU-Accelerated Digital Twin Framework for Quantum Sensor Error Attribution</title>
-      <link>https://quantumcomputingreport.com/mitre-quantum-brilliance-nvidia-and-sandboxaq-introduce-gpu-accelerated-digital-twin-framework-for-quantum-sensor-error-attribution/</link>
-      <guid isPermaLink="false">2026-09-15-mitre-quantum-brilliance-nvidia-and-sandboxaq-introduce-gpu-</guid>
-      <pubDate>Tue, 15 Sep 2026 07:49:57 GMT</pubDate>
-      <category>industry</category>
-      <description>via Quantum Computing Report</description>
-    </item>
-    <item>
-      <title>IonQ Demonstrates Hybrid HPC and Quantum-AI Workflows Across Nine Peer-Reviewed Papers at IEEE Quantum Week 2026</title>
-      <link>https://quantumcomputingreport.com/ionq-demonstrates-hybrid-hpc-and-quantum-ai-workflows-across-nine-peer-reviewed-papers-at-ieee-quantum-week-2026/</link>
-      <guid isPermaLink="false">2026-09-15-ionq-demonstrates-hybrid-hpc-and-quantum-ai-workflows-across</guid>
-      <pubDate>Tue, 15 Sep 2026 07:36:05 GMT</pubDate>
-      <category>industry</category>
-      <description>via Quantum Computing Report</description>
-    </item>
-    <item>
-      <title>QC Design Integrates Plaquette Platform with NVIDIA CUDA-Q Logical for Hardware-Realistic FTQC Simulation</title>
-      <link>https://quantumcomputingreport.com/qc-design-integrates-plaquette-platform-with-nvidia-cuda-q-logical-for-hardware-realistic-ftqc-simulation/</link>
-      <guid isPermaLink="false">2026-09-15-qc-design-integrates-plaquette-platform-with-nvidia-cuda-q-l</guid>
-      <pubDate>Tue, 15 Sep 2026 06:27:26 GMT</pubDate>
-      <category>industry</category>
-      <description>via Quantum Computing Report</description>
-    </item>
-    <item>
-      <title>IQM Adopts NVIDIA CUDA-Q Logical Framework to Drive Open-Architecture Fault-Tolerant System Benchmarking</title>
-      <link>https://quantumcomputingreport.com/iqm-adopts-nvidia-cuda-q-logical-framework-to-drive-open-architecture-fault-tolerant-system-benchmarking/</link>
-      <guid isPermaLink="false">2026-09-15-iqm-adopts-nvidia-cuda-q-logical-framework-to-drive-open-arc</guid>
-      <pubDate>Tue, 15 Sep 2026 06:17:23 GMT</pubDate>
-      <category>industry</category>
-      <description>via Quantum Computing Report</description>
-    </item>
-    <item>
-      <title>UCLA, Caltech, and NVIDIA Develop Fourier Neural Operator for Quantum Control Sequence Synthesis</title>
-      <link>https://quantumcomputingreport.com/ucla-caltech-and-nvidia-develop-fourier-neural-operator-for-quantum-control-sequence-synthesis/</link>
-      <guid isPermaLink="false">2026-09-15-ucla-caltech-and-nvidia-develop-fourier-neural-operator-for-</guid>
-      <pubDate>Tue, 15 Sep 2026 06:04:12 GMT</pubDate>
-      <category>industry</category>
-      <description>via Quantum Computing Report</description>
-    </item>
-    <item>
-      <title>QCentroid Integrates QuantumOps Platform with NVIDIA CUDA-Q for Enterprise Hybrid Application Workflows</title>
-      <link>https://quantumcomputingreport.com/qcentroid-integrates-quantumops-platform-with-nvidia-cuda-q-for-enterprise-hybrid-application-workflows/</link>
-      <guid isPermaLink="false">2026-09-15-qcentroid-integrates-quantumops-platform-with-nvidia-cuda-q-</guid>
-      <pubDate>Tue, 15 Sep 2026 05:51:51 GMT</pubDate>
-      <category>industry</category>
-      <description>via Quantum Computing Report</description>
-    </item>
-    <item>
-      <title>BlueQubit Launches $150,000 “Quantum Flywheel” Compute Grant Program Supported by AWS, IBM, and NVIDIA</title>
-      <link>https://quantumcomputingreport.com/bluequbit-launches-150000-quantum-flywheel-compute-grant-program-supported-by-aws-ibm-and-nvidia/</link>
-      <guid isPermaLink="false">2026-09-15-bluequbit-launches-150-000-quantum-flywheel-compute-grant-pr</guid>
-      <pubDate>Tue, 15 Sep 2026 05:39:15 GMT</pubDate>
-      <category>industry</category>
-      <description>via Quantum Computing Report</description>
-    </item>
-    <item>
-      <title>Quandela and NVIDIA Outline Photonic QPU Integration Architecture via NVQLink</title>
-      <link>https://quantumcomputingreport.com/quandela-and-nvidia-outline-photonic-qpu-integration-architecture-via-nvqlink/</link>
-      <guid isPermaLink="false">2026-09-15-quandela-and-nvidia-outline-photonic-qpu-integration-archite</guid>
-      <pubDate>Tue, 15 Sep 2026 05:32:44 GMT</pubDate>
-      <category>industry</category>
-      <description>via Quantum Computing Report</description>
-    </item>
-    <item>
-      <title>Anyon Computing Unveils Open-Source Real-Time Control Plane Powered by NVIDIA NVQLink</title>
-      <link>https://quantumcomputingreport.com/anyon-computing-unveils-open-source-real-time-control-plane-powered-by-nvidia-nvqlink/</link>
-      <guid isPermaLink="false">2026-09-15-anyon-computing-unveils-open-source-real-time-control-plane-</guid>
-      <pubDate>Tue, 15 Sep 2026 04:49:44 GMT</pubDate>
-      <category>industry</category>
-      <description>via Quantum Computing Report</description>
-    </item>
-    <item>
-      <title>0.16.0</title>
-      <link>https://github.com/NVIDIA/cuda-quantum/releases/tag/0.16.0</link>
-      <guid isPermaLink="false">2026-09-15-0-16-0</guid>
-      <pubDate>Mon, 14 Sep 2026 15:11:00 GMT</pubDate>
-      <category>software</category>
-      <description>via NVIDIA CUDA-Q releases</description>
-    </item>
-    <item>
-      <title>Roundtable: Quantum Computing Scenario Implementation &amp; Emergence — If Quantum Computing Power Is Available Tomorrow, Who Will Be the First Adopter? | 36Kr 2026 Industry Future Conference - eu.36kr.com</title>
-      <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQclJlZjFteVBucDZ2TTNtVTNFTkswWWhpZ2YyUllSeERHbnIxbmlFdFpsRWpMQVJFYmlfUklWT084WHZqN2F1cFlZbkJONTVUUFRB?oc=5</link>
-      <guid isPermaLink="false">2026-09-15-roundtable-quantum-computing-scenario-implementation-emergen</guid>
-      <pubDate>Tue, 15 Sep 2026 10:44:00 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>Bao Jie, Founder, Chairman &amp; Chief Scientist of Corevision: 10 Years of Industrial Practice – Quantum Sensing Chips Unlock the &quot;Perception Portal&quot; to the Physical World for Physical AI | 2026 36Kr Industrial Future Conference - eu.36kr.com</title>
-      <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE16ODM4eDJfZnhBY2dhUUVXZ0JKMlpjaFRDM1F2Yno4bndKUnR2emdpMFV3dGstNmRBUG5YbVZvYnZFTUw0VG0xV1VZMVNSTkd0Y25Z?oc=5</link>
-      <guid isPermaLink="false">2026-09-15-bao-jie-founder-chairman-chief-scientist-of-corevision-10-ye</guid>
-      <pubDate>Tue, 15 Sep 2026 10:44:00 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>NVIDIA extends CUDA-Q for fault-tolerant quantum systems ... - eeNews Europe</title>
-      <link>https://news.google.com/rss/articles/CBMikwFBVV95cUxQOW5xZzlfbDRmZWNMX0o2STQzWlJFbXcwLVBPaXpzZDZYSmVpRWhObnhZQjdJb09KUW0xaThWNlhjSjNRMmFobkdzeTFJUWV3MTB3bWVodng5R2NpS1NmbnBvbFFoLXBzMFJDNkpfT21naFdGZjY0RzI0V1NIQnlNVUwtVmpRa2ZMTlhMRkJXRUhtbjg?oc=5</link>
-      <guid isPermaLink="false">2026-09-15-nvidia-extends-cuda-q-for-fault-tolerant-quantum-systems-een</guid>
-      <pubDate>Tue, 15 Sep 2026 10:29:45 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>Why Quantum Computing Could Break the Internet’s Security — And What Comes Next - European Business Magazine</title>
-      <link>https://news.google.com/rss/articles/CBMiekFVX3lxTE9qMzlUNkJabkdraGZoaUhMV0FsTzJIQTg0Q081d3FYY280UFI3V2xTQVI1Y1AwWld1MTQ0YTJnUEk2eHN0aXliSHp1T0hvRFc5aVVzcVNMM054THNlaHV3V1NvczRUNVdaVWNlNkZ6aDBEUFJ4QWk0Zzln?oc=5</link>
-      <guid isPermaLink="false">2026-09-15-why-quantum-computing-could-break-the-internet-s-security-an</guid>
-      <pubDate>Tue, 15 Sep 2026 10:10:53 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>Roundtable: Pathfinding · New Industrial Division of Labor Map, Embracing the New Future — How National Strength Transforms into Industrial Value | 36Kr 2026 Industrial Future Conference - eu.36kr.com</title>
-      <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yTUpWb3VFOW1VTU1taTIxRVFGa1Q4anp5dHluQjZYQ2NRZjBVYmRzUjlWZVp6RTJhOWM0U0VRdGo0LXNWNjhvMlE5dlhxLWMtcDdj?oc=5</link>
-      <guid isPermaLink="false">2026-09-15-roundtable-pathfinding-new-industrial-division-of-labor-map-</guid>
-      <pubDate>Tue, 15 Sep 2026 10:03:56 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>Roundtable: Growth · New Investment Equation for Capital Investors — Patience &amp; Value Transcending Cycles | 36Kr 2026 Industry Future Conference - eu.36kr.com</title>
-      <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQNmlwXzBYVWlBY0NfZS1Ia1U5OURxNkRBVFhEU09vVzVpRGFCVU4wdEVYUzlvS3dEVWZIN1FHczdXd3UxOFJRbkg1aV9JUFNkZzRJ?oc=5</link>
-      <guid isPermaLink="false">2026-09-15-roundtable-growth-new-investment-equation-for-capital-invest</guid>
-      <pubDate>Tue, 15 Sep 2026 09:43:53 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>NVIDIA Expands CUDA-Q For Fault-Tolerant Quantum Computing - analyticsindiamag.com</title>
-      <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxNc1lpc2k5RXBOc1RwMk1mLXVjQnBKMmtFZWkwUi1LdkhZN0JNU3FkQjMzNktfNmZQNUR5LVlBdGVVd2JsNnJtcTdNV1BxazBlTHVwa3A5a0JGYmNkcjJtR2lXSk1uUmUyNW1PdUl1cHRZWWJvTEs5cDNkZ2ZFeHFkNjNoanhMbS1ES2oyRDhSMlZxY0lUbUJ0bXZBZXI?oc=5</link>
-      <guid isPermaLink="false">2026-09-15-nvidia-expands-cuda-q-for-fault-tolerant-quantum-computing-a</guid>
-      <pubDate>Tue, 15 Sep 2026 09:33:45 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>Quantum computing takes aim at AI - cio.com</title>
-      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE5DOHZGZUx5SUZkQ2M0ckRBVnVLcnBGcF9aODJYbmpQS19WdndCWll0b1o0dWtvSmdZRWZ2V3BzbnV3UFBjVS10MlczR0dVMzQtX2otc2Y4a2Q1UjJNVkNLTzl1X1lLTFhuSjRUdjFRSWxBd2twNW9sMkttU2VJdzQ?oc=5</link>
-      <guid isPermaLink="false">2026-09-15-quantum-computing-takes-aim-at-ai-cio-com</guid>
-      <pubDate>Tue, 15 Sep 2026 09:30:00 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>IonQ set to more than double revenues amid booming quantum computing market. - Pluang</title>
-      <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxNQkRnZmxJeldWTmRpaU1SOVBDUGZnMmxyNTlrWXZoU2JwbFpTQ0VfVXVLelVXeGczNGhFRzRJZzdvX2hxWWFYNUxDUU96YTl5T3ZSWGw1V2liN044LVhqWHEyeEowYmVGS2kzcG5OWV9nNE43N2NjMXZmOXRXTTV1ZmZ6QVl2U0d4dXJlZXpXM0xmQ3FMUllwVTdB?oc=5</link>
-      <guid isPermaLink="false">2026-09-15-ionq-set-to-more-than-double-revenues-amid-booming-quantum-c</guid>
-      <pubDate>Tue, 15 Sep 2026 09:26:16 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>Enterprise Case Sharing: Yunmao Quantum | 36Kr 2026 Industry Future Conference - eu.36kr.com</title>
-      <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE5sWm9Zc1B4T1I4T3VXSFRLX21KTEdDNzJCVWNuS1ZabkpqWGRjQk1BZmdLWlVYZWZEU0hpX1lnbXNrTkxuaEg1MFJXZzdHOFNJM0xF?oc=5</link>
-      <guid isPermaLink="false">2026-09-15-enterprise-case-sharing-yunmao-quantum-36kr-2026-industry-fu</guid>
-      <pubDate>Tue, 15 Sep 2026 09:23:44 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>IonQ: Significant Revenue Growth Ahead As Tech Stack Scales (NYSE:IONQ) - Seeking Alpha</title>
-      <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd3lENDZ3ZWV5ZGxZc0tINlFpeFQ0d1lSREFnVjE5U2ptVUJkM3dlZDNERy1iX3RJOVA1QVFGY3dvdVdaS3R1RTdFMmdKdDJJcW40QWVJSmh1ZW14aHktYXZZXzlzbGdXZFlrcmtGZGt4WHl0SllRZVFhbnJ3dDROSWdRd2VyV0pnVHNMWVAxQWt2OTdReGlvTHo4cVFhWVN5M19aMXQ0R3U?oc=5</link>
-      <guid isPermaLink="false">2026-09-15-ionq-significant-revenue-growth-ahead-as-tech-stack-scales-n</guid>
-      <pubDate>Tue, 15 Sep 2026 09:08:08 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>Keynote Speech: Breaking Boundaries · Quantum Computing Advances into Deep Industrial Application Waters — The Next Mile of Quantum Computing | 36Kr 2026 Industrial Future Conference - eu.36kr.com</title>
-      <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FM0NJZkxjZVpvZ2ZhWmtZWFZhSmZNZW1lNEpWNlNLQnhMSEw3M1RZWXBCdUFRQW1pengtUGVLX1R3eEdNbFFUNUpHdS1lWV9pam1n?oc=5</link>
-      <guid isPermaLink="false">2026-09-15-keynote-speech-breaking-boundaries-quantum-computing-advance</guid>
-      <pubDate>Tue, 15 Sep 2026 08:43:52 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>Roundtable: Resonance of Quantum &amp; Intelligence · Diverse Paths to Co-Build China's Quantum Industry Next Decade | 36Kr 2026 Industrial Future Conference - eu.36kr.com</title>
-      <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MeVh6MkxMWEpBMXYtVnNGT2owdTNvUk9TZWhnMHdfTjNBNkRPam9BVXRJelVkY3BnMVpwSXVmZF96ekc5VzM1MzdfSWJOZWpvd0Jv?oc=5</link>
-      <guid isPermaLink="false">2026-09-15-roundtable-resonance-of-quantum-intelligence-diverse-paths-t</guid>
-      <pubDate>Tue, 15 Sep 2026 08:43:52 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>TOYO Corporation Opens Its Quantum Computers to Japan's Ecosystem - 巴士的報</title>
-      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxNYnQtcHlMeUkzMTJxVXpUdjFPODdEUlZubWpxV0hLenBnWGFvWDMwSkpvamQ2T29POUc0dE92SzJWaDdPTkNoT0o5c2FBWUsxbVpKaHRpSFRlWXJ1OC1sZnBXWGNmUDNNY0lpOEk5NEc1MEUyZzdZa21jbzFQQkJ2T1FwWTJ1NG81M0pLQkUzUmxrTllwVHpTdjZkRFVBT19oa205RGRYWjNPaW5CS2pMVUZWSXpwOEE?oc=5</link>
-      <guid isPermaLink="false">2026-09-15-toyo-corporation-opens-its-quantum-computers-to-japan-s-ecos</guid>
-      <pubDate>Tue, 15 Sep 2026 08:32:35 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>Getting photons into shape for reliable quantum communication</title>
-      <link>https://phys.org/news/2026-09-photons-reliable-quantum-communication.html</link>
-      <guid isPermaLink="false">2026-09-15-getting-photons-into-shape-for-reliable-quantum-communicatio</guid>
-      <pubDate>Mon, 14 Sep 2026 16:20:06 GMT</pubDate>
-      <category>research</category>
-      <description>via Phys.org — Quantum Physics</description>
-    </item>
-    <item>
-      <title>Physicists help uncover 'spooky' quantum effect in the Large Hadron Collider</title>
-      <link>https://phys.org/news/2026-09-physicists-uncover-spooky-quantum-effect.html</link>
-      <guid isPermaLink="false">2026-09-15-physicists-help-uncover-spooky-quantum-effect-in-the-large-h</guid>
-      <pubDate>Mon, 14 Sep 2026 14:12:41 GMT</pubDate>
-      <category>research</category>
-      <description>via Phys.org — Quantum Physics</description>
-    </item>
-    <item>
-      <title>Ultracold cesium atoms reveal Bethe strings predicted nearly a century ago</title>
-      <link>https://phys.org/news/2026-09-ultracold-cesium-atoms-reveal-bethe.html</link>
-      <guid isPermaLink="false">2026-09-15-ultracold-cesium-atoms-reveal-bethe-strings-predicted-nearly</guid>
-      <pubDate>Mon, 14 Sep 2026 12:40:08 GMT</pubDate>
-      <category>research</category>
-      <description>via Phys.org — Quantum Physics</description>
-    </item>
-    <item>
-      <title>New Quantum Materials Could Dramatically Boost the Search for Dark Matter</title>
-      <link>https://thequantuminsider.com/2026/09/14/new-quantum-materials-could-dramatically-boost-the-search-for-dark-matter/</link>
-      <guid isPermaLink="false">2026-09-14-new-quantum-materials-could-dramatically-boost-the-search-fo</guid>
-      <pubDate>Mon, 14 Sep 2026 09:04:00 GMT</pubDate>
-      <category>industry</category>
-      <description>via The Quantum Insider</description>
-    </item>
-    <item>
-      <title>Fortaegis Raises $50 Million to Commercialize Chip-Based Security Technology</title>
-      <link>https://thequantuminsider.com/2026/09/14/fortaegis-raises-50-million-to-commercialize-chip-based-security-technology/</link>
-      <guid isPermaLink="false">2026-09-14-fortaegis-raises-50-million-to-commercialize-chip-based-secu</guid>
-      <pubDate>Mon, 14 Sep 2026 07:33:26 GMT</pubDate>
-      <category>industry</category>
-      <description>via The Quantum Insider</description>
-    </item>
-    <item>
-      <title>Reliable quantum computing a step closer - Irish Tech News</title>
-      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE9jOHFSQXBmQjdBVElaTS1KUGhoMG5UZFp5ckxRMGZPeDhXN0xDeVVrNUZxSkhGaVJ6OTFtVklPd3NrSFJtV0hwa1BnQXhwVG1KZS1WVGpNWWRyZlFiSXJaUlZIdW0ySkswdUp3b2FqTXFFNE800gF0QVVfeXFMT2M4cVJBcGZCN0FUSVpNLUpQaGgwblRkWnlyTFEwZk94OFc3TEN5VWs1RnFKSEZpUno5MW1WSU93c2tIUm1XSHBrUGdBeHBUbUplLVZUak1ZZHJmUWJJclpSVkh1bTJKSzB1SndvYWpNcUU0TzQ?oc=5</link>
-      <guid isPermaLink="false">2026-09-14-reliable-quantum-computing-a-step-closer-irish-tech-news</guid>
-      <pubDate>Mon, 14 Sep 2026 11:00:54 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>Quantum Machines Runs NVIDIA Code On Live Qubits With NVQLink - Quantum Zeitgeist</title>
-      <link>https://news.google.com/rss/articles/CBMicEFVX3lxTE1MNW9DLVFjNGxFbzNMb3RxZUt4QTEyLU5LMlpMODZCdFp2Vk0ta0pVTVBsRkhrb0JDWDlXNU5vN0M4NEZfaW5IQ0NZbUk5ZmttNjZrMWJpR3czWjNrU1lEOXZZSE41NEtqWlBHZEhkTXg?oc=5</link>
-      <guid isPermaLink="false">2026-09-14-quantum-machines-runs-nvidia-code-on-live-qubits-with-nvqlin</guid>
-      <pubDate>Mon, 14 Sep 2026 10:52:30 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>Helsinki Named Top Quantum Innovation Hub In Europe - Quantum Zeitgeist</title>
-      <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxOUXdlZ2RfMVduRE9XRjdVSFZyX0ZRV01FaTRxNUNZMmstMTFueGJ4NWVaTXRKY2hGaDFoaHFsMi14V2RPcmhQbnVXMlJRSGpUMTlZVTZVWGdhVXhYWDVrTVNfdGpWcVAwM1U2VnNOVi1KVnBDQ3FRWWM1R1RJaU5MZDM0Zw?oc=5</link>
-      <guid isPermaLink="false">2026-09-14-helsinki-named-top-quantum-innovation-hub-in-europe-quantum-</guid>
-      <pubDate>Mon, 14 Sep 2026 10:52:30 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>Quantum Rings Moves Out Of COQI, Finds New Office In Westminster - Quantum Zeitgeist</title>
-      <link>https://news.google.com/rss/articles/CBMiakFVX3lxTFBqWWhLYVdqUGwxVFNkS1BoZW1QTVcxdHlIM3l0VmpwNnZDYTJET2QzVkNvbUVGX2hOSERZNHdld2E4S0htN2ZCdGF6MkxlcHk0QmhkaGduZ3N2a2RNY3JNX1hoQjROMnZXbFE?oc=5</link>
-      <guid isPermaLink="false">2026-09-14-quantum-rings-moves-out-of-coqi-finds-new-office-in-westmins</guid>
-      <pubDate>Mon, 14 Sep 2026 10:52:30 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>Infleqtion And Cisco Link Quantum Computers Into Early Networks - Quantum Zeitgeist</title>
-      <link>https://news.google.com/rss/articles/CBMifEFVX3lxTE96bU1tWFB4cVlnTGhrQi1za1pLSmcwTUFkM29iR294QjNOZVZLN05ZQkcwYWY2UEtBc0JPdVVScEdkRDVmaEM2UXA1T0FQWEkybjJ4SWRaWVJ1VFljWGdmeDlSLU9mTVhsSmJwNEtxM1hwbF9zRXZxZ3h2a20?oc=5</link>
-      <guid isPermaLink="false">2026-09-14-infleqtion-and-cisco-link-quantum-computers-into-early-netwo</guid>
-      <pubDate>Mon, 14 Sep 2026 10:52:30 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>Telecoms Prioritize Quantum Use Cases With GSMA/QCentroid Framework - Quantum Zeitgeist</title>
-      <link>https://news.google.com/rss/articles/CBMifEFVX3lxTFBJNjdPa0JIZjBtWHFBTDRZVXQxeXI5cUthVXM5QTV2eDFKNEM3MFZaaUx2VWJteE13WWF3NGZXVXZ4S01WR2lqcEpmZ0dHdm54ZVEzTGlRaUJqdWczTnRaXzBoRU55WkZuYTMwbVg0UnlSZDBCa0Fzak9ta2g?oc=5</link>
-      <guid isPermaLink="false">2026-09-14-telecoms-prioritize-quantum-use-cases-with-gsma-qcentroid-fr</guid>
-      <pubDate>Mon, 14 Sep 2026 10:52:30 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>Heterogenous QEC Codes Boost Efficiency In Quantinuum’s Helix Architecture - Quantum Zeitgeist</title>
-      <link>https://news.google.com/rss/articles/CBMigAFBVV95cUxNR2l3c3BGM19KR0IzczVQX3cxZWlDOC1YcDFsYTV2Uy0zOTYyaHo2bnF2NW04bXFROWlQejd4Vmg4N2dXZGRReXU5ZVU1RDU0cGt3ak9ld01EcVFfTmhHOVd1X1hrSFNMYW82VlF0MjRDRnJqZG1STnBPU3NRelpnTQ?oc=5</link>
-      <guid isPermaLink="false">2026-09-14-heterogenous-qec-codes-boost-efficiency-in-quantinuum-s-heli</guid>
-      <pubDate>Mon, 14 Sep 2026 10:52:30 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>IBM seeks PILOT for $2.5 billion quantum-computing facility - Mid Hudson News</title>
-      <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxNbTh3c0p1VUpuWW1OQjdUZDhyVGczZEJiWmpsVTRobUVlNVhuSklYSmMyallIY3Q1RktScm83N3VQTU5tdHlUcEJiQ28wVENSWVBsS2hOUW5OM2YzVXkxX3lTbnFGRjYzUzRWSG1PMmlfRlVsZ094UENnSHdNRl9MVVl6Q1IzZENkYmNweEtIaUp2ODRMc2tsUHFPTHY?oc=5</link>
-      <guid isPermaLink="false">2026-09-14-ibm-seeks-pilot-for-2-5-billion-quantum-computing-facility-m</guid>
-      <pubDate>Mon, 14 Sep 2026 10:39:58 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>Harley Johnson: Here’s why concerns over Chicago’s quantum park should give way to hope - chicagotribune.com</title>
-      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZlVMSXlzNnpUUFdUdTF6NUpzWVFtQ1RwZ2hhWThfM2ZMUkt5VW1iWHp1SkJBbFBvU1ZnU29zaWtMRW9zZ2thclhJWHJWUXVIWjNjczc0cDNuYVZZd1dfSnZJajJreklEU2VRVmY4R1BRTXFyUFNTbDdkeWQwOWZDb3Iyb2llUXpzZk1v?oc=5</link>
-      <guid isPermaLink="false">2026-09-14-harley-johnson-here-s-why-concerns-over-chicago-s-quantum-pa</guid>
-      <pubDate>Mon, 14 Sep 2026 10:19:35 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>Quantum Stocks Slide 3% in Premarket as AI Safety Concerns Hit Tech - TipRanks</title>
-      <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxPY2ZjdGI4MDJfeVFGTDdSY1FwUmZUOEg3T3NPeXFTdHg5N1poX0FUejVpazlfeTlBdkZBaldrQlpyY1F1b3RualZtQzBxMGhwZXpiRFF4UzNsS3BYeGlRZFdxZnV6Q19naXgtOTluZmlMQjdReFhMams0bTBoSFNIRnhtN3Jad1RSSVBfal9najVYVkhxbUk1RDdQX2w?oc=5</link>
-      <guid isPermaLink="false">2026-09-14-quantum-stocks-slide-3-in-premarket-as-ai-safety-concerns-hi</guid>
-      <pubDate>Mon, 14 Sep 2026 10:02:18 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
     </item>
   </channel>
 </rss>
