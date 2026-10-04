@@ -5,7 +5,175 @@
     <link>https://karelgo.github.io/QuantumObservatory</link>
     <description>Everything that happened in quantum computing, collapsed into one daily digest. A QuantumVerse sister project.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 03 Oct 2026 10:58:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 11:40:24 GMT</lastBuildDate>
+    <item>
+      <title>FTMC researcher shares lessons on teaching quantum physics</title>
+      <link>https://quantumzeitgeist.com/quantum-physics-ftmc-researcher-shares/</link>
+      <guid isPermaLink="false">2026-10-04-ftmc-researcher-shares-lessons-on-teaching-quantum-physics</guid>
+      <pubDate>Sat, 03 Oct 2026 14:17:57 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Zeitgeist</description>
+    </item>
+    <item>
+      <title>Mosca’s Theorem shows when to start quantum-safe crypto</title>
+      <link>https://quantumzeitgeist.com/qetci-quantum-safe-crypto-moscas-theorem/</link>
+      <guid isPermaLink="false">2026-10-04-mosca-s-theorem-shows-when-to-start-quantum-safe-crypto</guid>
+      <pubDate>Sat, 03 Oct 2026 14:17:14 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Zeitgeist</description>
+    </item>
+    <item>
+      <title>Researchers Preserve Quantum Precision with on Calderbank-Shor-Steane Error Correction</title>
+      <link>https://quantumzeitgeist.com/calderbank-shor-steane-error-correction-preserves-quantum-precision/</link>
+      <guid isPermaLink="false">2026-10-04-researchers-preserve-quantum-precision-with-on-calderbank-sh</guid>
+      <pubDate>Sat, 03 Oct 2026 14:12:38 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Zeitgeist</description>
+    </item>
+    <item>
+      <title>Researchers Link Quantum Circuits to Error Correction Codes</title>
+      <link>https://quantumzeitgeist.com/quantum-circuits-error-correction-codes-correspondence-protocols/</link>
+      <guid isPermaLink="false">2026-10-04-researchers-link-quantum-circuits-to-error-correction-codes</guid>
+      <pubDate>Sat, 03 Oct 2026 14:12:33 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Zeitgeist</description>
+    </item>
+    <item>
+      <title>Researchers Build Constant-Overhead Injection for Quantum Codes</title>
+      <link>https://quantumzeitgeist.com/quantum-codes-constant-overhead-injection-scheme/</link>
+      <guid isPermaLink="false">2026-10-04-researchers-build-constant-overhead-injection-for-quantum-co</guid>
+      <pubDate>Sat, 03 Oct 2026 14:12:07 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Zeitgeist</description>
+    </item>
+    <item>
+      <title>Researchers Decode up to 1,023 Qubits Using Rank Decomposition</title>
+      <link>https://quantumzeitgeist.com/quantum-error-correction-rank-decomposition-decoding-of-qubits/</link>
+      <guid isPermaLink="false">2026-10-04-researchers-decode-up-to-1-023-qubits-using-rank-decompositi</guid>
+      <pubDate>Sat, 03 Oct 2026 14:10:07 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Zeitgeist</description>
+    </item>
+    <item>
+      <title>Calculations Identify All Faults in 72-Qubit Quantum Error Correction Schemes</title>
+      <link>https://quantumzeitgeist.com/quantum-error-correction-fault-identification-parity-constraints/</link>
+      <guid isPermaLink="false">2026-10-04-calculations-identify-all-faults-in-72-qubit-quantum-error-c</guid>
+      <pubDate>Sat, 03 Oct 2026 14:06:55 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Zeitgeist</description>
+    </item>
+    <item>
+      <title>Learning Functions Implies Difficulty with Factoring 2048-Bit RSA Moduli</title>
+      <link>https://quantumzeitgeist.com/quantum-machine-learning-rsa-factoring-difficulty-analysis/</link>
+      <guid isPermaLink="false">2026-10-04-learning-functions-implies-difficulty-with-factoring-2048-bi</guid>
+      <pubDate>Sat, 03 Oct 2026 14:06:52 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Zeitgeist</description>
+    </item>
+    <item>
+      <title>Researchers Achieve 74 Per Cent Faster Encryption with Data Reuse Techniques</title>
+      <link>https://quantumzeitgeist.com/mlkem-data-reuse-encryption-speedup-technique/</link>
+      <guid isPermaLink="false">2026-10-04-researchers-achieve-74-per-cent-faster-encryption-with-data-</guid>
+      <pubDate>Sat, 03 Oct 2026 14:06:47 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Zeitgeist</description>
+    </item>
+    <item>
+      <title>NIST-approved hash schemes are the key to quantum-safe wallets</title>
+      <link>https://quantumzeitgeist.com/quip-accounts-nist-approved-hash-schemes/</link>
+      <guid isPermaLink="false">2026-10-04-nist-approved-hash-schemes-are-the-key-to-quantum-safe-walle</guid>
+      <pubDate>Sat, 03 Oct 2026 14:06:43 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Zeitgeist</description>
+    </item>
+    <item>
+      <title>Better Quantum Computing Stock: Alphabet vs. IonQ - fool.com</title>
+      <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxOUEpUVER3dnJSYXZRdTlLZFdnLUwyY2lhX3ZNZ3N1aUxvcmRiZW5oQWh5dE1CUnRGYXd3V1FLQ1BINDQ3WVBzS3k3bU81Ums2ZGRjaTV0QjFyb29sT21MenAyRllqUFNxS0Q4T1BsT0l2bXFfTUpPeU8tYUVxQVRnWTRQU2JoZU9UYktKTEp3a3Z1dkJS?oc=5</link>
+      <guid isPermaLink="false">2026-10-04-better-quantum-computing-stock-alphabet-vs-ionq-fool-com</guid>
+      <pubDate>Sun, 04 Oct 2026 06:45:00 GMT</pubDate>
+      <category>industry</category>
+      <description>via Google News — quantum computing</description>
+    </item>
+    <item>
+      <title>Silicon Quantum chip lifts energy forecasting accuracy in household trial - Mjengo Hub</title>
+      <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUHlnQ3BjVW16Ym5TbzV1c3ZXZTRMWXFSQTZHSGlKZXVmVC1xcUdYa1Y5SlBkeDEwVWNRS2UxeGppMkxCbmtPd1FCSE9jLVIxTW5hZ2dfckFnb1JxUWZvQU43bFJBcGdPUEFJSllScjRXb3lJR3UxZ1dYZS03djFZNFNORlpSMFg4ckRka0FBZHRCay1GTzd5Wkw4OW9iNXNaTmRDR1dYYjJsOUNhU3pvYmw1T1dmbGpB?oc=5</link>
+      <guid isPermaLink="false">2026-10-04-silicon-quantum-chip-lifts-energy-forecasting-accuracy-in-ho</guid>
+      <pubDate>Sun, 04 Oct 2026 05:25:38 GMT</pubDate>
+      <category>industry</category>
+      <description>via Google News — quantum computing</description>
+    </item>
+    <item>
+      <title>Quantum Computing Advances Highlighted by Algorand’s Insights - Cryptonews.net</title>
+      <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OSk5mSmVyeU54dGZ1YXl3aUVtQ2JzVHJZMjJRNFBxWUlTcFVNZnBWMVZWR2hpUEhTYXBUWGtEU0NPOHU1d0JOa0dpSjBSY0wzSllPMHdJbFljQQ?oc=5</link>
+      <guid isPermaLink="false">2026-10-04-quantum-computing-advances-highlighted-by-algorand-s-insight</guid>
+      <pubDate>Sun, 04 Oct 2026 05:06:47 GMT</pubDate>
+      <category>industry</category>
+      <description>via Google News — quantum computing</description>
+    </item>
+    <item>
+      <title>UCSB NSF Quantum Leap Challenge Institutes: Five Researchers Join Hubs - edhat</title>
+      <link>https://news.google.com/rss/articles/CBMiigFBVV95cUxQUWdNamdMTVNqRUNXdld0eHo5Nzg2Rmh0ZU9BTC04R3ZKTE9tWkhjM3ljUkNRbGM4NmkxUWM5OWhTMWRrUnBNTkNuaTg1ZmdOT3NieG52ZEtDUTJ0S0kwQWlpdWEyaWxzekhrZGw3UWdpRWhhVUhVelZpcG9xNjlPVEhWU2x1Nm8zcXc?oc=5</link>
+      <guid isPermaLink="false">2026-10-04-ucsb-nsf-quantum-leap-challenge-institutes-five-researchers-</guid>
+      <pubDate>Sun, 04 Oct 2026 03:03:47 GMT</pubDate>
+      <category>industry</category>
+      <description>via Google News — quantum computing</description>
+    </item>
+    <item>
+      <title>Hamilton County schools bet on quantum future, starting in kindergarten - Chattanooga Times Free Press</title>
+      <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxQd0hoSFc0d3ZkYTJjeWUtdmtPYWpFVFY1ak5KaGl6YkVPNTJMZEpoZ05yX3FIYkdRdlMtd3h4bHczazVCVEZVTi0zaDhJbG52MmdlcGo1dGw0M2JRNzlKRDFXOE91dGV5RTFXMllXc3k1OVRGNVAzRXZaTThBWWdVUXNvTEkyTkdVajcwSFdBdlBMdzBkZ0Zvcl9B?oc=5</link>
+      <guid isPermaLink="false">2026-10-04-hamilton-county-schools-bet-on-quantum-future-starting-in-ki</guid>
+      <pubDate>Sun, 04 Oct 2026 02:21:00 GMT</pubDate>
+      <category>industry</category>
+      <description>via Google News — quantum computing</description>
+    </item>
+    <item>
+      <title>Did Gate Model Beta Just Shift D Wave Quantum's (QBTS) Investment Narrative? - Simply Wall Street</title>
+      <link>https://news.google.com/rss/articles/CBMizgFBVV95cUxPZjNTTUYzMXFBelQ1QzU5Z3UxRWIwcHlJREtYekhCY0xjN2JjSnN5cjlJbmVTQkNUcGdtZEVOX1NsNnM1NUlyU1h3VUhpTmN3dHAxU1lnTEhhdlV6dDJxWk5RVzVPRk02b21XNjllX1R6Z29nOTdTN21hTEFCYmEyU1JJUnlpazkzSFlQRnk4VVJZSkpyTl9PZ0tYcGFfY1MxRFFpSkhhUTZpQXE2b2lFd2lwczFzS0YxUGtwV3RiR0RaeXRKSkpvbF8tVXZPUdIB0wFBVV95cUxPVDBXdGUwQU1TNlZPX2FWZDdVMzdHMzd1ejZ1S2pDbE9vOXNoVE9rQmk0OFNyTkZGYUljb2dneHlVM3p1SW10Z2NzcjBLcmVsN2g2eUlSY3ItYWdQdTdXV2huVk5fQldJWGtHZGtQZWQ5bjNzcjloUGx3ajlISnlsS3NOYk0wZWdpYzVGZXRBdEhPVkFHajlpeG55ZzA3TVR4OU1ZSmNWbUZhaHNLZE9ic2djODF6RW9UUEFwYkd0ZnFJWGNLX1Y1b0JhdGNyQTZlcHFv?oc=5</link>
+      <guid isPermaLink="false">2026-10-04-did-gate-model-beta-just-shift-d-wave-quantum-s-qbts-investm</guid>
+      <pubDate>Sat, 03 Oct 2026 20:40:58 GMT</pubDate>
+      <category>industry</category>
+      <description>via Google News — quantum computing</description>
+    </item>
+    <item>
+      <title>Quantum Computing Stocks To Consider - October 3rd - MarketBeat</title>
+      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWVpZYkEwaGxSd1pNUFdqTzNfUG94aWhRSmZHSlFKQzVSZGQ3QXlkNlJyLThHVnhBdHlzdkJSaU5ITk53RUVicTl6eGMtbmFlLXRRRHNqLUplN2w2NVVyS284eERXajhpOThmcjJYVW4wQU42Yi01UnJSU0ZESmVObERpUHU1N2xVLUgxeFVWXzhJMVBsbTdtcndCSl9sUUpPNndKY29aUzl3VEU?oc=5</link>
+      <guid isPermaLink="false">2026-10-04-quantum-computing-stocks-to-consider-october-3rd-marketbeat</guid>
+      <pubDate>Sat, 03 Oct 2026 18:16:34 GMT</pubDate>
+      <category>industry</category>
+      <description>via Google News — quantum computing</description>
+    </item>
+    <item>
+      <title>AudioCodes’ Roger Chuchen Joins Quantum Firm Pasqal - Quantum Zeitgeist</title>
+      <link>https://news.google.com/rss/articles/CBMigAFBVV95cUxPMXExME1qT2tnWHhZX0RVZmJCQ2l3U1JRNzdpbDVOYW9PcWlOck9VVFNhU0hkb0FUeG5iZTdzSWZvS210M3FXZHQxYW1pVFVGcDlKcUlTQ2hFUVpaQjQ4Um0yWU9pdUdJdk14WHpMM0JVdjBCc2trV2xTMzByN2lkVw?oc=5</link>
+      <guid isPermaLink="false">2026-10-04-audiocodes-roger-chuchen-joins-quantum-firm-pasqal-quantum-z</guid>
+      <pubDate>Sat, 03 Oct 2026 14:37:25 GMT</pubDate>
+      <category>industry</category>
+      <description>via Google News — quantum computing</description>
+    </item>
+    <item>
+      <title>IonQ vs. Rigetti: Is the Quantum Rally Backed by Fundamentals, or Just Momentum? - Yahoo Finance</title>
+      <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxNb3FxWXFWd2VPcTNhX3lDWi1aUHFPaVBHQWZwaXpndEhBTE1lNmZoTVRQSkRoYUFNXzZKRHhNdHpXZUdqV2VlbGR1OFNIeTNUc1UtTGxaTUluZV9MMWw5QVJzZ1dtR1U4eFZ5S280VEVNM0ZFTHV1MmtDdVU1ei1aMzFiYXJFVXk3YkFaWG41VncyZUxkZV8zWGJR?oc=5</link>
+      <guid isPermaLink="false">2026-10-04-ionq-vs-rigetti-is-the-quantum-rally-backed-by-fundamentals-</guid>
+      <pubDate>Sat, 03 Oct 2026 14:34:34 GMT</pubDate>
+      <category>industry</category>
+      <description>via Google News — quantum computing</description>
+    </item>
+    <item>
+      <title>3 Millionaire-Maker Quantum Computing Stocks Wall Street Isn't Talking About - fool.com</title>
+      <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxNX3VRMXVUVkh4dEVNc045VXQ3NVVGRFd1alVZSThEdEw5bWRGLVl4STkyRFBoRUxfN3A5WkZTZEJlMlM4WG40dVV6c1ZXLVVLWXlKT3kwVS1qT0N2NjJEbVI0MEFYb1RZV0YtV0pueGZIWjJyOGxMeHdQZlNKNEtKYkRFRlJDcXBvdXJ2b0VwanJFaHFoRTY0?oc=5</link>
+      <guid isPermaLink="false">2026-10-04-3-millionaire-maker-quantum-computing-stocks-wall-street-isn</guid>
+      <pubDate>Sat, 03 Oct 2026 12:44:00 GMT</pubDate>
+      <category>industry</category>
+      <description>via Google News — quantum computing</description>
+    </item>
+    <item>
+      <title>Reading hidden topology in light, even when energy leaks away</title>
+      <link>https://phys.org/news/2026-10-hidden-topology-energy-leaks.html</link>
+      <guid isPermaLink="false">2026-10-04-reading-hidden-topology-in-light-even-when-energy-leaks-away</guid>
+      <pubDate>Sat, 03 Oct 2026 17:40:01 GMT</pubDate>
+      <category>research</category>
+      <description>via Phys.org — Quantum Physics</description>
+    </item>
     <item>
       <title>IBM Expands AI and Quantum Research With IIT Bombay and IISc</title>
       <link>https://thequantuminsider.com/2026/10/03/ibm-academic-collaborations-iit-bombay-iisc-agentic-ai-quantum/</link>
@@ -235,174 +403,6 @@
       <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcllRTi10TG14TnppQ2gtcnJrSUVJUTA2ZjJaR0QwdU9MOEVYQ2txbjJkdzhONjZKMlg3Qlc4UUxGQ2lrbnlPV1lpMjkwNTN3dElYT29yZXd3VnFlRXY2TndEWnpBOVNmbUpVZkhhdXdGeG0tMUZhVHFJRFhwLTJoVjdmQnJjVC1yUDhILU9nVTl5aUhmLWlFeDluSDgxS0hqUzdSUi1zelg?oc=5</link>
       <guid isPermaLink="false">2026-10-03-island-s-mike-fey-on-how-quantum-computing-will-change-the-g</guid>
       <pubDate>Fri, 02 Oct 2026 18:20:17 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>Schneider tests quantum chip that improves home energy forecasting by up to 41% - Interesting Engineering</title>
-      <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxQRHdQZGxpTzdlWElxMXhSX0tiNzhHcnNGNXA3TXQydzh4V1ZwNmdTeDdrQ1cxMXNKTHFZR29UTEczejNaX0gtNF9NYXo0UXhfNE9HSXhYcTNQQ0t2WXJ2ZkhhWkZNZnhSYTljV2pTVGg5RmdoVXBJdnlvc2FYSF8tMTNqek1mUkhmTmRhOVgwSGk?oc=5</link>
-      <guid isPermaLink="false">2026-10-03-schneider-tests-quantum-chip-that-improves-home-energy-forec</guid>
-      <pubDate>Fri, 02 Oct 2026 18:15:00 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>DOE Wants Useful Quantum Computers by 2028: The Full Plan - eWeek</title>
-      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE81SVREcmYxV1BMRi1GbVdqcDlkQ3VNT1NERkNwS2N6RTA3WFVrQ3FYczdZUkZjeTVjWXFHX21zVXhOZ2tIY1dXWmdhQVhGRGYwMDRaZTNBTS1JbnFVeVZNNnRRTEhBMzUyQXU5eUh1YzJFVXh5bWVfeWpXYS1TbzQ?oc=5</link>
-      <guid isPermaLink="false">2026-10-03-doe-wants-useful-quantum-computers-by-2028-the-full-plan-ewe</guid>
-      <pubDate>Fri, 02 Oct 2026 17:07:48 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>Q&amp;A: How will quantum computers change society?</title>
-      <link>https://phys.org/news/2026-10-qa-quantum-society.html</link>
-      <guid isPermaLink="false">2026-10-03-q-a-how-will-quantum-computers-change-society</guid>
-      <pubDate>Fri, 02 Oct 2026 18:20:08 GMT</pubDate>
-      <category>research</category>
-      <description>via Phys.org — Quantum Physics</description>
-    </item>
-    <item>
-      <title>ORNL Develops LuGo Algorithm on Frontier Supercomputer, Reducing Quantum Circuit Gate Counts by 95% for Computational Fluid Dynamics</title>
-      <link>https://quantumcomputingreport.com/ornl-develops-lugo-algorithm-on-frontier-supercomputer-reducing-quantum-circuit-gate-counts-by-95-for-computational-fluid-dynamics/</link>
-      <guid isPermaLink="false">2026-10-02-ornl-develops-lugo-algorithm-on-frontier-supercomputer-reduc</guid>
-      <pubDate>Fri, 02 Oct 2026 11:02:55 GMT</pubDate>
-      <category>industry</category>
-      <description>via Quantum Computing Report</description>
-    </item>
-    <item>
-      <title>Patenting Quantum Computing Innovations – Part 4: Entanglement Swapping</title>
-      <link>https://quantumcomputingreport.com/patenting-quantum-computing-innovations-part-4-entanglement-swapping/</link>
-      <guid isPermaLink="false">2026-10-02-patenting-quantum-computing-innovations-part-4-entanglement-</guid>
-      <pubDate>Fri, 02 Oct 2026 02:23:05 GMT</pubDate>
-      <category>industry</category>
-      <description>via Quantum Computing Report</description>
-    </item>
-    <item>
-      <title>How a Large IT Consulting Company Works with Quantum</title>
-      <link>https://quantumcomputingreport.com/how-a-large-it-consulting-company-works-with-quantum/</link>
-      <guid isPermaLink="false">2026-10-02-how-a-large-it-consulting-company-works-with-quantum</guid>
-      <pubDate>Fri, 02 Oct 2026 00:24:00 GMT</pubDate>
-      <category>industry</category>
-      <description>via Quantum Computing Report</description>
-    </item>
-    <item>
-      <title>Unitary Foundation Launches Its 2026 Quantum Open Source Software Survey</title>
-      <link>https://quantumcomputingreport.com/unitary-foundation-launches-2026-quantum-open-source-software-survey/</link>
-      <guid isPermaLink="false">2026-10-02-unitary-foundation-launches-its-2026-quantum-open-source-sof</guid>
-      <pubDate>Thu, 01 Oct 2026 22:06:13 GMT</pubDate>
-      <category>industry</category>
-      <description>via Quantum Computing Report</description>
-    </item>
-    <item>
-      <title>D-Wave Launches Gate-Model Simulator Beta Program Featuring 21-Qubit Dual-Rail Erasure Emulation</title>
-      <link>https://quantumcomputingreport.com/d-wave-launches-gate-model-simulator-beta-program-featuring-21-qubit-dual-rail-erasure-emulation/</link>
-      <guid isPermaLink="false">2026-10-02-d-wave-launches-gate-model-simulator-beta-program-featuring-</guid>
-      <pubDate>Thu, 01 Oct 2026 15:16:22 GMT</pubDate>
-      <category>industry</category>
-      <description>via Quantum Computing Report</description>
-    </item>
-    <item>
-      <title>NATO Releases Official Quantum Technology Roadmap Establishing Operational Timelines and Standardization Frameworks</title>
-      <link>https://quantumcomputingreport.com/nato-releases-official-quantum-technology-roadmap-establishing-operational-timelines-and-standardization-frameworks/</link>
-      <guid isPermaLink="false">2026-10-02-nato-releases-official-quantum-technology-roadmap-establishi</guid>
-      <pubDate>Thu, 01 Oct 2026 14:56:14 GMT</pubDate>
-      <category>industry</category>
-      <description>via Quantum Computing Report</description>
-    </item>
-    <item>
-      <title>Classiq Launches Fault Tolerance Engine for Hardware-Aware Quantum Application Synthesis</title>
-      <link>https://quantumcomputingreport.com/classiq-launches-fault-tolerance-engine-for-hardware-aware-quantum-application-synthesis/</link>
-      <guid isPermaLink="false">2026-10-02-classiq-launches-fault-tolerance-engine-for-hardware-aware-q</guid>
-      <pubDate>Thu, 01 Oct 2026 14:09:09 GMT</pubDate>
-      <category>industry</category>
-      <description>via Quantum Computing Report</description>
-    </item>
-    <item>
-      <title>Researchers Boost Optimisation Via Efficient Pauli Encoding</title>
-      <link>https://quantumzeitgeist.com/pauli-correlation-encoding-optimisation-efficiency-boost/</link>
-      <guid isPermaLink="false">2026-10-02-researchers-boost-optimisation-via-efficient-pauli-encoding</guid>
-      <pubDate>Thu, 01 Oct 2026 14:05:00 GMT</pubDate>
-      <category>industry</category>
-      <description>via Quantum Zeitgeist</description>
-    </item>
-    <item>
-      <title>D-Wave simulator lets partners test error-aware quantum code</title>
-      <link>https://quantumzeitgeist.com/d-wave-partnership-quantum-simulator-lets/</link>
-      <guid isPermaLink="false">2026-10-02-d-wave-simulator-lets-partners-test-error-aware-quantum-code</guid>
-      <pubDate>Thu, 01 Oct 2026 13:48:33 GMT</pubDate>
-      <category>industry</category>
-      <description>via Quantum Zeitgeist</description>
-    </item>
-    <item>
-      <title>QCi scales Quantum Computing Inc. to nearly 10,000 variables with Dirac-3S</title>
-      <link>https://quantumzeitgeist.com/qci-scales-quantum-computing-inc/</link>
-      <guid isPermaLink="false">2026-10-02-qci-scales-quantum-computing-inc-to-nearly-10-000-variables-</guid>
-      <pubDate>Thu, 01 Oct 2026 13:38:03 GMT</pubDate>
-      <category>industry</category>
-      <description>via Quantum Zeitgeist</description>
-    </item>
-    <item>
-      <title>Lund University unites quantum research across its departments</title>
-      <link>https://quantumzeitgeist.com/lund-university-quantum-research-unites/</link>
-      <guid isPermaLink="false">2026-10-02-lund-university-unites-quantum-research-across-its-departmen</guid>
-      <pubDate>Thu, 01 Oct 2026 13:37:46 GMT</pubDate>
-      <category>industry</category>
-      <description>via Quantum Zeitgeist</description>
-    </item>
-    <item>
-      <title>Contrivian adds post-quantum encryption to satellite networks</title>
-      <link>https://quantumzeitgeist.com/post-quantum-encryption-contrivian-adds-satellite/</link>
-      <guid isPermaLink="false">2026-10-02-contrivian-adds-post-quantum-encryption-to-satellite-network</guid>
-      <pubDate>Thu, 01 Oct 2026 13:37:02 GMT</pubDate>
-      <category>industry</category>
-      <description>via Quantum Zeitgeist</description>
-    </item>
-    <item>
-      <title>BECs mimic molecule bending, revealing quantum phase changes</title>
-      <link>https://quantumzeitgeist.com/barcelona-science-quantum-phase-becs-mimic/</link>
-      <guid isPermaLink="false">2026-10-02-becs-mimic-molecule-bending-revealing-quantum-phase-changes</guid>
-      <pubDate>Thu, 01 Oct 2026 13:36:53 GMT</pubDate>
-      <category>industry</category>
-      <description>via Quantum Zeitgeist</description>
-    </item>
-    <item>
-      <title>Researchers Bound Temperature for Gaussian Fermionic States</title>
-      <link>https://quantumzeitgeist.com/gaussian-fermionic-states-gibbs-state-temperature-bound/</link>
-      <guid isPermaLink="false">2026-10-02-researchers-bound-temperature-for-gaussian-fermionic-states</guid>
-      <pubDate>Thu, 01 Oct 2026 12:47:00 GMT</pubDate>
-      <category>industry</category>
-      <description>via Quantum Zeitgeist</description>
-    </item>
-    <item>
-      <title>Single Qubit Reproduces Complex Quantum Behaviour With New Computing Framework - Quantum Zeitgeist</title>
-      <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxNVkR6Y3J1YlZWTW9HZXNuTy1lX1ZZMURBd1Jod2VYSWRVVnpPUTlKbVJXazFzaXM2Yzh1eXdScHRXcVY4X3RNR1l2eFhyT0dVel9RaFRpeWFlRGxURExGbkFKOXNEVTQ4NGFTVXRNVXllUzVYNlZYaUVtbzc3eWxaeFR0OEJEUlczWUhEMl9vdjI?oc=5</link>
-      <guid isPermaLink="false">2026-10-02-single-qubit-reproduces-complex-quantum-behaviour-with-new-c</guid>
-      <pubDate>Fri, 02 Oct 2026 10:14:17 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>EPB Quantum Hosts Quantum In Business Conference With 450 In Tennessee - Quantum Zeitgeist</title>
-      <link>https://news.google.com/rss/articles/CBMidkFVX3lxTFBzTE1oZ05GM25wMjRiQk93RVRJV1R3SjNUakE2UXo1VmlRZzVkN0d3NFpNVVJicHc1REhzWk1Rd05XRjFhLVlMU0NDaVp6Y3ZQczNkTUZ0eWpHczNDbkIwQ1pvVWRPYV8zX1RfV1FEdFdGZVhVTnc?oc=5</link>
-      <guid isPermaLink="false">2026-10-02-epb-quantum-hosts-quantum-in-business-conference-with-450-in</guid>
-      <pubDate>Fri, 02 Oct 2026 10:07:30 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>QDA Finds Quantum Systems Need Data Center Integration To Become Useful - Quantum Zeitgeist</title>
-      <link>https://news.google.com/rss/articles/CBMia0FVX3lxTFBuNW0xc1lxamNKR2xWSEVvak1ERGxZOFdURk1tNzFwb05WTEFNMnpoTlhaOWlEOWVwRk16QkNwZFF0Si0xNFQ0cjdpbklGclp1aE9fQUZZaHp2dUlIR21uSHV0M0daRFFPaEdn?oc=5</link>
-      <guid isPermaLink="false">2026-10-02-qda-finds-quantum-systems-need-data-center-integration-to-be</guid>
-      <pubDate>Fri, 02 Oct 2026 10:07:30 GMT</pubDate>
-      <category>industry</category>
-      <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>Researchers Simulate Circuit Probabilities Using Subexponential Scaling - Quantum Zeitgeist</title>
-      <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxPZlpFTFZ2M1RZcUtKdFRZczJaR2NGYXpXdzdXVEdxVFlUc3l0X29KVVVOczVVTHgyUFFuR2dtSEJocTRRMVE0LXp4aFh5UTVnT1R2YUZtVER4QkVjbFJPNzdGMkhpYXVyRl9faVM4WFhBSk5zRVZDR3lnZGRNeVplQkR4VlNrRHlqbkxWWFlhTmJxbTVo?oc=5</link>
-      <guid isPermaLink="false">2026-10-02-researchers-simulate-circuit-probabilities-using-subexponent</guid>
-      <pubDate>Fri, 02 Oct 2026 10:07:30 GMT</pubDate>
       <category>industry</category>
       <description>via Google News — quantum computing</description>
     </item>
