@@ -1,0 +1,332 @@
+[
+  {
+    "id": "2026-10-11-ibm-launches-directed-execution-model-and-executor-primitive",
+    "date": "2026-10-11",
+    "category": "industry",
+    "title": "IBM Launches Directed Execution Model and Executor Primitive to Give Researchers Client-Side Control Over QEC Workflows",
+    "summary": null,
+    "url": "https://quantumcomputingreport.com/ibm-launches-directed-execution-model-and-executor-primitive-to-give-researchers-client-side-control-over-qec-workflows/",
+    "source": "quantum-computing-report",
+    "source_name": "Quantum Computing Report",
+    "published_at": "2026-10-10T22:55:26.000Z",
+    "also_at": [
+      {
+        "source": "gnews-quantum",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSXR6R290YVJ1M0lRY1JlYkVfTFMzMXBERjhySko3UXQzel8tbVZEZ1ZNZ2s1eDJEb2ExNlhXVVRVVDBjaFJjbU8wZjNXNnJTb2s5eGp6NzNjMTlUZEtiSklodWplcEdUVm9iUmVndURUdVJsT1NaMmk0Y18zeTYwNUpNQmpjM2NOcUZaUmc4bFFZLWhSQ1RRQ05yMlM0OXRTMXl4MjJIcmlkNzFLWFNnVnQ1Sy04aE0zU3VSUEFaSWpfUGRNaG9sbTd4VkpxZk9zdHJtOWVFaXNNTi0xaTIzei1pUzJJUWgzVDdR0gHwAUFVX3lxTE1iUF8tRURyTlVVWWVuT2VVWUFoX0ZNYnBJR3pLdXZUdHhmWVR1ZmktTnA1b09hcXlBTjdaU04zWU1sdFZOdFF3Wk1iTk0xV3I3WlJkZ2NXR3FKRmFLdjdGNy13QWd2aW81MEZpR1ExaDBjMkJQQ0hHdGtnY3JmN1NycXJJVEQ5aksyRWJaZFc0ZldiU2FzS2dsMFJuUzVIUkJxdnhmNG9IN25qemlJZUZlbEVYU0hrSVJNTF9ZWnBnVnNxQW9WU3VGM3M5U0JsRGhtdGstcl9WWElUZ0RjWWNSZ1RLRFZsbUt2aTR1cmZ0ZQ?oc=5"
+      }
+    ],
+    "significance": 3,
+    "qv_device": null,
+    "qv_artifact": null
+  },
+  {
+    "id": "2026-10-11-ibm-expands-qiskit-beyond-python-with-native-c-api-bindings-",
+    "date": "2026-10-11",
+    "category": "industry",
+    "title": "IBM Expands Qiskit Beyond Python with Native C API Bindings for Fortran, C++, and Julia",
+    "summary": null,
+    "url": "https://quantumcomputingreport.com/ibm-expands-qiskit-beyond-python-with-native-c-api-bindings-for-fortran-c-and-julia/",
+    "source": "quantum-computing-report",
+    "source_name": "Quantum Computing Report",
+    "published_at": "2026-10-10T22:32:25.000Z",
+    "also_at": [
+      {
+        "source": "gnews-quantum",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa1pNVXM5cUtHRGhCak9mbm1VM1d4dHF1QlBnT3ZubzNRLUthbi1sY3k2VTBkVmYyTnljVTUxVXlmbEJYSnQwZVVyWURqMHV3Q21BV3Qxem1TM1RoU1JucS1BNU9OeFBNcloyUk8xSDJnNlJnbkJpRi1yeXVCSFhWdG44cHJ6UjRGS0MwQ2llNFdJajlLeXY1NzFIdnJ2ZnUydVNaUVpYLW9rX1BRQmZ5UXptTERNRmFWQy1n0gHAAUFVX3lxTFBZQ2FEMm9ubzNFVHZ6UUtsUTBQNVRuS05taE0wODVicEZFT1JmZnkteWxJWkxNczQ2Z1JIRWl0eWVHcDlUWFU3eXpCM0hiMDJXWThJWXRkbUl4VVVRNXA5QUtUdGMtck5OS3JhQ29LQ1hFRUctc2ZjY3h5enBPV0NNUGhTUjlYZWdpMjBybXRTcFpQdGhCRzFnd25GYXhxREJLWU1YdnlXZkEyOWg2UlRNR3M1OVVhVDIxbjFsS0tGZw?oc=5"
+      }
+    ],
+    "significance": 3,
+    "qv_device": null,
+    "qv_artifact": null
+  },
+  {
+    "id": "2026-10-11-quic-whitepaper-calls-for-industrial-scale-up-infrastructure",
+    "date": "2026-10-11",
+    "category": "industry",
+    "title": "QuIC Whitepaper Calls for Industrial Scale-Up Infrastructure in EU Chips Act 2.0",
+    "summary": null,
+    "url": "https://quantumcomputingreport.com/quic-whitepaper-calls-for-industrial-scale-up-infrastructure-in-eu-chips-act-2-0/",
+    "source": "quantum-computing-report",
+    "source_name": "Quantum Computing Report",
+    "published_at": "2026-10-10T21:40:59.000Z",
+    "also_at": [
+      {
+        "source": "gnews-quantum",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbmJ6dzVNRkNWWU0wS0x4V2gyYmNRaUM4RUowX3ZxcGFjX1lkU3lCOTJvbzdTVVZURW5IZzZmSG50N1llY2p5TFNGdGR6Skd3RXJBdEg4VkxrVlRQLTlBQ19qV3FMNW5vQ3oyUXpHSnpYZllkd1dJNVQ0c210OTV0amtKOE41TV9kcFpQdC1yYThuUnRFVUVMdTE5VnA3T0NPTkhMLUVCc2ticjc3MWJaRVBBN3hSZzTSAbwBQVVfeXFMUERUWk4wZXUwVVZWbjlraWM5NXZBUnItMUxrSnNfTkRFdDhFYlpyYzJWTDFieGR5eS01TmFmNkpIMkgxT2t0OXliQ05nNTRSZWJXVkdGRnNWb21aZzFSWjk5M0tkWWZ0RmN2Mk1pd1J2U3RqRWY0VU1FLWtGeXhNaTlZMENTYThmY1lCS1FSZXNNdFpRU2RCYWU0Y2lZNFgtVGs0cnNEQkNieVgtRHVHVUtjMlRsanZpSWxZY1Q?oc=5"
+      }
+    ],
+    "significance": 3,
+    "qv_device": null,
+    "qv_artifact": null
+  },
+  {
+    "id": "2026-10-11-xanadu-cuts-quantum-read-only-memory-costs-by-4x-via-dense-e",
+    "date": "2026-10-11",
+    "category": "industry",
+    "title": "Xanadu Cuts Quantum Read-Only Memory Costs by ~4x via Dense Encoding",
+    "summary": null,
+    "url": "https://quantumcomputingreport.com/xanadu-cuts-quantum-read-only-memory-costs-by-4x-via-dense-encoding/",
+    "source": "quantum-computing-report",
+    "source_name": "Quantum Computing Report",
+    "published_at": "2026-10-10T18:45:30.000Z",
+    "also_at": [
+      {
+        "source": "gnews-quantum",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOekJkZVFfVEVzMksyMnR2dkZjSS1vVDNSZk5qdmZ0SjIyQ0hjeV9iVHFLUWdDVDZvblJGaGNyNVEzZDlsNWtaOGdzWTA5RWN4aVc5dDk0MUFaaXJ6T2tHRUI2NFgwb2NzX1pmRWV1T2VOOFU3WE5RdlVrbW5rLTVFRE9ZSldBcmRwamJWSWN5MlhPVzlJSEdpVmlJSWtsbF9ObzdpanF30gGrAUFVX3lxTE1Qc3U4Q083VXRrdmt6TWk0dnk1SDhCcVRScGZ1eHhwLUxIdjZ5WE10dC1TN0NwUGVCMmhEQjBnbGZtOWpQNXc2c3V1bWNHSDFZenA0YlJUa3VnZHVlUVU2ZEdReDdaNVZ0MlA2V2pKODJHRUN2aWNwMGpPMHBYT2VXTkdXaVZOcmk4dlVFYXIyTl9tai1iZUtJU25qT3dxS2xLUWtzamlhRU5RQQ?oc=5"
+      }
+    ],
+    "significance": 3,
+    "qv_device": null,
+    "qv_artifact": null
+  },
+  {
+    "id": "2026-10-11-university-of-saskatchewan-researchers-achieve-record-hyperb",
+    "date": "2026-10-11",
+    "category": "industry",
+    "title": "University of Saskatchewan Researchers Achieve Record Hyperbolic Surface Code Efficiency for Modular Fault-Tolerant Architectures",
+    "summary": null,
+    "url": "https://quantumcomputingreport.com/university-of-saskatchewan-researchers-achieve-record-hyperbolic-surface-code-efficiency-for-modular-fault-tolerant-architectures/",
+    "source": "quantum-computing-report",
+    "source_name": "Quantum Computing Report",
+    "published_at": "2026-10-10T18:25:41.000Z",
+    "also_at": [
+      {
+        "source": "gnews-quantum",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxORlhWeERIQXVRMjJ4UnNtaC05RkdjSU1XaHJNQThoc2U3Y01KZ3Q1U083X1BBQnB0b0hOZlZfZWZtZTdRNHJwb2lDWlM4UUl3Z1JNWTkwQTZHazB3UmFJV0lIaEpGa2JjYVZiYUpndF9TMlF0V3gyMXl0bGVPN240eV83eEM0RkpJMzdReWM2ZE1rSHdZWEZvNWIyd1AtTS1FMngtTGJlWEg0ai1CZjN4SUo4VE85bmlKVG5qYmxQTklpc2RzZ0dEVGV6UkRCTkU4SFdYTDgwbUJ3MXlFT21KTnBrWVFWV0k2LTl2OUpMb21nZlZyQVh4U9IB_gFBVV95cUxNclRqbERPOHBacTRwN0VGSTBwTG5SWEhYZl8tMW5MZzM4TVJiaUFoNDJsMWFjaGZ2a0VfV2gxSVVPNDRFcUczSUJ1a0EtLWRrNFFZcXE4WDJLXzN6bjB3V1pSQkZCdHJidUZpTDFENXBRbWdUWnp5Y2YzM0hDSXEyVWxfd0kxY25qcVYtTWJuLVJKNWxELS1zWGRVUXQ1VktZdk9RWG93eDc5MFFIT3hvUEVwUDZsU1kyc1FwbGlmdUpPMFVtcXJfN0VVSkdmc1ZzM2NFM3p0VXE1R2lIMmhDd0pZdks5TlMtM2ZWcWFzZUhPX0tXdmhzMVVqdFo0dw?oc=5"
+      }
+    ],
+    "significance": 3,
+    "qv_device": null,
+    "qv_artifact": null
+  },
+  {
+    "id": "2026-10-11-multi-institutional-consortium-expands-qrmi-to-standardize-q",
+    "date": "2026-10-11",
+    "category": "industry",
+    "title": "Multi-Institutional Consortium Expands QRMI to Standardize Quantum-HPC Integration Across Major Workload Managers",
+    "summary": null,
+    "url": "https://quantumcomputingreport.com/multi-institutional-consortium-expands-qrmi-to-standardize-quantum-hpc-integration-across-major-workload-managers/",
+    "source": "quantum-computing-report",
+    "source_name": "Quantum Computing Report",
+    "published_at": "2026-10-10T18:05:18.000Z",
+    "also_at": [
+      {
+        "source": "gnews-quantum",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOV3IycVBrbHBUVlpSMXhHY2JiVk9zVTA2bERsQWJZVWhtaU5TMTBSR2Q2X2h0c2VhcjlNa1hXbUQ2YlhPT2d4Z3QycHlvYzV1NTVQOGxqdGZSSkVkU0twOGZLNWxqbnZULWZyY1dLZC03T3JCUGFBZloyRldzMXB5OW5FMGRSZFJYZmxObk9OXzlMdnNGdTUxWFJoTXpkdElPbzhab081NWJybDM1S0wxcVJRWW9LOVJRZ0xYQmFkajBjcmMyQ3M4VVc4T2p1eXM2Q3hKS0lHZGNKN2lQYmJra2s3Z9IB6AFBVV95cUxQVHNndl9jcEpMVlNScjhUd00wLXF3VEFnMG8zTXFpUFRiYk4zYjJpNFJ2dnQxSGxGZUlqdWZWYzkwbHBPN25PZUN0cmdzZ1pqODgydGNFQkptQ19pTXNoeTYtNG55NWFaZ1hidjE3cDhraDNLOFlvR3lzdnhnU3VQUl9xLVdVOFkzS0NXRTJUZkJHa2Z4ODZRNk9xajE3YnlMNFNwTWpMcWpSYk9PeDdqd0FGSC01M1lJSjVZcUh3YUIyanRESGZENWM1SU05bFZTV2tOd2EzWDljU25tQjJoenlkOGN6V0xp?oc=5"
+      }
+    ],
+    "significance": 3,
+    "qv_device": null,
+    "qv_artifact": null
+  },
+  {
+    "id": "2026-10-11-quantum-leap-for-columbia-s-sebastian-2026-american-physical",
+    "date": "2026-10-11",
+    "category": "industry",
+    "title": "Quantum Leap for Columbia’s Sebastian—2026 American Physical Society Fellow",
+    "summary": null,
+    "url": "https://quantumzeitgeist.com/american-physical-quantum-leap-columbias-sebastian2026/",
+    "source": "quantum-zeitgeist",
+    "source_name": "Quantum Zeitgeist",
+    "published_at": "2026-10-11T11:18:21.000Z",
+    "also_at": [],
+    "significance": 2,
+    "qv_device": null,
+    "qv_artifact": null
+  },
+  {
+    "id": "2026-10-11-quantum-bell-triplet-states-emerge-from-151-mev-proton-colli",
+    "date": "2026-10-11",
+    "category": "industry",
+    "title": "Quantum Bell-triplet states emerge from 151 MeV proton collisions",
+    "summary": null,
+    "url": "https://quantumzeitgeist.com/universidade-santiago-quantum-bell-triplet-states/",
+    "source": "quantum-zeitgeist",
+    "source_name": "Quantum Zeitgeist",
+    "published_at": "2026-10-11T10:19:30.000Z",
+    "also_at": [],
+    "significance": 2,
+    "qv_device": null,
+    "qv_artifact": null
+  },
+  {
+    "id": "2026-10-11-a-new-method-unlocks-quantum-speedups-for-common-chemistry-s",
+    "date": "2026-10-11",
+    "category": "industry",
+    "title": "A new method unlocks quantum speedups for common chemistry simulations",
+    "summary": null,
+    "url": "https://quantumzeitgeist.com/california-technology-quantum-chemistry-simulations-method/",
+    "source": "quantum-zeitgeist",
+    "source_name": "Quantum Zeitgeist",
+    "published_at": "2026-10-11T09:59:23.000Z",
+    "also_at": [],
+    "significance": 2,
+    "qv_device": null,
+    "qv_artifact": null
+  },
+  {
+    "id": "2026-10-11-error-in-quantum-state-prep-drops-as-evolution-gets-smoother",
+    "date": "2026-10-11",
+    "category": "industry",
+    "title": "Error in quantum state prep drops as evolution gets smoother",
+    "summary": null,
+    "url": "https://quantumzeitgeist.com/centrum-wiskunde-error-quantum-state-prep/",
+    "source": "quantum-zeitgeist",
+    "source_name": "Quantum Zeitgeist",
+    "published_at": "2026-10-11T09:59:21.000Z",
+    "also_at": [],
+    "significance": 2,
+    "qv_device": null,
+    "qv_artifact": null
+  },
+  {
+    "id": "2026-10-11-superconductivity-s-left-flank-explained-by-nuclear-quantum-",
+    "date": "2026-10-11",
+    "category": "industry",
+    "title": "Superconductivity’s left flank explained by nuclear quantum effects",
+    "summary": null,
+    "url": "https://quantumzeitgeist.com/peking-international-nuclear-quantum-effects/",
+    "source": "quantum-zeitgeist",
+    "source_name": "Quantum Zeitgeist",
+    "published_at": "2026-10-11T09:59:16.000Z",
+    "also_at": [],
+    "significance": 2,
+    "qv_device": null,
+    "qv_artifact": null
+  },
+  {
+    "id": "2026-10-11-quantum-moire-exciton-superlattices-switch-from-opaque-to-tr",
+    "date": "2026-10-11",
+    "category": "industry",
+    "title": "Quantum Moire exciton superlattices switch from opaque to transparent",
+    "summary": null,
+    "url": "https://quantumzeitgeist.com/city-hong-quantum-moire-exciton-superlattices/",
+    "source": "quantum-zeitgeist",
+    "source_name": "Quantum Zeitgeist",
+    "published_at": "2026-10-11T09:59:06.000Z",
+    "also_at": [],
+    "significance": 2,
+    "qv_device": null,
+    "qv_artifact": null
+  },
+  {
+    "id": "2026-10-11-hamad-bin-khalifa-university-and-quantum-computing-inc-partn",
+    "date": "2026-10-11",
+    "category": "industry",
+    "title": "Hamad Bin Khalifa University and Quantum Computing Inc. Partner on Quantum Skills",
+    "summary": null,
+    "url": "https://quantumzeitgeist.com/qci-hamad-bin-quantum-partnership-khalifa/",
+    "source": "quantum-zeitgeist",
+    "source_name": "Quantum Zeitgeist",
+    "published_at": "2026-10-11T09:59:01.000Z",
+    "also_at": [],
+    "significance": 2,
+    "qv_device": null,
+    "qv_artifact": null
+  },
+  {
+    "id": "2026-10-11-strk-extends-rally-as-starkware-ceo-warns-quantum-threat-may",
+    "date": "2026-10-11",
+    "category": "industry",
+    "title": "STRK Extends Rally As StarkWare CEO Warns 'Quantum Threat May Be Much Closer Than We Think' - TradingView",
+    "summary": null,
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQaW9hX2FyVDk3azhaTUM1a25XcVBTLUFmSlMxVVU3V3JCYXVmTWdUUU16QUp2TlVQMk8tMVBHeV9VNk5USFlkbndzQnV4TFpSVzZ0dU1EbGJZa0lPZUtnV3hkS2V4R1Q5QnpqemRoNmdneFhHX3Mxd2txa0ZaM1BaaTVpal9Lc0ROTW5sb1k2ZFJfWWFsdFBhQzBtXzQyaXFIQjlWd256bE9QeWtUTmsxUjhBRk1TNTVzTlFKd0paa2lNYWVuQWQySWdSYmpiX0dEdkR3TVBXb19NOXo3V0NYNmJza1g?oc=5",
+    "source": "gnews-quantum",
+    "source_name": "Google News — quantum computing",
+    "published_at": "2026-10-11T11:19:47.000Z",
+    "also_at": [],
+    "significance": 2,
+    "qv_device": null,
+    "qv_artifact": null
+  },
+  {
+    "id": "2026-10-11-is-quantum-computing-qubt-stock-still-reasonable-after-a-7x-",
+    "date": "2026-10-11",
+    "category": "industry",
+    "title": "Is Quantum Computing (QUBT) Stock Still Reasonable After A 7x Run? - Simply Wall Street",
+    "summary": null,
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNXl4MjR2Z0RObmxKZndsX3Vqd2JWRzZZXzFuVV9TbGFweFo1b3NBMEpaTWstVjNiOVRoWlpPc2ktd1RLbVp4U1RVdW9oSG9GSnZsNFYwa24zSTBaTmFObFlUcmtPOFdFVkpsTWpFWTFqOXByYWQxY1BPT2JwVldwZ2tmZGtoVmNzMXlEeDFnclZPaVdQX0NieGtvRTNfWjVxWXZ2U3k1dHJObElIWTVUX1c1MkFxNHE1Sm5QU1M0aFNGWnV2R3B4SGdzONIB0AFBVV95cUxOOURxaVFUN013ellWWTB1SWx4OGZLN3lKajNNYm5DN01fSU5qX2haUnoyMEVmWURxdU53TFF2R3B4RENINFVTdEwyTVhEOGVvb0hPb1o5NkhTZnd3alViRUNTQmVUVEdNSEpXNGktTWFia3J0WDBBQjFIaVpYYjNDTHFWV3ZrUkpVaXdBVnFYWXJIZ2RpUFhhZ2VGNlVNLUpuOE5rMWxQM09NUlhCVFA0SjFmNXUxeFhjbEVyWWd1eExpajY0RnJjNEItOEVhWmlr?oc=5",
+    "source": "gnews-quantum",
+    "source_name": "Google News — quantum computing",
+    "published_at": "2026-10-11T06:37:58.000Z",
+    "also_at": [],
+    "significance": 2,
+    "qv_device": null,
+    "qv_artifact": null
+  },
+  {
+    "id": "2026-10-11-sa-asks-is-now-the-time-to-buy-quantum-stocks-if-so-which-on",
+    "date": "2026-10-11",
+    "category": "industry",
+    "title": "SA Asks: Is now the time to buy quantum stocks? If so, which ones? (IONQ:NYSE) - Seeking Alpha",
+    "summary": null,
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU1V4cTdBOXoyMHhVb2ZTdXlQaEhRWmFxZEJfLXFEQjA3YTRjMnZSYTh3OERDb25Tb014QVk0MXNuelctc0ljcjllcnZQaVFIbjBCbGJOcFp4RWRYMk40OWF3cWxJXzRDT2daaWdvajMyNmdzYmVWNlVHVnhFRGc5ZU85bWJQZGNxR3c1Tm83U0J3cXJ1T3NrRkd0RGF4QTBxT1E?oc=5",
+    "source": "gnews-quantum",
+    "source_name": "Google News — quantum computing",
+    "published_at": "2026-10-10T19:57:56.000Z",
+    "also_at": [],
+    "significance": 2,
+    "qv_device": null,
+    "qv_artifact": null
+  },
+  {
+    "id": "2026-10-11-promising-quantum-computing-stocks-to-follow-now-october-10t",
+    "date": "2026-10-11",
+    "category": "industry",
+    "title": "Promising Quantum Computing Stocks To Follow Now - October 10th - MarketBeat",
+    "summary": null,
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONkJnUkJ5Y1lWS3F5TjFpSUh3U24yQ2ZRc210dFNXR19FdVdYSTV2YzU0WXo2S3B5NE9LYVdnV3phSmZGcUJlRnBGMW5MMU5jbGZaZTJjWHQ1cVR0b2lkNGlIaHZOdnpDMDBLS0FiZkxYWGRYbzM4YUtvcWdyT1dnbDVVRTdIVlZrSllMRm1WMFZteW1jR0l5SUEzckEtbjhIOThOcFh4UldBRGhGNk8xbGstMzhuRjBWMEdIWg?oc=5",
+    "source": "gnews-quantum",
+    "source_name": "Google News — quantum computing",
+    "published_at": "2026-10-10T18:08:29.000Z",
+    "also_at": [],
+    "significance": 2,
+    "qv_device": null,
+    "qv_artifact": null
+  },
+  {
+    "id": "2026-10-11-pentagon-expands-quantum-computing-push-to-secure-military-t",
+    "date": "2026-10-11",
+    "category": "industry",
+    "title": "Pentagon expands quantum computing push to secure military tech superiority - Interesting Engineering",
+    "summary": null,
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQM2ZzdXduWlhKNVY1WmtWUjhLdjloY0p5V1p4SWstWGlWQ3VmVFVRVDVndi01OFMxQmlUdWxBeWlFNmhLQVVGOHFCMEs2b1c0aFFSU3FOcmxVeFJxeTFyR2I0NTl0ZFRSZzBobUtzUE54VGRsTTEtNndFWHFIQXVFTFZ6cHc?oc=5",
+    "source": "gnews-quantum",
+    "source_name": "Google News — quantum computing",
+    "published_at": "2026-10-10T12:45:00.000Z",
+    "also_at": [],
+    "significance": 2,
+    "qv_device": null,
+    "qv_artifact": null
+  },
+  {
+    "id": "2026-10-11-ultraviolet-laser-pulses-engineer-diamond-defects-selectivel",
+    "date": "2026-10-11",
+    "category": "research",
+    "title": "Ultraviolet laser pulses engineer diamond defects selectively, leaving quantum qubits intact",
+    "summary": null,
+    "url": "https://phys.org/news/2026-10-ultraviolet-laser-pulses-diamond-defects.html",
+    "source": "physorg-quantum",
+    "source_name": "Phys.org — Quantum Physics",
+    "published_at": "2026-10-10T21:20:01.000Z",
+    "also_at": [],
+    "significance": 2,
+    "qv_device": null,
+    "qv_artifact": null
+  },
+  {
+    "id": "2026-10-11-new-stability-rules-distinguish-quantum-phases-of-matter-tha",
+    "date": "2026-10-11",
+    "category": "research",
+    "title": "New stability rules distinguish quantum phases of matter that an older method wrongly groups together",
+    "summary": null,
+    "url": "https://phys.org/news/2026-10-stability-distinguish-quantum-phases-older.html",
+    "source": "physorg-quantum",
+    "source_name": "Phys.org — Quantum Physics",
+    "published_at": "2026-10-10T17:00:02.000Z",
+    "also_at": [],
+    "significance": 2,
+    "qv_device": null,
+    "qv_artifact": null
+  }
+]
