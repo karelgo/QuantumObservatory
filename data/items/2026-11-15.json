@@ -1,0 +1,297 @@
+[
+  {
+    "id": "2026-11-15-making-quantum-sdks-more-accessible-lessons-from-contributin",
+    "date": "2026-11-15",
+    "category": "industry",
+    "title": "Making Quantum SDKs More Accessible: Lessons from Contributing to Qiskit",
+    "summary": null,
+    "url": "https://quantumcomputingreport.com/making-quantum-sdks-more-accessiblelessons-from-contributing-to-qiskit/",
+    "source": "quantum-computing-report",
+    "source_name": "Quantum Computing Report",
+    "published_at": "2026-11-14T22:44:27.000Z",
+    "also_at": [
+      {
+        "source": "gnews-quantum",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT0xvcllyZXRsRDlKck85UFNEeEVyRmk0OFo2V09FcXBaRkRudVNfeUJreXZZNU90dWFKemxic2RIajZZamsyVDJaSDU4VlFiaER1QjR0Q0poN1habEtkaWVsOTFqTmpDeFFtVkVnUV9XTXFRbmt4eENDaHRFR1oyRl9QMUlJRU5LWnkwR3BQdFlxZVRCenRQcDZsVUJmTUQ2aGhkNEpJeFpoQdIBrwFBVV95cUxON3hFWkFPRHpvRmhGYURfMnpHQ0QzWURhN25sYUhVd2hhemkyazZWeUhGT3UwZHFVT0ZVTDZsX2YxZEtvVS1GUVVpM1hNek5aWGlBOEpkcmI2cVRYdlJMSFFQelVsVUNJSlc3NjBiejNVTFZFWkFqZXJZQlotcExxRzktb0lleUIyUXJxWWVxMU9DSE84NlpNNF9IYmVENGRkcVRhTjdoaGdRNURMUVdF?oc=5"
+      }
+    ],
+    "significance": 3,
+    "qv_device": null,
+    "qv_artifact": null
+  },
+  {
+    "id": "2026-11-15-who-s-news-strategic-appointments-at-semiqon-orangeqs-ionq-h",
+    "date": "2026-11-15",
+    "category": "industry",
+    "title": "Who’s News: Strategic Appointments at SemiQon, OrangeQS, IonQ, Haiqu, and Jij",
+    "summary": null,
+    "url": "https://quantumcomputingreport.com/whos-news-strategic-appointments-at-semiqon-orangeqs-ionq-haiqu-and-jij/",
+    "source": "quantum-computing-report",
+    "source_name": "Quantum Computing Report",
+    "published_at": "2026-11-14T18:26:53.000Z",
+    "also_at": [],
+    "significance": 3,
+    "qv_device": null,
+    "qv_artifact": null
+  },
+  {
+    "id": "2026-11-15-quantum-algorithm-tackles-jet-identification-with-just-five-",
+    "date": "2026-11-15",
+    "category": "industry",
+    "title": "Quantum algorithm tackles jet identification with just five superconducting qubits",
+    "summary": null,
+    "url": "https://quantumzeitgeist.com/nazionale-fisica-quantum-algorithm-tackles-jet/",
+    "source": "quantum-zeitgeist",
+    "source_name": "Quantum Zeitgeist",
+    "published_at": "2026-11-15T10:46:06.000Z",
+    "also_at": [
+      {
+        "source": "gnews-quantum",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPR2pGeTVnWE5UMjZGNHl2YTVHT0tneDZ0eExfZ1V6OFdFS2UxODEtOVB3TUhKOTlyd3hoVEJWM0l5VTRoU2FnZG4zTnhqUHpUZTBpZGNURVh6cnl0bUJOLWdKMDJMdU9ieE84dHdPU3cwRG85Q19RM3hhVHVVejJhZnB3?oc=5"
+      }
+    ],
+    "significance": 2,
+    "qv_device": null,
+    "qv_artifact": null
+  },
+  {
+    "id": "2026-11-15-quantum-dot-energy-gaps-measured-with-a-new-spectroscopy-tec",
+    "date": "2026-11-15",
+    "category": "industry",
+    "title": "Quantum dot energy gaps measured with a new spectroscopy technique",
+    "summary": null,
+    "url": "https://quantumzeitgeist.com/california-los-quantum-dot-energy-gaps/",
+    "source": "quantum-zeitgeist",
+    "source_name": "Quantum Zeitgeist",
+    "published_at": "2026-11-15T10:45:10.000Z",
+    "also_at": [],
+    "significance": 2,
+    "qv_device": null,
+    "qv_artifact": null
+  },
+  {
+    "id": "2026-11-15-weizmann-institute-finds-dissipation-explains-quantum-hall-s",
+    "date": "2026-11-15",
+    "category": "industry",
+    "title": "Weizmann Institute finds dissipation explains quantum Hall-superconductor junctions",
+    "summary": null,
+    "url": "https://quantumzeitgeist.com/weizmann-institute-quantum-hall-superconductor-junctions/",
+    "source": "quantum-zeitgeist",
+    "source_name": "Quantum Zeitgeist",
+    "published_at": "2026-11-15T10:45:04.000Z",
+    "also_at": [
+      {
+        "source": "gnews-quantum",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcGQ2VElraWRaUkoxRUVJdXVLTEFXUmFtdkZuYTVuZlhjWkpFRFNjWkFtTXY3cDF3SFpmZnh3bEZmdjJ2alVpbGt5aGkxQkRSM1NpNjJyOWlKSncxUEpaWFhTdlRxeE9KUjFFdU5zcTd1U1V6YkdOZUVSc2UxbktpVjFfNnVpaHhXTnVoVjJyZw?oc=5"
+      }
+    ],
+    "significance": 2,
+    "qv_device": null,
+    "qv_artifact": null
+  },
+  {
+    "id": "2026-11-15-technischen-hochschule-deggendorf-s-institute-future-technol",
+    "date": "2026-11-15",
+    "category": "industry",
+    "title": "Technischen Hochschule Deggendorf’s Institute Future Technologies leads quantum computing consortium",
+    "summary": null,
+    "url": "https://quantumzeitgeist.com/quanda-deggendorf-institute-technology-aims/",
+    "source": "quantum-zeitgeist",
+    "source_name": "Quantum Zeitgeist",
+    "published_at": "2026-11-15T10:44:38.000Z",
+    "also_at": [
+      {
+        "source": "gnews-quantum",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAzT3dZZGZCdlN1LVFiWnJJMU0yd1RmeGNpVUxqbnJYdFhIbzdpSzhtY1pLbzhQRmdDVTQ1enA4SGJfMVpSREo1MXU4c2p3Y1BTb0xkUmxrRlNjYTVHNi1odkw3SmdndzhVYlBUYkpZZ2xpZ056ZFpjTUFqQk5IZw?oc=5"
+      }
+    ],
+    "significance": 2,
+    "qv_device": null,
+    "qv_artifact": null
+  },
+  {
+    "id": "2026-11-15-holographic-models-link-critical-dynamics-to-quantum-scrambl",
+    "date": "2026-11-15",
+    "category": "industry",
+    "title": "Holographic models link critical dynamics to quantum scrambling timescales",
+    "summary": null,
+    "url": "https://quantumzeitgeist.com/dibrugarh-university-holographic-demonstration-quantum-link/",
+    "source": "quantum-zeitgeist",
+    "source_name": "Quantum Zeitgeist",
+    "published_at": "2026-11-15T10:40:25.000Z",
+    "also_at": [],
+    "significance": 2,
+    "qv_device": null,
+    "qv_artifact": null
+  },
+  {
+    "id": "2026-11-15-qubit-parity-symmetry-protects-against-dielectric-loss",
+    "date": "2026-11-15",
+    "category": "industry",
+    "title": "Qubit parity symmetry protects against dielectric loss",
+    "summary": null,
+    "url": "https://quantumzeitgeist.com/physique-lecole-qubit-parity-symmetry-protects/",
+    "source": "quantum-zeitgeist",
+    "source_name": "Quantum Zeitgeist",
+    "published_at": "2026-11-15T10:40:04.000Z",
+    "also_at": [],
+    "significance": 2,
+    "qv_device": null,
+    "qv_artifact": null
+  },
+  {
+    "id": "2026-11-15-1d-gaussian-modulation-simplifies-cv-qkd-complexity",
+    "date": "2026-11-15",
+    "category": "industry",
+    "title": "1D Gaussian modulation simplifies CV-QKD complexity",
+    "summary": null,
+    "url": "https://quantumzeitgeist.com/quantum-industrial-1d-gaussian-modulation-simplifies/",
+    "source": "quantum-zeitgeist",
+    "source_name": "Quantum Zeitgeist",
+    "published_at": "2026-11-15T10:39:58.000Z",
+    "also_at": [],
+    "significance": 2,
+    "qv_device": null,
+    "qv_artifact": null
+  },
+  {
+    "id": "2026-11-15-neon-film-cuts-energy-loss-in-superconducting-qubits-study-f",
+    "date": "2026-11-15",
+    "category": "industry",
+    "title": "Neon film cuts energy loss in superconducting qubits, study finds",
+    "summary": null,
+    "url": "https://quantumzeitgeist.com/arxiv-neon-film-cuts-energy-loss/",
+    "source": "quantum-zeitgeist",
+    "source_name": "Quantum Zeitgeist",
+    "published_at": "2026-11-15T10:39:51.000Z",
+    "also_at": [],
+    "significance": 2,
+    "qv_device": null,
+    "qv_artifact": null
+  },
+  {
+    "id": "2026-11-15-prediction-rigetti-computing-stock-will-be-worth-this-much-i",
+    "date": "2026-11-15",
+    "category": "industry",
+    "title": "Prediction: Rigetti Computing Stock Will Be Worth This Much in 1 Year - The Motley Fool",
+    "summary": null,
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPd0JTTUh6MC1kRzJVRUZHVUxwcl9DZG0wajEzNjNfdFpJbWgzMWdHdlplWV81ZTBuT1ZYcndPenJUOVJrX1BPaVpyZnM2M3ZONnN1OXNwU21WMUdneWc2MDdGUFpyQ25BaHNVS2xiNFBCTUJkclhMaThhTDd2ODVlUFNmSmhTQnBNR2dETUpwRnFwNHNJNHJKazI1MVRrRFZMNl8tWTNWMjg5UGh0c0ZzMQ?oc=5",
+    "source": "gnews-quantum",
+    "source_name": "Google News — quantum computing",
+    "published_at": "2026-11-15T12:15:00.000Z",
+    "also_at": [],
+    "significance": 2,
+    "qv_device": null,
+    "qv_artifact": null
+  },
+  {
+    "id": "2026-11-15-best-ideas-club-a-quantum-stock-turns-from-experiment-to-bus",
+    "date": "2026-11-15",
+    "category": "industry",
+    "title": "Best Ideas Club: A quantum stock turns from experiment to business - Opening Bell Daily",
+    "summary": null,
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQS2FRRFBPZVl6VW5WQ0hEcUdQY1dxVVVqZjZfTFYtdkJkSERpeHhkeGtVLUxaTFg3bUFvMmlYQVVKYkJWNlhha3hLOWpka1NRTWhNbVdTNG4zRF9zVVk3c2lval83ZE5xQ3EzVDJBN056T1pfejRpR3RsVDBsZ3FRVE5IYWlHRlpkTEE?oc=5",
+    "source": "gnews-quantum",
+    "source_name": "Google News — quantum computing",
+    "published_at": "2026-11-15T10:55:34.000Z",
+    "also_at": [],
+    "significance": 2,
+    "qv_device": null,
+    "qv_artifact": null
+  },
+  {
+    "id": "2026-11-15-quantum-neural-networks-may-need-fewer-cloud-jobs-with-new-m",
+    "date": "2026-11-15",
+    "category": "industry",
+    "title": "Quantum Neural Networks May Need Fewer Cloud Jobs With New Method - Quantum Zeitgeist",
+    "summary": null,
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5qWHVGLUpBOHVBYU5ZZDNWRV90dHFxa0VHNXhuNFdkV29kejlNRm9VQXRIcGtObWJNUGJjRVItUk5sMG1jcFNRbzc1NVNiTXB3ajlMVDhxVjhlelNCWFpGc241VFd2TWxiMHVuWndQYTBQeDlqaTVPSzRR?oc=5",
+    "source": "gnews-quantum",
+    "source_name": "Google News — quantum computing",
+    "published_at": "2026-11-15T09:33:45.000Z",
+    "also_at": [],
+    "significance": 2,
+    "qv_device": null,
+    "qv_artifact": null
+  },
+  {
+    "id": "2026-11-15-rigetti-computing-no-quantum-leap-for-overvalued-shares-mone",
+    "date": "2026-11-15",
+    "category": "industry",
+    "title": "Rigetti Computing – no quantum leap for overvalued shares - MoneyWeek",
+    "summary": null,
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCVlBBbFJ1Q0ZPdGhWT3FudE9CcnZTTzlURVpDdGdObjNVZVh0X1gzY2hIWVdBZU9UUG1DQ0s5b2o5MG1sNWtZSTkzSlVITWZmU1ZySFltTmJFOE5zNkNvSm85bkNEMXJyaHhyQU4wR2lXLWExeEIzTUxOQnFjUEk?oc=5",
+    "source": "gnews-quantum",
+    "source_name": "Google News — quantum computing",
+    "published_at": "2026-11-15T09:00:00.000Z",
+    "also_at": [],
+    "significance": 2,
+    "qv_device": null,
+    "qv_artifact": null
+  },
+  {
+    "id": "2026-11-15-6-technology-trends-that-will-transform-the-world-in-the-nex",
+    "date": "2026-11-15",
+    "category": "industry",
+    "title": "6 Technology Trends That Will Transform The World In The Next Decade - Forbes",
+    "summary": null,
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSjZRZ195ekFJSV9HQ2lrUl9aaDJaUUhYaHFfcDFFRE9TblNRNFFsZ183UWNjNHBtRkxDaUh6RENRQUdQd2k5V01rRExTLTR6Mm9rVDFiX1dPMDRrSW9NZ1dib2lOdXBVTHBQS1R2UHFCeW5yRElySk9nWDJWSjh1OVpzRUxNczl5S0FGNmdpTFVDTjlkaWVNQmRsWDlhMWdOOXBMcmNuRHFoQ21UZjVBVFo4X3VUNldsc1NXTmJR?oc=5",
+    "source": "gnews-quantum",
+    "source_name": "Google News — quantum computing",
+    "published_at": "2026-11-15T01:26:21.000Z",
+    "also_at": [],
+    "significance": 2,
+    "qv_device": null,
+    "qv_artifact": null
+  },
+  {
+    "id": "2026-11-15-purdue-researchers-probe-how-to-generate-and-control-photons",
+    "date": "2026-11-15",
+    "category": "industry",
+    "title": "Purdue researchers probe how to generate and control photons on quantum chips - The Brighter Side of News",
+    "summary": null,
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX3hWRllvMnVMYWIteXNOVjN0RGpSWFd5bzVzeUJFLXNjeXNyM3FkRXl2WHcyWkpiWlFVYnNTMFNTWEh4OTVLWmxJSWVFYlZfNWhKX1J0Z2hsY3ByVG1kOTI4VldjNWhkNjU1MHZycThXejBhQ2xCazJhZmJGMG90dE1nQWs3aDBxNW1iWUluQ2VjQ1daTXN0ZURqM2FjZWxYMEVNLWJSS3FYOWVDUGU1aW9xYUxMejg?oc=5",
+    "source": "gnews-quantum",
+    "source_name": "Google News — quantum computing",
+    "published_at": "2026-11-14T17:07:00.000Z",
+    "also_at": [],
+    "significance": 2,
+    "qv_device": null,
+    "qv_artifact": null
+  },
+  {
+    "id": "2026-11-15-prediction-this-quantum-computing-stock-will-be-worth-more-t",
+    "date": "2026-11-15",
+    "category": "industry",
+    "title": "Prediction: This Quantum Computing Stock Will Be Worth More Than IonQ 5 Years From Now - Yahoo Finance",
+    "summary": null,
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaVhwNjh0SUxJODRkaDZpT0FWR1FPTzM5REVLem9GNy1UR1VReTB5ZjlGOXFBSFJDNG1fWHV4MWVGSGFBZGpCeWVtUEJDTG1VMGNZQjV3aWJxNGVFZnZOZXhYR1dxNTFlaGRMdnhBU2NjQjB6cGNKbFNqaXJUellvOFF1Q0wxTEJVMmdhS3I2aDhXWnRyNHl0bFpQZ2ZhbjJhZk02d245YXQ?oc=5",
+    "source": "gnews-quantum",
+    "source_name": "Google News — quantum computing",
+    "published_at": "2026-11-14T16:42:00.000Z",
+    "also_at": [
+      {
+        "source": "gnews-quantum",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONVIzanI5VU9IeHFsLTZpM3NYRDJ2SlRCYnRwSXk1cURjcWQwN1Y1RW41WldiNHhtd1d6SDFlb0VhQ3dMV3NOc3p4Z1ZZOEdGOFQ0anhsT3RSY0tFdjhKWlRFNXhjTk5mM0Z5QUo5Y2hxd2kyYXRYaGtlclBzb013Mmw2OUNYaTdqYlJfVkVxSlRtaWY3RnBhbA?oc=5"
+      }
+    ],
+    "significance": 2,
+    "qv_device": null,
+    "qv_artifact": null
+  },
+  {
+    "id": "2026-11-15-quantum-computing-inc-posts-9-5-million-quarter-as-dirac-3s-",
+    "date": "2026-11-15",
+    "category": "industry",
+    "title": "Quantum Computing Inc. posts $9.5 million quarter as Dirac-3S nears first shipments - Crypto Briefing",
+    "summary": null,
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Ob3B2YnlqeFh4TU9QLWozS2pUdEFmZ1N5TWdpdG84dHNQVWhrdTF3NXpET0RFNEl0XzdCSDU3dWloU1lfdFZ4cy1JbHE4MmJqX0JLYS0xQ1BZUXkwZTlCeXRUSlZVOVhMMTZwYVo5VEVWckZu?oc=5",
+    "source": "gnews-quantum",
+    "source_name": "Google News — quantum computing",
+    "published_at": "2026-11-14T16:24:14.000Z",
+    "also_at": [],
+    "significance": 2,
+    "qv_device": null,
+    "qv_artifact": null
+  }
+]

@@ -5,7 +5,151 @@
     <link>https://karelgo.github.io/QuantumObservatory</link>
     <description>Everything that happened in quantum computing, collapsed into one daily digest. A QuantumVerse sister project.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Nov 2026 12:51:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 13:18:54 GMT</lastBuildDate>
+    <item>
+      <title>Making Quantum SDKs More Accessible: Lessons from Contributing to Qiskit</title>
+      <link>https://quantumcomputingreport.com/making-quantum-sdks-more-accessiblelessons-from-contributing-to-qiskit/</link>
+      <guid isPermaLink="false">2026-11-15-making-quantum-sdks-more-accessible-lessons-from-contributin</guid>
+      <pubDate>Sat, 14 Nov 2026 22:44:27 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Computing Report</description>
+    </item>
+    <item>
+      <title>Who’s News: Strategic Appointments at SemiQon, OrangeQS, IonQ, Haiqu, and Jij</title>
+      <link>https://quantumcomputingreport.com/whos-news-strategic-appointments-at-semiqon-orangeqs-ionq-haiqu-and-jij/</link>
+      <guid isPermaLink="false">2026-11-15-who-s-news-strategic-appointments-at-semiqon-orangeqs-ionq-h</guid>
+      <pubDate>Sat, 14 Nov 2026 18:26:53 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Computing Report</description>
+    </item>
+    <item>
+      <title>Quantum algorithm tackles jet identification with just five superconducting qubits</title>
+      <link>https://quantumzeitgeist.com/nazionale-fisica-quantum-algorithm-tackles-jet/</link>
+      <guid isPermaLink="false">2026-11-15-quantum-algorithm-tackles-jet-identification-with-just-five-</guid>
+      <pubDate>Sun, 15 Nov 2026 10:46:06 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Zeitgeist</description>
+    </item>
+    <item>
+      <title>Quantum dot energy gaps measured with a new spectroscopy technique</title>
+      <link>https://quantumzeitgeist.com/california-los-quantum-dot-energy-gaps/</link>
+      <guid isPermaLink="false">2026-11-15-quantum-dot-energy-gaps-measured-with-a-new-spectroscopy-tec</guid>
+      <pubDate>Sun, 15 Nov 2026 10:45:10 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Zeitgeist</description>
+    </item>
+    <item>
+      <title>Weizmann Institute finds dissipation explains quantum Hall-superconductor junctions</title>
+      <link>https://quantumzeitgeist.com/weizmann-institute-quantum-hall-superconductor-junctions/</link>
+      <guid isPermaLink="false">2026-11-15-weizmann-institute-finds-dissipation-explains-quantum-hall-s</guid>
+      <pubDate>Sun, 15 Nov 2026 10:45:04 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Zeitgeist</description>
+    </item>
+    <item>
+      <title>Technischen Hochschule Deggendorf’s Institute Future Technologies leads quantum computing consortium</title>
+      <link>https://quantumzeitgeist.com/quanda-deggendorf-institute-technology-aims/</link>
+      <guid isPermaLink="false">2026-11-15-technischen-hochschule-deggendorf-s-institute-future-technol</guid>
+      <pubDate>Sun, 15 Nov 2026 10:44:38 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Zeitgeist</description>
+    </item>
+    <item>
+      <title>Holographic models link critical dynamics to quantum scrambling timescales</title>
+      <link>https://quantumzeitgeist.com/dibrugarh-university-holographic-demonstration-quantum-link/</link>
+      <guid isPermaLink="false">2026-11-15-holographic-models-link-critical-dynamics-to-quantum-scrambl</guid>
+      <pubDate>Sun, 15 Nov 2026 10:40:25 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Zeitgeist</description>
+    </item>
+    <item>
+      <title>Qubit parity symmetry protects against dielectric loss</title>
+      <link>https://quantumzeitgeist.com/physique-lecole-qubit-parity-symmetry-protects/</link>
+      <guid isPermaLink="false">2026-11-15-qubit-parity-symmetry-protects-against-dielectric-loss</guid>
+      <pubDate>Sun, 15 Nov 2026 10:40:04 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Zeitgeist</description>
+    </item>
+    <item>
+      <title>1D Gaussian modulation simplifies CV-QKD complexity</title>
+      <link>https://quantumzeitgeist.com/quantum-industrial-1d-gaussian-modulation-simplifies/</link>
+      <guid isPermaLink="false">2026-11-15-1d-gaussian-modulation-simplifies-cv-qkd-complexity</guid>
+      <pubDate>Sun, 15 Nov 2026 10:39:58 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Zeitgeist</description>
+    </item>
+    <item>
+      <title>Neon film cuts energy loss in superconducting qubits, study finds</title>
+      <link>https://quantumzeitgeist.com/arxiv-neon-film-cuts-energy-loss/</link>
+      <guid isPermaLink="false">2026-11-15-neon-film-cuts-energy-loss-in-superconducting-qubits-study-f</guid>
+      <pubDate>Sun, 15 Nov 2026 10:39:51 GMT</pubDate>
+      <category>industry</category>
+      <description>via Quantum Zeitgeist</description>
+    </item>
+    <item>
+      <title>Prediction: Rigetti Computing Stock Will Be Worth This Much in 1 Year - The Motley Fool</title>
+      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxPd0JTTUh6MC1kRzJVRUZHVUxwcl9DZG0wajEzNjNfdFpJbWgzMWdHdlplWV81ZTBuT1ZYcndPenJUOVJrX1BPaVpyZnM2M3ZONnN1OXNwU21WMUdneWc2MDdGUFpyQ25BaHNVS2xiNFBCTUJkclhMaThhTDd2ODVlUFNmSmhTQnBNR2dETUpwRnFwNHNJNHJKazI1MVRrRFZMNl8tWTNWMjg5UGh0c0ZzMQ?oc=5</link>
+      <guid isPermaLink="false">2026-11-15-prediction-rigetti-computing-stock-will-be-worth-this-much-i</guid>
+      <pubDate>Sun, 15 Nov 2026 12:15:00 GMT</pubDate>
+      <category>industry</category>
+      <description>via Google News — quantum computing</description>
+    </item>
+    <item>
+      <title>Best Ideas Club: A quantum stock turns from experiment to business - Opening Bell Daily</title>
+      <link>https://news.google.com/rss/articles/CBMiigFBVV95cUxQS2FRRFBPZVl6VW5WQ0hEcUdQY1dxVVVqZjZfTFYtdkJkSERpeHhkeGtVLUxaTFg3bUFvMmlYQVVKYkJWNlhha3hLOWpka1NRTWhNbVdTNG4zRF9zVVk3c2lval83ZE5xQ3EzVDJBN056T1pfejRpR3RsVDBsZ3FRVE5IYWlHRlpkTEE?oc=5</link>
+      <guid isPermaLink="false">2026-11-15-best-ideas-club-a-quantum-stock-turns-from-experiment-to-bus</guid>
+      <pubDate>Sun, 15 Nov 2026 10:55:34 GMT</pubDate>
+      <category>industry</category>
+      <description>via Google News — quantum computing</description>
+    </item>
+    <item>
+      <title>Quantum Neural Networks May Need Fewer Cloud Jobs With New Method - Quantum Zeitgeist</title>
+      <link>https://news.google.com/rss/articles/CBMiekFVX3lxTE5qWHVGLUpBOHVBYU5ZZDNWRV90dHFxa0VHNXhuNFdkV29kejlNRm9VQXRIcGtObWJNUGJjRVItUk5sMG1jcFNRbzc1NVNiTXB3ajlMVDhxVjhlelNCWFpGc241VFd2TWxiMHVuWndQYTBQeDlqaTVPSzRR?oc=5</link>
+      <guid isPermaLink="false">2026-11-15-quantum-neural-networks-may-need-fewer-cloud-jobs-with-new-m</guid>
+      <pubDate>Sun, 15 Nov 2026 09:33:45 GMT</pubDate>
+      <category>industry</category>
+      <description>via Google News — quantum computing</description>
+    </item>
+    <item>
+      <title>Rigetti Computing – no quantum leap for overvalued shares - MoneyWeek</title>
+      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTFBCVlBBbFJ1Q0ZPdGhWT3FudE9CcnZTTzlURVpDdGdObjNVZVh0X1gzY2hIWVdBZU9UUG1DQ0s5b2o5MG1sNWtZSTkzSlVITWZmU1ZySFltTmJFOE5zNkNvSm85bkNEMXJyaHhyQU4wR2lXLWExeEIzTUxOQnFjUEk?oc=5</link>
+      <guid isPermaLink="false">2026-11-15-rigetti-computing-no-quantum-leap-for-overvalued-shares-mone</guid>
+      <pubDate>Sun, 15 Nov 2026 09:00:00 GMT</pubDate>
+      <category>industry</category>
+      <description>via Google News — quantum computing</description>
+    </item>
+    <item>
+      <title>6 Technology Trends That Will Transform The World In The Next Decade - Forbes</title>
+      <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxNSjZRZ195ekFJSV9HQ2lrUl9aaDJaUUhYaHFfcDFFRE9TblNRNFFsZ183UWNjNHBtRkxDaUh6RENRQUdQd2k5V01rRExTLTR6Mm9rVDFiX1dPMDRrSW9NZ1dib2lOdXBVTHBQS1R2UHFCeW5yRElySk9nWDJWSjh1OVpzRUxNczl5S0FGNmdpTFVDTjlkaWVNQmRsWDlhMWdOOXBMcmNuRHFoQ21UZjVBVFo4X3VUNldsc1NXTmJR?oc=5</link>
+      <guid isPermaLink="false">2026-11-15-6-technology-trends-that-will-transform-the-world-in-the-nex</guid>
+      <pubDate>Sun, 15 Nov 2026 01:26:21 GMT</pubDate>
+      <category>industry</category>
+      <description>via Google News — quantum computing</description>
+    </item>
+    <item>
+      <title>Purdue researchers probe how to generate and control photons on quantum chips - The Brighter Side of News</title>
+      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxNX3hWRllvMnVMYWIteXNOVjN0RGpSWFd5bzVzeUJFLXNjeXNyM3FkRXl2WHcyWkpiWlFVYnNTMFNTWEh4OTVLWmxJSWVFYlZfNWhKX1J0Z2hsY3ByVG1kOTI4VldjNWhkNjU1MHZycThXejBhQ2xCazJhZmJGMG90dE1nQWs3aDBxNW1iWUluQ2VjQ1daTXN0ZURqM2FjZWxYMEVNLWJSS3FYOWVDUGU1aW9xYUxMejg?oc=5</link>
+      <guid isPermaLink="false">2026-11-15-purdue-researchers-probe-how-to-generate-and-control-photons</guid>
+      <pubDate>Sat, 14 Nov 2026 17:07:00 GMT</pubDate>
+      <category>industry</category>
+      <description>via Google News — quantum computing</description>
+    </item>
+    <item>
+      <title>Prediction: This Quantum Computing Stock Will Be Worth More Than IonQ 5 Years From Now - Yahoo Finance</title>
+      <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaVhwNjh0SUxJODRkaDZpT0FWR1FPTzM5REVLem9GNy1UR1VReTB5ZjlGOXFBSFJDNG1fWHV4MWVGSGFBZGpCeWVtUEJDTG1VMGNZQjV3aWJxNGVFZnZOZXhYR1dxNTFlaGRMdnhBU2NjQjB6cGNKbFNqaXJUellvOFF1Q0wxTEJVMmdhS3I2aDhXWnRyNHl0bFpQZ2ZhbjJhZk02d245YXQ?oc=5</link>
+      <guid isPermaLink="false">2026-11-15-prediction-this-quantum-computing-stock-will-be-worth-more-t</guid>
+      <pubDate>Sat, 14 Nov 2026 16:42:00 GMT</pubDate>
+      <category>industry</category>
+      <description>via Google News — quantum computing</description>
+    </item>
+    <item>
+      <title>Quantum Computing Inc. posts $9.5 million quarter as Dirac-3S nears first shipments - Crypto Briefing</title>
+      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE5Ob3B2YnlqeFh4TU9QLWozS2pUdEFmZ1N5TWdpdG84dHNQVWhrdTF3NXpET0RFNEl0XzdCSDU3dWloU1lfdFZ4cy1JbHE4MmJqX0JLYS0xQ1BZUXkwZTlCeXRUSlZVOVhMMTZwYVo5VEVWckZu?oc=5</link>
+      <guid isPermaLink="false">2026-11-15-quantum-computing-inc-posts-9-5-million-quarter-as-dirac-3s-</guid>
+      <pubDate>Sat, 14 Nov 2026 16:24:14 GMT</pubDate>
+      <category>industry</category>
+      <description>via Google News — quantum computing</description>
+    </item>
     <item>
       <title>Atom Computing Finalizes $100 Million U.S. Department of Commerce R&amp;D Award</title>
       <link>https://thequantuminsider.com/2026/11/13/atom-computing-finalizes-100-million-u-s-department-of-commerce-rd-award/</link>
@@ -261,150 +405,6 @@
       <pubDate>Sat, 14 Nov 2026 07:07:00 GMT</pubDate>
       <category>industry</category>
       <description>via Google News — quantum computing</description>
-    </item>
-    <item>
-      <title>Heat drives electron orbital currents, revealing first experimental evidence of orbital Nernst effect</title>
-      <link>https://phys.org/news/2026-11-electron-orbital-currents-revealing-experimental.html</link>
-      <guid isPermaLink="false">2026-11-14-heat-drives-electron-orbital-currents-revealing-first-experi</guid>
-      <pubDate>Fri, 13 Nov 2026 17:00:12 GMT</pubDate>
-      <category>research</category>
-      <description>via Phys.org — Quantum Physics</description>
-    </item>
-    <item>
-      <title>Classical Light Dynamics Could Help Simulate Quantum Interactions</title>
-      <link>https://thequantuminsider.com/2026/11/13/classical-light-dynamics-could-help-simulate-quantum-interactions/</link>
-      <guid isPermaLink="false">2026-11-13-classical-light-dynamics-could-help-simulate-quantum-interac</guid>
-      <pubDate>Fri, 13 Nov 2026 09:01:36 GMT</pubDate>
-      <category>industry</category>
-      <description>via The Quantum Insider</description>
-    </item>
-    <item>
-      <title>University at Buffalo Study Decodes Quantum Material’s ‘Optical Dingerprints’</title>
-      <link>https://thequantuminsider.com/2026/11/13/university-at-buffalo-study-decodes-quantum-materials-optical-dingerprints/</link>
-      <guid isPermaLink="false">2026-11-13-university-at-buffalo-study-decodes-quantum-material-s-optic</guid>
-      <pubDate>Fri, 13 Nov 2026 08:48:53 GMT</pubDate>
-      <category>industry</category>
-      <description>via The Quantum Insider</description>
-    </item>
-    <item>
-      <title>The Geometry of Quantum Memory: How Anyons Rewrite the Rules of Remembering and Computation in the Quantum Realm</title>
-      <link>https://thequantuminsider.com/2026/11/13/the-geometry-of-quantum-memory-how-anyons-rewrite-the-rules-of-remembering-and-computation-in-the-quantum-realm/</link>
-      <guid isPermaLink="false">2026-11-13-the-geometry-of-quantum-memory-how-anyons-rewrite-the-rules-</guid>
-      <pubDate>Fri, 13 Nov 2026 02:40:00 GMT</pubDate>
-      <category>industry</category>
-      <description>via The Quantum Insider</description>
-    </item>
-    <item>
-      <title>Train the Trainer: Inside MAHE’s Hardware-First Bet on Quantum</title>
-      <link>https://thequantuminsider.com/2026/11/12/train-the-trainer-inside-mahes-hardware-first-bet-on-quantum/</link>
-      <guid isPermaLink="false">2026-11-13-train-the-trainer-inside-mahe-s-hardware-first-bet-on-quantu</guid>
-      <pubDate>Thu, 12 Nov 2026 17:51:35 GMT</pubDate>
-      <category>industry</category>
-      <description>via The Quantum Insider</description>
-    </item>
-    <item>
-      <title>Haiqu Appoints Kortny Rolston-Duce to Lead Ecosystem Development and Marketing</title>
-      <link>https://thequantuminsider.com/2026/11/12/haiqu-appoints-kortny-rolston-duce-ecosystem-development-marketing/</link>
-      <guid isPermaLink="false">2026-11-13-haiqu-appoints-kortny-rolston-duce-to-lead-ecosystem-develop</guid>
-      <pubDate>Thu, 12 Nov 2026 16:19:28 GMT</pubDate>
-      <category>industry</category>
-      <description>via The Quantum Insider</description>
-    </item>
-    <item>
-      <title>Qedma Appoints Scott Aaronson to Its Scientific Advisory Board</title>
-      <link>https://thequantuminsider.com/2026/11/12/qedma-appoints-scott-aaronson-scientific-advisory-board/</link>
-      <guid isPermaLink="false">2026-11-13-qedma-appoints-scott-aaronson-to-its-scientific-advisory-boa</guid>
-      <pubDate>Thu, 12 Nov 2026 16:04:33 GMT</pubDate>
-      <category>industry</category>
-      <description>via The Quantum Insider</description>
-    </item>
-    <item>
-      <title>PsiQuantum and AMD Expand Partnership on Quantum Computing Infrastructure</title>
-      <link>https://thequantuminsider.com/2026/11/12/psiquantum-amd-expand-quantum-computing-infrastructure-partnership/</link>
-      <guid isPermaLink="false">2026-11-13-psiquantum-and-amd-expand-partnership-on-quantum-computing-i</guid>
-      <pubDate>Thu, 12 Nov 2026 15:54:57 GMT</pubDate>
-      <category>industry</category>
-      <description>via The Quantum Insider</description>
-    </item>
-    <item>
-      <title>FAU Receives $3 Million Award for Quantum Workforce Development</title>
-      <link>https://thequantuminsider.com/2026/11/12/fau-3-million-award-quantum-workforce-development/</link>
-      <guid isPermaLink="false">2026-11-13-fau-receives-3-million-award-for-quantum-workforce-developme</guid>
-      <pubDate>Thu, 12 Nov 2026 15:49:35 GMT</pubDate>
-      <category>industry</category>
-      <description>via The Quantum Insider</description>
-    </item>
-    <item>
-      <title>Qunova Computing Achieves Chemical Accuracy at 80 Qubits on Iron-Sulfur Cluster Using IBM Quantum System Two and Fugaku</title>
-      <link>https://quantumcomputingreport.com/qunova-computing-achieves-chemical-accuracy-at-80-qubits-on-iron-sulfur-cluster-using-ibm-quantum-system-two-and-fugaku/</link>
-      <guid isPermaLink="false">2026-11-13-qunova-computing-achieves-chemical-accuracy-at-80-qubits-on-</guid>
-      <pubDate>Fri, 13 Nov 2026 03:02:16 GMT</pubDate>
-      <category>industry</category>
-      <description>via Quantum Computing Report</description>
-    </item>
-    <item>
-      <title>Cleveland Clinic, RIKEN, and IBM Cross 12,000-Atom Barrier in Heterogeneous Quantum-Classical Drug Binding Simulations</title>
-      <link>https://quantumcomputingreport.com/cleveland-clinic-riken-and-ibm-cross-12000-atom-barrier-in-heterogeneous-quantum-classical-drug-binding-simulations/</link>
-      <guid isPermaLink="false">2026-11-13-cleveland-clinic-riken-and-ibm-cross-12-000-atom-barrier-in-</guid>
-      <pubDate>Fri, 13 Nov 2026 03:01:11 GMT</pubDate>
-      <category>industry</category>
-      <description>via Quantum Computing Report</description>
-    </item>
-    <item>
-      <title>LTM Becomes First Global Systems Integrator to Launch Function in IBM Quantum Functions Catalog with AI-QEM</title>
-      <link>https://quantumcomputingreport.com/ltm-becomes-first-global-systems-integrator-to-launch-function-in-ibm-quantum-functions-catalog-with-ai-qem/</link>
-      <guid isPermaLink="false">2026-11-13-ltm-becomes-first-global-systems-integrator-to-launch-functi</guid>
-      <pubDate>Fri, 13 Nov 2026 02:37:56 GMT</pubDate>
-      <category>industry</category>
-      <description>via Quantum Computing Report</description>
-    </item>
-    <item>
-      <title>Kipu Quantum Launches Rimay Quantum Feature Extraction in IBM Quantum Functions Catalog</title>
-      <link>https://quantumcomputingreport.com/kipu-quantum-launches-rimay-quantum-feature-extraction-in-ibm-quantum-functions-catalog/</link>
-      <guid isPermaLink="false">2026-11-13-kipu-quantum-launches-rimay-quantum-feature-extraction-in-ib</guid>
-      <pubDate>Fri, 13 Nov 2026 01:15:01 GMT</pubDate>
-      <category>industry</category>
-      <description>via Quantum Computing Report</description>
-    </item>
-    <item>
-      <title>PsiQuantum and AMD Expand Partnership with Equity Investment to Co-Design Utility-Scale Quantum Infrastructure</title>
-      <link>https://quantumcomputingreport.com/psiquantum-and-amd-expand-partnership-with-equity-investment-to-co-design-utility-scale-quantum-infrastructure/</link>
-      <guid isPermaLink="false">2026-11-13-psiquantum-and-amd-expand-partnership-with-equity-investment</guid>
-      <pubDate>Fri, 13 Nov 2026 00:57:02 GMT</pubDate>
-      <category>industry</category>
-      <description>via Quantum Computing Report</description>
-    </item>
-    <item>
-      <title>Scientists may be one step closer to a ‘quantum nose’ for sensing</title>
-      <link>https://quantumzeitgeist.com/northwestern-university-quantum-nose-sensing-one/</link>
-      <guid isPermaLink="false">2026-11-13-scientists-may-be-one-step-closer-to-a-quantum-nose-for-sens</guid>
-      <pubDate>Fri, 13 Nov 2026 13:11:36 GMT</pubDate>
-      <category>industry</category>
-      <description>via Quantum Zeitgeist</description>
-    </item>
-    <item>
-      <title>Symmetry in quantum neural networks boosts accuracy on image tasks</title>
-      <link>https://quantumzeitgeist.com/universita-degli-symmetry-quantum-neural-networks/</link>
-      <guid isPermaLink="false">2026-11-13-symmetry-in-quantum-neural-networks-boosts-accuracy-on-image</guid>
-      <pubDate>Fri, 13 Nov 2026 11:43:49 GMT</pubDate>
-      <category>industry</category>
-      <description>via Quantum Zeitgeist</description>
-    </item>
-    <item>
-      <title>Lumen invests in quantum networking research at Ohio State</title>
-      <link>https://quantumzeitgeist.com/lumen-investment-quantum-invests-networking-research/</link>
-      <guid isPermaLink="false">2026-11-13-lumen-invests-in-quantum-networking-research-at-ohio-state</guid>
-      <pubDate>Fri, 13 Nov 2026 11:43:41 GMT</pubDate>
-      <category>industry</category>
-      <description>via Quantum Zeitgeist</description>
-    </item>
-    <item>
-      <title>RIKEN, IBM and Cleveland Clinic run quantum chemistry on 12,635-atom system</title>
-      <link>https://quantumzeitgeist.com/cleveland-clinic-quantum-chemistry-system-riken/</link>
-      <guid isPermaLink="false">2026-11-13-riken-ibm-and-cleveland-clinic-run-quantum-chemistry-on-12-6</guid>
-      <pubDate>Fri, 13 Nov 2026 11:30:55 GMT</pubDate>
-      <category>industry</category>
-      <description>via Quantum Zeitgeist</description>
     </item>
   </channel>
 </rss>
