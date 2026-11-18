@@ -1,7 +1,16 @@
 {
-  "generated_at": "2026-11-17T15:22:52.666Z",
-  "latest": "2026-11-17",
+  "generated_at": "2026-11-18T14:57:32.395Z",
+  "latest": "2026-11-18",
   "days": [
+    {
+      "date": "2026-11-18",
+      "count": 57,
+      "categories": {
+        "industry": 42,
+        "software": 1,
+        "research": 14
+      }
+    },
     {
       "date": "2026-11-17",
       "count": 58,
